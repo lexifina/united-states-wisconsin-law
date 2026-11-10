@@ -1,0 +1,71 @@
+# Wisconsin Statutes, Chapter 75: Land sold for taxes
+
+Wis. Stat. ch. 75 · 1 versions, from 2026-10-01 (latest in force: 2026-10-01) · <https://docs.legis.wisconsin.gov/statutes/statutes/75>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Wis. Stat. § 75.001 | [sec-0075-00100.md](sec-0075-00100.md) | 0 |  |
+| Wis. Stat. § 75.002 | [sec-0075-00200.md](sec-0075-00200.md) | 0 |  |
+| Wis. Stat. § 75.01 | [sec-0075-01000.md](sec-0075-01000.md) | 0 |  |
+| Wis. Stat. § 75.03 | [sec-0075-03000.md](sec-0075-03000.md) | 0 |  |
+| Wis. Stat. § 75.04 | [sec-0075-04000.md](sec-0075-04000.md) | 0 |  |
+| Wis. Stat. § 75.05 | [sec-0075-05000.md](sec-0075-05000.md) | 0 |  |
+| Wis. Stat. § 75.06 | [sec-0075-06000.md](sec-0075-06000.md) | 0 |  |
+| Wis. Stat. § 75.07 | [sec-0075-07000.md](sec-0075-07000.md) | 0 |  |
+| Wis. Stat. § 75.09 | [sec-0075-09000.md](sec-0075-09000.md) | 0 |  |
+| Wis. Stat. § 75.10 | [sec-0075-10000.md](sec-0075-10000.md) | 0 |  |
+| Wis. Stat. § 75.105 | [sec-0075-10500.md](sec-0075-10500.md) | 0 |  |
+| Wis. Stat. § 75.106 | [sec-0075-10600.md](sec-0075-10600.md) | 0 |  |
+| Wis. Stat. § 75.11 | [sec-0075-11000.md](sec-0075-11000.md) | 0 |  |
+| Wis. Stat. § 75.115 | [sec-0075-11500.md](sec-0075-11500.md) | 0 |  |
+| Wis. Stat. § 75.12 | [sec-0075-12000.md](sec-0075-12000.md) | 0 |  |
+| Wis. Stat. § 75.13 | [sec-0075-13000.md](sec-0075-13000.md) | 0 |  |
+| Wis. Stat. § 75.14 | [sec-0075-14000.md](sec-0075-14000.md) | 0 |  |
+| Wis. Stat. § 75.143 | [sec-0075-14300.md](sec-0075-14300.md) | 0 |  |
+| Wis. Stat. § 75.144 | [sec-0075-14400.md](sec-0075-14400.md) | 0 |  |
+| Wis. Stat. § 75.145 | [sec-0075-14500.md](sec-0075-14500.md) | 0 |  |
+| Wis. Stat. § 75.16 | [sec-0075-16000.md](sec-0075-16000.md) | 0 |  |
+| Wis. Stat. § 75.17 | [sec-0075-17000.md](sec-0075-17000.md) | 0 |  |
+| Wis. Stat. § 75.19 | [sec-0075-19000.md](sec-0075-19000.md) | 0 |  |
+| Wis. Stat. § 75.195 | [sec-0075-19500.md](sec-0075-19500.md) | 0 |  |
+| Wis. Stat. § 75.20 | [sec-0075-20000.md](sec-0075-20000.md) | 0 |  |
+| Wis. Stat. § 75.22 | [sec-0075-22000.md](sec-0075-22000.md) | 0 |  |
+| Wis. Stat. § 75.23 | [sec-0075-23000.md](sec-0075-23000.md) | 0 |  |
+| Wis. Stat. § 75.24 | [sec-0075-24000.md](sec-0075-24000.md) | 0 |  |
+| Wis. Stat. § 75.25 | [sec-0075-25000.md](sec-0075-25000.md) | 0 |  |
+| Wis. Stat. § 75.26 | [sec-0075-26000.md](sec-0075-26000.md) | 0 |  |
+| Wis. Stat. § 75.27 | [sec-0075-27000.md](sec-0075-27000.md) | 0 |  |
+| Wis. Stat. § 75.28 | [sec-0075-28000.md](sec-0075-28000.md) | 0 |  |
+| Wis. Stat. § 75.285 | [sec-0075-28500.md](sec-0075-28500.md) | 0 |  |
+| Wis. Stat. § 75.29 | [sec-0075-29000.md](sec-0075-29000.md) | 0 |  |
+| Wis. Stat. § 75.30 | [sec-0075-30000.md](sec-0075-30000.md) | 0 |  |
+| Wis. Stat. § 75.31 | [sec-0075-31000.md](sec-0075-31000.md) | 0 |  |
+| Wis. Stat. § 75.32 | [sec-0075-32000.md](sec-0075-32000.md) | 0 |  |
+| Wis. Stat. § 75.35 | [sec-0075-35000.md](sec-0075-35000.md) | 0 |  |
+| Wis. Stat. § 75.36 | [sec-0075-36000.md](sec-0075-36000.md) | 0 |  |
+| Wis. Stat. § 75.365 | [sec-0075-36500.md](sec-0075-36500.md) | 0 |  |
+| Wis. Stat. § 75.37 | [sec-0075-37000.md](sec-0075-37000.md) | 0 |  |
+| Wis. Stat. § 75.375 | [sec-0075-37500.md](sec-0075-37500.md) | 0 |  |
+| Wis. Stat. § 75.377 | [sec-0075-37700.md](sec-0075-37700.md) | 0 |  |
+| Wis. Stat. § 75.39 | [sec-0075-39000.md](sec-0075-39000.md) | 0 |  |
+| Wis. Stat. § 75.40 | [sec-0075-40000.md](sec-0075-40000.md) | 0 |  |
+| Wis. Stat. § 75.41 | [sec-0075-41000.md](sec-0075-41000.md) | 0 |  |
+| Wis. Stat. § 75.42 | [sec-0075-42000.md](sec-0075-42000.md) | 0 |  |
+| Wis. Stat. § 75.43 | [sec-0075-43000.md](sec-0075-43000.md) | 0 |  |
+| Wis. Stat. § 75.44 | [sec-0075-44000.md](sec-0075-44000.md) | 0 |  |
+| Wis. Stat. § 75.45 | [sec-0075-45000.md](sec-0075-45000.md) | 0 |  |
+| Wis. Stat. § 75.46 | [sec-0075-46000.md](sec-0075-46000.md) | 0 |  |
+| Wis. Stat. § 75.47 | [sec-0075-47000.md](sec-0075-47000.md) | 0 |  |
+| Wis. Stat. § 75.48 | [sec-0075-48000.md](sec-0075-48000.md) | 0 |  |
+| Wis. Stat. § 75.49 | [sec-0075-49000.md](sec-0075-49000.md) | 0 |  |
+| Wis. Stat. § 75.50 | [sec-0075-50000.md](sec-0075-50000.md) | 0 |  |
+| Wis. Stat. § 75.52 | [sec-0075-52000.md](sec-0075-52000.md) | 0 |  |
+| Wis. Stat. § 75.521 | [sec-0075-52100.md](sec-0075-52100.md) | 0 |  |
+| Wis. Stat. § 75.54 | [sec-0075-54000.md](sec-0075-54000.md) | 0 |  |
+| Wis. Stat. § 75.55 | [sec-0075-55000.md](sec-0075-55000.md) | 0 |  |
+| Wis. Stat. § 75.61 | [sec-0075-61000.md](sec-0075-61000.md) | 0 |  |
+| Wis. Stat. § 75.62 | [sec-0075-62000.md](sec-0075-62000.md) | 0 |  |
+| Wis. Stat. § 75.63 | [sec-0075-63000.md](sec-0075-63000.md) | 0 |  |
+| Wis. Stat. § 75.64 | [sec-0075-64000.md](sec-0075-64000.md) | 0 |  |
+| Wis. Stat. § 75.67 | [sec-0075-67000.md](sec-0075-67000.md) | 0 |  |
+| Wis. Stat. § 75.69 | [sec-0075-69000.md](sec-0075-69000.md) | 0 |  |

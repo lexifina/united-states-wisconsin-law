@@ -1,0 +1,1489 @@
+{
+ "country": "US-WI",
+ "acts": [
+  {
+   "slug": "chapter-0001",
+   "short": "Wis. Stat. ch. 1",
+   "title": "Wisconsin Statutes, Chapter 1: Sovereignty and jurisdiction of the state",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/1",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20261026200711/https://docs.legis.wisconsin.gov/statutes/statutes/1.pdf",
+     "sha256": "553637e549ed68ac2521c55d002a31a9be7e225ba364890abb1d2579c0500d46"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0002",
+   "short": "Wis. Stat. ch. 2",
+   "title": "Wisconsin Statutes, Chapter 2: Division of the state into counties, and their boundaries",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/2",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261027114456/https://docs.legis.wisconsin.gov/statutes/statutes/2.pdf",
+     "sha256": "6143fc094cbcb45f9918e797986d18519a6f697dcfd68a6422abd8ebf78f6657"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0003",
+   "short": "Wis. Stat. ch. 3",
+   "title": "Wisconsin Statutes, Chapter 3: Congressional districts",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/3",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20261030001650/https://docs.legis.wisconsin.gov/statutes/statutes/3.pdf",
+     "sha256": "de79464291a8e3b26cc43d5cdeb8a3255e892b1f07f0fc1816aed7dfe0b55c71"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0004",
+   "short": "Wis. Stat. ch. 4",
+   "title": "Wisconsin Statutes, Chapter 4: Senate and assembly districts",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/4",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 104,
+     "source_url": "https://web.archive.org/web/20261026030018/https://docs.legis.wisconsin.gov/statutes/statutes/4.pdf",
+     "sha256": "91b584026e55844e23beb62b67b10385a3b03f78fd6bb742489e0e868404a04c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0005",
+   "short": "Wis. Stat. ch. 5",
+   "title": "Wisconsin Statutes, Chapter 5: Elections - general provisions; ballots and voting systems",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/5",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20261019215641/https://docs.legis.wisconsin.gov/statutes/statutes/5.pdf",
+     "sha256": "a10e9e6ae074474799ce8197f7d0d325e87a104996df4f9a1d6f8b7ac65eaf56"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0006",
+   "short": "Wis. Stat. ch. 6",
+   "title": "Wisconsin Statutes, Chapter 6: The electors",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/6",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20261029114909/https://docs.legis.wisconsin.gov/statutes/statutes/6.pdf",
+     "sha256": "862e925eb4f440a4ca76731dd2123ca75278cba787ca0bae288ef215eeb859b5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0007",
+   "short": "Wis. Stat. ch. 7",
+   "title": "Wisconsin Statutes, Chapter 7: Election officials; boards; selection and duties; canvassing",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/7",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20261014193701/https://docs.legis.wisconsin.gov/statutes/statutes/7.pdf",
+     "sha256": "cc16f6f06ac6235b56a2be91c3f06ab216ceb207cd647bfa767ba2d74d131251"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0008",
+   "short": "Wis. Stat. ch. 8",
+   "title": "Wisconsin Statutes, Chapter 8: Nominations, primaries, elections",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/8",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20261031221513/https://docs.legis.wisconsin.gov/statutes/statutes/8.pdf",
+     "sha256": "13a1646d64e723e6efd35783081f835bcc52901dc22a572e3119edb80d6a6960"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0009",
+   "short": "Wis. Stat. ch. 9",
+   "title": "Wisconsin Statutes, Chapter 9: Post-election actions; direct legislation",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/9",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20261019162649/https://docs.legis.wisconsin.gov/statutes/statutes/9.pdf",
+     "sha256": "857937915798513d804bb325c7123d26880aa8a58bbc2012fa6162412944a761"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0010",
+   "short": "Wis. Stat. ch. 10",
+   "title": "Wisconsin Statutes, Chapter 10: Election notices",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/10",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260321040334/https://docs.legis.wisconsin.gov/statutes/statutes/10.pdf",
+     "sha256": "a4a6a2da8096e5d1a5c940cf31f0d74ffebb1d6bada6b48dbd21cc60fc457548"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0011",
+   "short": "Wis. Stat. ch. 11",
+   "title": "Wisconsin Statutes, Chapter 11: Campaign financing",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/11",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 74,
+     "source_url": "https://web.archive.org/web/20261031195546/https://docs.legis.wisconsin.gov/statutes/statutes/11.pdf",
+     "sha256": "74831dd3b0f2d67ccb2e76f2e6c17eb0704f6f8c6d3a529c8463ff59f527edd6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0012",
+   "short": "Wis. Stat. ch. 12",
+   "title": "Wisconsin Statutes, Chapter 12: Prohibited election practices",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/12",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261030050403/https://docs.legis.wisconsin.gov/statutes/statutes/12.pdf",
+     "sha256": "e4b3bc1d25137d1812a1d3a1af8bac3db73433bf97a751e63de1e759b2f7b9c4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0013",
+   "short": "Wis. Stat. ch. 13",
+   "title": "Wisconsin Statutes, Chapter 13: Legislative branch",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/13",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 111,
+     "source_url": "https://web.archive.org/web/20261025081412/https://docs.legis.wisconsin.gov/statutes/statutes/13.pdf",
+     "sha256": "24e0351e60d2b6e98a240f1fa940774e8aabdbcce893d5241dfd67a94820804c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0014",
+   "short": "Wis. Stat. ch. 14",
+   "title": "Wisconsin Statutes, Chapter 14: Constitutional offices and interstate bodies",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/14",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 65,
+     "source_url": "https://web.archive.org/web/20261016214849/https://docs.legis.wisconsin.gov/statutes/statutes/14.pdf",
+     "sha256": "daf19c3fe2c2ed2871df727bd705170d3bbca09d6e0675ed6759cdbea9d03fc3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0015",
+   "short": "Wis. Stat. ch. 15",
+   "title": "Wisconsin Statutes, Chapter 15: Structure of the executive branch",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/15",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 90,
+     "source_url": "https://web.archive.org/web/20261026021305/https://docs.legis.wisconsin.gov/statutes/statutes/15.pdf",
+     "sha256": "5dda0b8d7533c0128abfdd9e93ec39d3987001e2f5520f4dfc9ccc2b0144744d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0016",
+   "short": "Wis. Stat. ch. 16",
+   "title": "Wisconsin Statutes, Chapter 16: Department of administration",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/16",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 187,
+     "source_url": "https://web.archive.org/web/20260411083421/https://docs.legis.wisconsin.gov/statutes/statutes/16.pdf",
+     "sha256": "0aaad5d0816dd3cf47c3a5d021f499de2c8d51f5e906f0bd4c952641ecae759c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0017",
+   "short": "Wis. Stat. ch. 17",
+   "title": "Wisconsin Statutes, Chapter 17: Resignations, vacancies, and removals from office",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/17",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20261019181834/https://docs.legis.wisconsin.gov/statutes/statutes/17.pdf",
+     "sha256": "94ea969399d793800783fb73f414a65d36afbb84d300d6c55fd7c871af9b0a77"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0018",
+   "short": "Wis. Stat. ch. 18",
+   "title": "Wisconsin Statutes, Chapter 18: State debt, revenue obligations and operating notes",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/18",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 48,
+     "source_url": "https://web.archive.org/web/20261021184512/https://docs.legis.wisconsin.gov/statutes/statutes/18.pdf",
+     "sha256": "0d49f87b9997f7f17d6309caf02d00e7a445abe15ebd71c8200844d4ae8157f5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0019",
+   "short": "Wis. Stat. ch. 19",
+   "title": "Wisconsin Statutes, Chapter 19: General duties of public officials",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/19",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 69,
+     "source_url": "https://web.archive.org/web/20261001155527/https://docs.legis.wisconsin.gov/statutes/statutes/19.pdf",
+     "sha256": "d34dd9e6bed2c798137e620cbd926b548521e4b41be41d97778b235919e81d1c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0020",
+   "short": "Wis. Stat. ch. 20",
+   "title": "Wisconsin Statutes, Chapter 20: Appropriations and budget management",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/20",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 101,
+     "source_url": "https://web.archive.org/web/20261023161741/https://docs.legis.wisconsin.gov/statutes/statutes/20.pdf",
+     "sha256": "9cf0837613eb8e733d32907e809d20c83821b043b5638ce1b4d03b8372e50b0d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0023",
+   "short": "Wis. Stat. ch. 23",
+   "title": "Wisconsin Statutes, Chapter 23: Conservation",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/23",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 135,
+     "source_url": "https://web.archive.org/web/20260524082407/https://docs.legis.wisconsin.gov/statutes/statutes/23.pdf",
+     "sha256": "1f0cb308672b678a8186181752373c45d45cfd30bc04fbf50df11e68edabb9dc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0024",
+   "short": "Wis. Stat. ch. 24",
+   "title": "Wisconsin Statutes, Chapter 24: Public domain and the trust funds",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/24",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 80,
+     "source_url": "https://web.archive.org/web/20261017002855/https://docs.legis.wisconsin.gov/statutes/statutes/24.pdf",
+     "sha256": "c81e64fd2654ebc33fb2f3f5a31ba9b6dfd1bdf952eb5f564fa4d0b79ff260bb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0025",
+   "short": "Wis. Stat. ch. 25",
+   "title": "Wisconsin Statutes, Chapter 25: Trust funds and their management",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/25",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 71,
+     "source_url": "https://web.archive.org/web/20261020234318/https://docs.legis.wisconsin.gov/statutes/statutes/25.pdf",
+     "sha256": "ca6ae86876dd9aa871e13686db4c8e1f6f96a7d56b8927996f195ca1c446aff2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0026",
+   "short": "Wis. Stat. ch. 26",
+   "title": "Wisconsin Statutes, Chapter 26: Protection of forest lands and forest productivity",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/26",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260927233624/https://docs.legis.wisconsin.gov/statutes/statutes/26.pdf",
+     "sha256": "2230225a26b6de6fd4c3fe06c019663753171e373d49654878b8375d155378ff"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0027",
+   "short": "Wis. Stat. ch. 27",
+   "title": "Wisconsin Statutes, Chapter 27: Public parks and places of recreation",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/27",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20261021012832/https://docs.legis.wisconsin.gov/statutes/statutes/27.pdf",
+     "sha256": "3151483bb772509ac13aa4cd249592fdda79897f77c7e65197e06b2a83c09d1b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0028",
+   "short": "Wis. Stat. ch. 28",
+   "title": "Wisconsin Statutes, Chapter 28: Public forests",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/28",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260717175514/https://docs.legis.wisconsin.gov/statutes/statutes/28.pdf",
+     "sha256": "47708b7d7524ae637e4ab06bc6e822a5f5157bb8dbb184f93409117ab4592d64"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0029",
+   "short": "Wis. Stat. ch. 29",
+   "title": "Wisconsin Statutes, Chapter 29: Wild animals and plants",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/29",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 208,
+     "source_url": "https://web.archive.org/web/20260318161245/https://docs.legis.wisconsin.gov/statutes/statutes/29.pdf",
+     "sha256": "6fbb74177d985b97c69399a34a79f815e15ce1646ce0f819c15f26fa906c3ae6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0030",
+   "short": "Wis. Stat. ch. 30",
+   "title": "Wisconsin Statutes, Chapter 30: Navigable waters, harbors and navigation",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/30",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 164,
+     "source_url": "https://web.archive.org/web/20261022060831/https://docs.legis.wisconsin.gov/statutes/statutes/30.pdf",
+     "sha256": "da6b4ae1cc26254903742c228ca275cb62f6011b3619cdb7f61fe553af08456e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0031",
+   "short": "Wis. Stat. ch. 31",
+   "title": "Wisconsin Statutes, Chapter 31: Regulation of dams and bridges affecting navigable waters",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/31",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20261022235204/https://docs.legis.wisconsin.gov/statutes/statutes/31.pdf",
+     "sha256": "defb656a990399ac2097f15294218ada702c725aa4c2f9303a08f7b833479f30"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0032",
+   "short": "Wis. Stat. ch. 32",
+   "title": "Wisconsin Statutes, Chapter 32: Eminent domain",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/32",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 53,
+     "source_url": "https://web.archive.org/web/20261018023244/https://docs.legis.wisconsin.gov/statutes/statutes/32.pdf",
+     "sha256": "fbadcfc4ae53c1e5bd70a744ae9483f76ee3a8c9c17952019e484582e6408ec0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0033",
+   "short": "Wis. Stat. ch. 33",
+   "title": "Wisconsin Statutes, Chapter 33: Public inland waters",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/33",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 51,
+     "source_url": "https://web.archive.org/web/20261020002951/https://docs.legis.wisconsin.gov/statutes/statutes/33.pdf",
+     "sha256": "4ac7af80073aaeaadb34ee5fc6eed24d6d240dca3b1b2bb7bad04ee0a62d5729"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0034",
+   "short": "Wis. Stat. ch. 34",
+   "title": "Wisconsin Statutes, Chapter 34: Public deposits",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/34",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20261031005415/https://docs.legis.wisconsin.gov/statutes/statutes/34.pdf",
+     "sha256": "dc8733c91706c3e5d9e6c01d7ca7d698f501d4964ad2624de8936f8617e0eb4a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0035",
+   "short": "Wis. Stat. ch. 35",
+   "title": "Wisconsin Statutes, Chapter 35: Publication and distribution of laws and public documents",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/35",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 57,
+     "source_url": "https://web.archive.org/web/20261018201419/https://docs.legis.wisconsin.gov/statutes/statutes/35.pdf",
+     "sha256": "28559815e62b1ea7e997e508234a53bb7153e19f1cecc6cbd0ac72b7240c5101"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0036",
+   "short": "Wis. Stat. ch. 36",
+   "title": "Wisconsin Statutes, Chapter 36: University of Wisconsin system",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/36",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20261012100004/https://docs.legis.wisconsin.gov/statutes/statutes/36.pdf",
+     "sha256": "0f937c227946d16b3cfdea4232daaf723a77e8d993a15678a2fdbfc8811ff00e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0038",
+   "short": "Wis. Stat. ch. 38",
+   "title": "Wisconsin Statutes, Chapter 38: Technical college system",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/38",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20261022210358/https://docs.legis.wisconsin.gov/statutes/statutes/38.pdf",
+     "sha256": "8ec72a546961c4b948abcfc03fc4ba766a9fd22e35e3b527a043ac7bb3ca7546"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0039",
+   "short": "Wis. Stat. ch. 39",
+   "title": "Wisconsin Statutes, Chapter 39: Higher educational agencies and education compacts",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/39",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 57,
+     "source_url": "https://web.archive.org/web/20261018074453/https://docs.legis.wisconsin.gov/statutes/statutes/39.pdf",
+     "sha256": "76c129e3a85a34a9a7dcb1c4c42d4c9eced583655b2bb086a222f9494a3d101a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0040",
+   "short": "Wis. Stat. ch. 40",
+   "title": "Wisconsin Statutes, Chapter 40: Public employee trust fund",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/40",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20261019154940/https://docs.legis.wisconsin.gov/statutes/statutes/40.pdf",
+     "sha256": "3bbc1a49478af6784bf9e654ffd8bc52da80bb3433b10f69a5086b694b72033a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0041",
+   "short": "Wis. Stat. ch. 41",
+   "title": "Wisconsin Statutes, Chapter 41: Department of tourism",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/41",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20261024102751/https://docs.legis.wisconsin.gov/statutes/statutes/41.pdf",
+     "sha256": "8a6a264efade41314783faea0137f07578f7d920f6b01ca98c1705b79274470f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0042",
+   "short": "Wis. Stat. ch. 42",
+   "title": "Wisconsin Statutes, Chapter 42: State fair park board",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/42",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20261017045436/https://docs.legis.wisconsin.gov/statutes/statutes/42.pdf",
+     "sha256": "8b4534e7d8499f6fe9bb13e27915359124a0f5d361cf64c6900248fd27ab5ec4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0043",
+   "short": "Wis. Stat. ch. 43",
+   "title": "Wisconsin Statutes, Chapter 43: Libraries",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/43",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20261024065903/https://docs.legis.wisconsin.gov/statutes/statutes/43.pdf",
+     "sha256": "9f713e1054ea1931af6a8e90866c8caff89c45384c01ad450443bba386b68a7b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0044",
+   "short": "Wis. Stat. ch. 44",
+   "title": "Wisconsin Statutes, Chapter 44: Historical societies and historical preservation",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/44",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20261024221058/https://docs.legis.wisconsin.gov/statutes/statutes/44.pdf",
+     "sha256": "433e57dc23697fe65ec619d482aebf56296069e57ceca252633301d63258979d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0045",
+   "short": "Wis. Stat. ch. 45",
+   "title": "Wisconsin Statutes, Chapter 45: Veterans",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/45",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 47,
+     "source_url": "https://web.archive.org/web/20251215111715/https://docs.legis.wisconsin.gov/statutes/statutes/45.pdf",
+     "sha256": "7c4b4c11f51f4fdd1aef73216671b5715fe320a564dc2694b1dbc0dea0a5f82b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0046",
+   "short": "Wis. Stat. ch. 46",
+   "title": "Wisconsin Statutes, Chapter 46: Social services",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/46",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 127,
+     "source_url": "https://web.archive.org/web/20261027085014/https://docs.legis.wisconsin.gov/statutes/statutes/46.pdf",
+     "sha256": "709abf683c66ee171b8a45e17b96c3edeff5067addf76742acaf41eb3b3303b3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0047",
+   "short": "Wis. Stat. ch. 47",
+   "title": "Wisconsin Statutes, Chapter 47: Vocational rehabilitation; specialized programs for persons with disabilities",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/47",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260508144504/https://docs.legis.wisconsin.gov/statutes/statutes/47.pdf",
+     "sha256": "37e598ee4beed06140fd3992fd673ef8aa62d0d62423893c33f0559cf9fb25db"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0048",
+   "short": "Wis. Stat. ch. 48",
+   "title": "Wisconsin Statutes, Chapter 48: Children's code",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/48",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 228,
+     "source_url": "https://web.archive.org/web/20260609093335/https://docs.legis.wisconsin.gov/statutes/statutes/48.pdf",
+     "sha256": "1e47658abd20eef64fa8a8097bd37f47a1f8e2360da4f5eb6f5a5daf00897b95"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0049",
+   "short": "Wis. Stat. ch. 49",
+   "title": "Wisconsin Statutes, Chapter 49: Public assistance and children and family services",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/49",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 150,
+     "source_url": "https://web.archive.org/web/20261023172401/https://docs.legis.wisconsin.gov/statutes/statutes/49.pdf",
+     "sha256": "cc2872a1db01c13538a2abd2dd7605dc84e5ad77f4c35cbd7fa14b8734d1c706"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0050",
+   "short": "Wis. Stat. ch. 50",
+   "title": "Wisconsin Statutes, Chapter 50: Uniform licensure",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/50",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 66,
+     "source_url": "https://web.archive.org/web/20251207220711/https://docs.legis.wisconsin.gov/statutes/statutes/50.pdf",
+     "sha256": "a4e117b00c188cc322e80cf994cec3cd623e5e52aa7fc8177972f703ff5406b0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0051",
+   "short": "Wis. Stat. ch. 51",
+   "title": "Wisconsin Statutes, Chapter 51: State alcohol, drug abuse, developmental disabilities and mental health act",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/51",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 76,
+     "source_url": "https://web.archive.org/web/20260526002930/https://docs.legis.wisconsin.gov/statutes/statutes/51.pdf",
+     "sha256": "e46232aa236173cd8ed925442166c8c1cef265295b628efae9c47a377633a37e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0052",
+   "short": "Wis. Stat. ch. 52",
+   "title": "Wisconsin Statutes, Chapter 52: Supported decision-making agreements",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/52",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20261018113741/https://docs.legis.wisconsin.gov/statutes/statutes/52.pdf",
+     "sha256": "15cdad1c8c0265bd23eb61f8577ed3f1902ccfbadac6af6326d9fc81b5bde185"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0053",
+   "short": "Wis. Stat. ch. 53",
+   "title": "Wisconsin Statutes, Chapter 53: Uniform adult guardianship jurisdiction",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/53",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20260213164733/https://docs.legis.wisconsin.gov/statutes/statutes/53.pdf",
+     "sha256": "4aa1544fb5f7c1c2e9762a7d6008c3e934c4622f71b26954e9e00e7362ee77c4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0054",
+   "short": "Wis. Stat. ch. 54",
+   "title": "Wisconsin Statutes, Chapter 54: Guardianships and conservatorships",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/54",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 82,
+     "source_url": "https://web.archive.org/web/20261009135633/https://docs.legis.wisconsin.gov/statutes/statutes/54.pdf",
+     "sha256": "ab944d8946955c8b997c1ae026f3b70488ce4efa112dce2de0e3b9068f43374e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0055",
+   "short": "Wis. Stat. ch. 55",
+   "title": "Wisconsin Statutes, Chapter 55: Protective service system",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/55",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260211185435/https://docs.legis.wisconsin.gov/statutes/statutes/55.pdf",
+     "sha256": "acb5eb182dc9e087ac6052f4cb356b1bf7837986717e077055e2448af62c0c54"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0058",
+   "short": "Wis. Stat. ch. 58",
+   "title": "Wisconsin Statutes, Chapter 58: Private asylums, hospitals and societies",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/58",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20261024165652/https://docs.legis.wisconsin.gov/statutes/statutes/58.pdf",
+     "sha256": "45a9a6fbccc4f399347d177f2d501c60d6a31c840f5afeb5792e6b452dfff573"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0059",
+   "short": "Wis. Stat. ch. 59",
+   "title": "Wisconsin Statutes, Chapter 59: Counties",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/59",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 96,
+     "source_url": "https://web.archive.org/web/20261021184744/https://docs.legis.wisconsin.gov/statutes/statutes/59.pdf",
+     "sha256": "9cb05bf87b1ee15a882c38f8108c0d85a1b91292f6f88600ce67fef233bf2f29"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0060",
+   "short": "Wis. Stat. ch. 60",
+   "title": "Wisconsin Statutes, Chapter 60: Towns",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/60",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 83,
+     "source_url": "https://web.archive.org/web/20261030052522/https://docs.legis.wisconsin.gov/statutes/statutes/60.pdf",
+     "sha256": "724f4e9774c672d1132737842f03963c2ad99eb9dc052544e4069c0ae5103c48"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0061",
+   "short": "Wis. Stat. ch. 61",
+   "title": "Wisconsin Statutes, Chapter 61: Villages",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/61",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20260116154330/https://docs.legis.wisconsin.gov/statutes/statutes/61.pdf",
+     "sha256": "bc3df3ae96252421069518b1632b39059cdfcc006c73f8273fa066b869f5d5b7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0062",
+   "short": "Wis. Stat. ch. 62",
+   "title": "Wisconsin Statutes, Chapter 62: Cities",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/62",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20261021140608/https://docs.legis.wisconsin.gov/statutes/statutes/62.pdf",
+     "sha256": "3c6d88e5eff606dc193698c70a1144f61c545802df2c9cce3e91412131990b26"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0063",
+   "short": "Wis. Stat. ch. 63",
+   "title": "Wisconsin Statutes, Chapter 63: County and city civil service",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/63",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 53,
+     "source_url": "https://web.archive.org/web/20260312041328/https://docs.legis.wisconsin.gov/statutes/statutes/63.pdf",
+     "sha256": "020e9f733c6c86e167eb375067dc690b30ca3b854dc7266012cecdde88c72b86"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0064",
+   "short": "Wis. Stat. ch. 64",
+   "title": "Wisconsin Statutes, Chapter 64: Other forms of city government",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/64",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20261026221753/https://docs.legis.wisconsin.gov/statutes/statutes/64.pdf",
+     "sha256": "330035e95897df40a5452aab050b051741762e97e55f3c3afe0714a221097a9e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0065",
+   "short": "Wis. Stat. ch. 65",
+   "title": "Wisconsin Statutes, Chapter 65: Municipal budget systems",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/65",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20261017071649/https://docs.legis.wisconsin.gov/statutes/statutes/65.pdf",
+     "sha256": "77a974ea30cfe936a5762203e326e2b199d7f3f922ec1103ca588e15dc2bbdb8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0066",
+   "short": "Wis. Stat. ch. 66",
+   "title": "Wisconsin Statutes, Chapter 66: General municipality law",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/66",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 246,
+     "source_url": "https://web.archive.org/web/20251129083535/https://docs.legis.wisconsin.gov/statutes/statutes/66.pdf",
+     "sha256": "ba0349fc0aec93b356e0fb8b04bbbefe43672d08c5602519dde449f0eef8a942"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0067",
+   "short": "Wis. Stat. ch. 67",
+   "title": "Wisconsin Statutes, Chapter 67: Municipal borrowing and municipal bonds",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/67",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20250716060334/https://docs.legis.wisconsin.gov/statutes/statutes/67.pdf",
+     "sha256": "7f4fb926d67629911e18ddfb5b5aa6f5d16edf5c53235a10b136ea64a1105ccc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0068",
+   "short": "Wis. Stat. ch. 68",
+   "title": "Wisconsin Statutes, Chapter 68: Municipal administrative procedure",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/68",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20261021022514/https://docs.legis.wisconsin.gov/statutes/statutes/68.pdf",
+     "sha256": "2646de64b4f1a0389606da826c315d50f3fcfe34dbe377392eb3b0ba881cce40"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0069",
+   "short": "Wis. Stat. ch. 69",
+   "title": "Wisconsin Statutes, Chapter 69: Collection of statistics",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/69",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20251015155817/https://docs.legis.wisconsin.gov/statutes/statutes/69.pdf",
+     "sha256": "f5be54fc59abb74602b18f5dc3a58b8a6cba64650a0ec38436b48c32504350a9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0070",
+   "short": "Wis. Stat. ch. 70",
+   "title": "Wisconsin Statutes, Chapter 70: General property taxes",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/70",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 112,
+     "source_url": "https://web.archive.org/web/20260607032311/https://docs.legis.wisconsin.gov/statutes/statutes/70.pdf",
+     "sha256": "ada8bbf4cb9d9e5dea8dc94e36e00a51f2f2e7cd468a6bd2aa77399d601c39c7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0071",
+   "short": "Wis. Stat. ch. 71",
+   "title": "Wisconsin Statutes, Chapter 71: Income and franchise taxes for state and local revenues",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/71",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 101,
+     "source_url": "https://web.archive.org/web/20260307092226/https://docs.legis.wisconsin.gov/statutes/statutes/71.pdf",
+     "sha256": "5a9809a38e5dae149b8594b3c2c20f511def1fa2a01a9d6891b840a24c52c64c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0072",
+   "short": "Wis. Stat. ch. 72",
+   "title": "Wisconsin Statutes, Chapter 72: Estate tax",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/72",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260510151824/https://docs.legis.wisconsin.gov/statutes/statutes/72.pdf",
+     "sha256": "f6d09c1f40d13872cd00294ce916fc849d5c05276596bad43c1afd47545edccd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0073",
+   "short": "Wis. Stat. ch. 73",
+   "title": "Wisconsin Statutes, Chapter 73: Tax appeals commission and department of revenue",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/73",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20261020123652/https://docs.legis.wisconsin.gov/statutes/statutes/73.pdf",
+     "sha256": "62baecacbbd80bc3fb0a8002d20a0af83bff5c94d139b1a8f1bd5947c432a5c3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0074",
+   "short": "Wis. Stat. ch. 74",
+   "title": "Wisconsin Statutes, Chapter 74: Property tax collection",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/74",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20260807161134/https://docs.legis.wisconsin.gov/statutes/statutes/74.pdf",
+     "sha256": "f2fb2031de604b1c2c181f965ee78acc79313dbd2fe62211fc299df45c0049f6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0075",
+   "short": "Wis. Stat. ch. 75",
+   "title": "Wisconsin Statutes, Chapter 75: Land sold for taxes",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/75",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 65,
+     "source_url": "https://web.archive.org/web/20261024114719/https://docs.legis.wisconsin.gov/statutes/statutes/75.pdf",
+     "sha256": "dd27876d60a5116144498d513d946d33a3e021a516ae9f2b8108871e91d31804"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0076",
+   "short": "Wis. Stat. ch. 76",
+   "title": "Wisconsin Statutes, Chapter 76: Taxation of public utilities and insurers",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/76",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 59,
+     "source_url": "https://web.archive.org/web/20261020234318/https://docs.legis.wisconsin.gov/statutes/statutes/76.pdf",
+     "sha256": "c2ab3eb602acae81cf5dd35c86a1e12e387da7dc013f0c810f9a8a6f7759e156"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0077",
+   "short": "Wis. Stat. ch. 77",
+   "title": "Wisconsin Statutes, Chapter 77: Taxation of forest croplands; real estate transfer fees; sales and use taxes; county, municipality, and special district sales and use taxes; managed forest land; economic development surcharge; local food and beverage tax; local rental car tax; premier resort area taxes; state rental vehicle fee; dry cleaning fees",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/77",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 108,
+     "source_url": "https://web.archive.org/web/20261023091344/https://docs.legis.wisconsin.gov/statutes/statutes/77.pdf",
+     "sha256": "9f0d0e70e1f19d7799b8528182e901aa6e2619f95abe9fda2ba5cbbb9ebc331f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0078",
+   "short": "Wis. Stat. ch. 78",
+   "title": "Wisconsin Statutes, Chapter 78: Motor vehicle and general aviation fuel taxes",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/78",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20261021070001/https://docs.legis.wisconsin.gov/statutes/statutes/78.pdf",
+     "sha256": "c2a5a0caf163d644b00f77d329351d0f4fbc87317e9d95511e85cde6c576bc19"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0079",
+   "short": "Wis. Stat. ch. 79",
+   "title": "Wisconsin Statutes, Chapter 79: State revenue sharing",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/79",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20250917042904/https://docs.legis.wisconsin.gov/statutes/statutes/79.pdf",
+     "sha256": "3b69d0f4ec3347f14a3382b563b21db81f7a52b6951e28d38e50654a4b75006e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0082",
+   "short": "Wis. Stat. ch. 82",
+   "title": "Wisconsin Statutes, Chapter 82: Town highways",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/82",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20261025160534/https://docs.legis.wisconsin.gov/statutes/statutes/82.pdf",
+     "sha256": "b61d8b903fe606a7318574d1847abc098de586a2998f55f070043b902f600345"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0083",
+   "short": "Wis. Stat. ch. 83",
+   "title": "Wisconsin Statutes, Chapter 83: County highways",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/83",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20260308143117/https://docs.legis.wisconsin.gov/statutes/statutes/83.pdf",
+     "sha256": "94384c05f5158fd3eaa79373df5f4066632c400690753e1b13b1a87a852bd9c7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0084",
+   "short": "Wis. Stat. ch. 84",
+   "title": "Wisconsin Statutes, Chapter 84: State trunk highways; federal aid",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/84",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 124,
+     "source_url": "https://web.archive.org/web/20261011091536/https://docs.legis.wisconsin.gov/statutes/statutes/84.pdf",
+     "sha256": "463572b4fbc0c90a32588fd502b67da5ef29dbc74faa5ac3f7b65cba70d5e320"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0085",
+   "short": "Wis. Stat. ch. 85",
+   "title": "Wisconsin Statutes, Chapter 85: Department of transportation",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/85",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 71,
+     "source_url": "https://web.archive.org/web/20261025012935/https://docs.legis.wisconsin.gov/statutes/statutes/85.pdf",
+     "sha256": "761d8846a0768b31903457557f8dc9120de0afbf2684a2ca5d0a0d5e9ffe6d01"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0086",
+   "short": "Wis. Stat. ch. 86",
+   "title": "Wisconsin Statutes, Chapter 86: Miscellaneous highway provisions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/86",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 52,
+     "source_url": "https://web.archive.org/web/20261026204649/https://docs.legis.wisconsin.gov/statutes/statutes/86.pdf",
+     "sha256": "56719da033dd39890bcadb1243adf3a7e27eb2fc85f59a44d684966bda14dd09"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0087",
+   "short": "Wis. Stat. ch. 87",
+   "title": "Wisconsin Statutes, Chapter 87: Flood control",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/87",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20250908125105/https://docs.legis.wisconsin.gov/statutes/statutes/87.pdf",
+     "sha256": "8f8b24019434edbce746058f09b106a9e27b8065a29403a4129fcb58dc809aee"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0088",
+   "short": "Wis. Stat. ch. 88",
+   "title": "Wisconsin Statutes, Chapter 88: Drainage of lands",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/88",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 86,
+     "source_url": "https://web.archive.org/web/20260525215423/https://docs.legis.wisconsin.gov/statutes/statutes/88.pdf",
+     "sha256": "08b3d4f5e8ef89dee4bf0033a456fd905a5edb3712dc70e389cdecd305664394"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0089",
+   "short": "Wis. Stat. ch. 89",
+   "title": "Wisconsin Statutes, Chapter 89: Veterinary examining board",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/89",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260710191502/https://docs.legis.wisconsin.gov/statutes/statutes/89.pdf",
+     "sha256": "e0e84503e2dd6ff397f2ecbd2ab82204c42da1cbc9602d8e4a005836464eeae7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0090",
+   "short": "Wis. Stat. ch. 90",
+   "title": "Wisconsin Statutes, Chapter 90: Fences",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/90",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20261017072804/https://docs.legis.wisconsin.gov/statutes/statutes/90.pdf",
+     "sha256": "54b6d211af7cffc84995d8241302a318016eccfd702536b98b38461ad00f2043"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0091",
+   "short": "Wis. Stat. ch. 91",
+   "title": "Wisconsin Statutes, Chapter 91: Farmland preservation",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/91",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260121054701/https://docs.legis.wisconsin.gov/statutes/statutes/91.pdf",
+     "sha256": "52c5e7d9694acd33ff845a8235c92ef7187cd984730809e0bba6bc020d9210f9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0092",
+   "short": "Wis. Stat. ch. 92",
+   "title": "Wisconsin Statutes, Chapter 92: Soil and water conservation and animal waste management",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/92",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20261020134243/https://docs.legis.wisconsin.gov/statutes/statutes/92.pdf",
+     "sha256": "cad4d40b1fd1eaadac344cd7d2d8fd98b4b35828218c7e4b42adf6a945d9bea2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0093",
+   "short": "Wis. Stat. ch. 93",
+   "title": "Wisconsin Statutes, Chapter 93: Department of agriculture, trade and consumer protection",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/93",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 48,
+     "source_url": "https://web.archive.org/web/20260219093758/https://docs.legis.wisconsin.gov/statutes/statutes/93.pdf",
+     "sha256": "0cc40a1fd6160314e1b7c53728e23bbfd736647196e7d7b56268fe7c5698dfa9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0094",
+   "short": "Wis. Stat. ch. 94",
+   "title": "Wisconsin Statutes, Chapter 94: Plant industry",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/94",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 53,
+     "source_url": "https://web.archive.org/web/20260202011411/https://docs.legis.wisconsin.gov/statutes/statutes/94.pdf",
+     "sha256": "005a94385a9aba93bd6af6919617566926b271f1e0086e2dac9e338c73f620e7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0095",
+   "short": "Wis. Stat. ch. 95",
+   "title": "Wisconsin Statutes, Chapter 95: Animal health",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/95",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 55,
+     "source_url": "https://web.archive.org/web/20261019175705/https://docs.legis.wisconsin.gov/statutes/statutes/95.pdf",
+     "sha256": "b12f3a1ee98a304f5b65b3cb05d5f255bc27c9739fab343523f0a53cb2fc901e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0096",
+   "short": "Wis. Stat. ch. 96",
+   "title": "Wisconsin Statutes, Chapter 96: Agricultural marketing act",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/96",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20251010052523/https://docs.legis.wisconsin.gov/statutes/statutes/96.pdf",
+     "sha256": "1e753da027e022a95a8ba70c007511f866641473579dcf5404735ed5ad8ae174"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0097",
+   "short": "Wis. Stat. ch. 97",
+   "title": "Wisconsin Statutes, Chapter 97: Food, lodging, and recreation",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/97",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 59,
+     "source_url": "https://web.archive.org/web/20261023041023/https://docs.legis.wisconsin.gov/statutes/statutes/97.pdf",
+     "sha256": "fe40dc3065802874368d490758daef261e63ac6d981f97c2b68fee62b5195cdd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0098",
+   "short": "Wis. Stat. ch. 98",
+   "title": "Wisconsin Statutes, Chapter 98: Weights and measures",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/98",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20261020073842/https://docs.legis.wisconsin.gov/statutes/statutes/98.pdf",
+     "sha256": "dc30bcb886aad72c230218d00b4641c65b7ca2c2934550d8386fb7ba132b352c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0099",
+   "short": "Wis. Stat. ch. 99",
+   "title": "Wisconsin Statutes, Chapter 99: Public warehouses",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/99",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20261023074347/https://docs.legis.wisconsin.gov/statutes/statutes/99.pdf",
+     "sha256": "e45e664c82cd5439da89e0814b973458f252c681b28f145a5899995f2802a426"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0100",
+   "short": "Wis. Stat. ch. 100",
+   "title": "Wisconsin Statutes, Chapter 100: Marketing; trade practices",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/100",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 91,
+     "source_url": "https://web.archive.org/web/20261030051909/https://docs.legis.wisconsin.gov/statutes/statutes/100.pdf",
+     "sha256": "2a720a39b1fdacd3ef96e1893b55c4ac52517f6b27d2f4ceb6ea88fca70d8361"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0101",
+   "short": "Wis. Stat. ch. 101",
+   "title": "Wisconsin Statutes, Chapter 101: Department of safety and professional services - regulation of industry, buildings and safety",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/101",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 140,
+     "source_url": "https://web.archive.org/web/20260921122857/https://docs.legis.wisconsin.gov/statutes/statutes/101.pdf",
+     "sha256": "80e284d25e9ec77dac823322f0a9ba061902a79b08b82b1b09696d7c3117b621"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0102",
+   "short": "Wis. Stat. ch. 102",
+   "title": "Wisconsin Statutes, Chapter 102: Worker's compensation",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/102",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 84,
+     "source_url": "https://web.archive.org/web/20261027075207/https://docs.legis.wisconsin.gov/statutes/statutes/102.pdf",
+     "sha256": "8d1356a4221962ac3885991af2d37ca5a94abb1b84d426f3b192a8ab900c38cf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0103",
+   "short": "Wis. Stat. ch. 103",
+   "title": "Wisconsin Statutes, Chapter 103: Employment regulations",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/103",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 106,
+     "source_url": "https://web.archive.org/web/20261016230159/https://docs.legis.wisconsin.gov/statutes/statutes/103.pdf",
+     "sha256": "38d4abb99036fb4d8374becc44ac7abf8e54a90c60de5bee41f2a91f573f5636"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0104",
+   "short": "Wis. Stat. ch. 104",
+   "title": "Wisconsin Statutes, Chapter 104: Minimum wage law",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/104",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20251117042120/https://docs.legis.wisconsin.gov/statutes/statutes/104.pdf",
+     "sha256": "1d32db93a8cc477dcce8965e8d8ef0bc9674aaeda516af9a1626e9a89a8cf940"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0105",
+   "short": "Wis. Stat. ch. 105",
+   "title": "Wisconsin Statutes, Chapter 105: Employment agents",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/105",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20261020123714/https://docs.legis.wisconsin.gov/statutes/statutes/105.pdf",
+     "sha256": "295c57ffbbdf36cbb2e5542e5b646d002bcf49ef9ff381a00b2802c43187931b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0106",
+   "short": "Wis. Stat. ch. 106",
+   "title": "Wisconsin Statutes, Chapter 106: Apprentice, employment and equal rights programs",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/106",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 38,
+     "source_url": "https://web.archive.org/web/20261030052526/https://docs.legis.wisconsin.gov/statutes/statutes/106.pdf",
+     "sha256": "4fd8b29e398b8cba1d1f2c20b996c40545b226a1005953b109c2fbd775d791dc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0107",
+   "short": "Wis. Stat. ch. 107",
+   "title": "Wisconsin Statutes, Chapter 107: Mining and metal recovery",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/107",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20251223005104/https://docs.legis.wisconsin.gov/statutes/statutes/107.pdf",
+     "sha256": "1e18cde1e5454fd6b90a8151946ac144dc5ec2da5b083154211a22ac4ae18b4e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0108",
+   "short": "Wis. Stat. ch. 108",
+   "title": "Wisconsin Statutes, Chapter 108: Unemployment insurance and reserves",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/108",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 51,
+     "source_url": "https://web.archive.org/web/20261025110800/https://docs.legis.wisconsin.gov/statutes/statutes/108.pdf",
+     "sha256": "05d9ff39811e3e68861dac7e406dc3f79e4d803c1b6079b1d0e237dd02a3169b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0109",
+   "short": "Wis. Stat. ch. 109",
+   "title": "Wisconsin Statutes, Chapter 109: Wage payments, claims and collections",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/109",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250707144836/https://docs.legis.wisconsin.gov/statutes/statutes/109.pdf",
+     "sha256": "06b1bbfb73f268419cea8489721c2f354270493ee3c53d2d5d7222ea3524332c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0110",
+   "short": "Wis. Stat. ch. 110",
+   "title": "Wisconsin Statutes, Chapter 110: Motor vehicles",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/110",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20261029100402/https://docs.legis.wisconsin.gov/statutes/statutes/110.pdf",
+     "sha256": "f73da3be601140d52f82ecc7a804d1bd620080faf16ab5ebe6bc2e0f9a8cfb70"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0111",
+   "short": "Wis. Stat. ch. 111",
+   "title": "Wisconsin Statutes, Chapter 111: Employment relations",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/111",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 75,
+     "source_url": "https://web.archive.org/web/20261026024811/https://docs.legis.wisconsin.gov/statutes/statutes/111.pdf",
+     "sha256": "76a149ae3dcde848ba7e35821d44db83535fea01fa9b72f25f00da7e2fc1a61b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0112",
+   "short": "Wis. Stat. ch. 112",
+   "title": "Wisconsin Statutes, Chapter 112: Fiduciaries",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/112",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20261018114810/https://docs.legis.wisconsin.gov/statutes/statutes/112.pdf",
+     "sha256": "e3fa214018956b6669839ccb5096b1644ff6694391a045b0e4813623d1b97b7a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0113",
+   "short": "Wis. Stat. ch. 113",
+   "title": "Wisconsin Statutes, Chapter 113: Uniform joint obligations act",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/113",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260410161316/https://docs.legis.wisconsin.gov/statutes/statutes/113.pdf",
+     "sha256": "79678a85a2f6501300061c50a148373789749f7b539fe42a85ace04d7c82b541"
+    }
+   ]
+  }
+ ]
+}

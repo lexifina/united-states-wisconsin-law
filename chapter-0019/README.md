@@ -1,0 +1,75 @@
+# Wisconsin Statutes, Chapter 19: General duties of public officials
+
+Wis. Stat. ch. 19 · 1 versions, from 2026-10-01 (latest in force: 2026-10-01) · <https://docs.legis.wisconsin.gov/statutes/statutes/19>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Wis. Stat. § 19.01 | [sec-0019-01000.md](sec-0019-01000.md) | 0 |  |
+| Wis. Stat. § 19.015 | [sec-0019-01500.md](sec-0019-01500.md) | 0 |  |
+| Wis. Stat. § 19.02 | [sec-0019-02000.md](sec-0019-02000.md) | 0 |  |
+| Wis. Stat. § 19.03 | [sec-0019-03000.md](sec-0019-03000.md) | 0 |  |
+| Wis. Stat. § 19.04 | [sec-0019-04000.md](sec-0019-04000.md) | 0 |  |
+| Wis. Stat. § 19.05 | [sec-0019-05000.md](sec-0019-05000.md) | 0 |  |
+| Wis. Stat. § 19.06 | [sec-0019-06000.md](sec-0019-06000.md) | 0 |  |
+| Wis. Stat. § 19.07 | [sec-0019-07000.md](sec-0019-07000.md) | 0 |  |
+| Wis. Stat. § 19.10 | [sec-0019-10000.md](sec-0019-10000.md) | 0 |  |
+| Wis. Stat. § 19.11 | [sec-0019-11000.md](sec-0019-11000.md) | 0 |  |
+| Wis. Stat. § 19.12 | [sec-0019-12000.md](sec-0019-12000.md) | 0 |  |
+| Wis. Stat. § 19.21 | [sec-0019-21000.md](sec-0019-21000.md) | 0 |  |
+| Wis. Stat. § 19.22 | [sec-0019-22000.md](sec-0019-22000.md) | 0 |  |
+| Wis. Stat. § 19.23 | [sec-0019-23000.md](sec-0019-23000.md) | 0 |  |
+| Wis. Stat. § 19.24 | [sec-0019-24000.md](sec-0019-24000.md) | 0 |  |
+| Wis. Stat. § 19.25 | [sec-0019-25000.md](sec-0019-25000.md) | 0 |  |
+| Wis. Stat. § 19.31 | [sec-0019-31000.md](sec-0019-31000.md) | 0 |  |
+| Wis. Stat. § 19.32 | [sec-0019-32000.md](sec-0019-32000.md) | 0 |  |
+| Wis. Stat. § 19.33 | [sec-0019-33000.md](sec-0019-33000.md) | 0 |  |
+| Wis. Stat. § 19.34 | [sec-0019-34000.md](sec-0019-34000.md) | 0 |  |
+| Wis. Stat. § 19.345 | [sec-0019-34500.md](sec-0019-34500.md) | 0 |  |
+| Wis. Stat. § 19.35 | [sec-0019-35000.md](sec-0019-35000.md) | 0 |  |
+| Wis. Stat. § 19.356 | [sec-0019-35600.md](sec-0019-35600.md) | 0 |  |
+| Wis. Stat. § 19.36 | [sec-0019-36000.md](sec-0019-36000.md) | 0 |  |
+| Wis. Stat. § 19.37 | [sec-0019-37000.md](sec-0019-37000.md) | 0 |  |
+| Wis. Stat. § 19.39 | [sec-0019-39000.md](sec-0019-39000.md) | 0 |  |
+| Wis. Stat. § 19.41 | [sec-0019-41000.md](sec-0019-41000.md) | 0 |  |
+| Wis. Stat. § 19.42 | [sec-0019-42000.md](sec-0019-42000.md) | 0 |  |
+| Wis. Stat. § 19.43 | [sec-0019-43000.md](sec-0019-43000.md) | 0 |  |
+| Wis. Stat. § 19.44 | [sec-0019-44000.md](sec-0019-44000.md) | 0 |  |
+| Wis. Stat. § 19.45 | [sec-0019-45000.md](sec-0019-45000.md) | 0 |  |
+| Wis. Stat. § 19.451 | [sec-0019-45100.md](sec-0019-45100.md) | 0 |  |
+| Wis. Stat. § 19.46 | [sec-0019-46000.md](sec-0019-46000.md) | 0 |  |
+| Wis. Stat. § 19.47 | [sec-0019-47000.md](sec-0019-47000.md) | 0 |  |
+| Wis. Stat. § 19.48 | [sec-0019-48000.md](sec-0019-48000.md) | 0 |  |
+| Wis. Stat. § 19.49 | [sec-0019-49000.md](sec-0019-49000.md) | 0 |  |
+| Wis. Stat. § 19.50 | [sec-0019-50000.md](sec-0019-50000.md) | 0 |  |
+| Wis. Stat. § 19.55 | [sec-0019-55000.md](sec-0019-55000.md) | 0 |  |
+| Wis. Stat. § 19.552 | [sec-0019-55200.md](sec-0019-55200.md) | 0 |  |
+| Wis. Stat. § 19.554 | [sec-0019-55400.md](sec-0019-55400.md) | 0 |  |
+| Wis. Stat. § 19.56 | [sec-0019-56000.md](sec-0019-56000.md) | 0 |  |
+| Wis. Stat. § 19.57 | [sec-0019-57000.md](sec-0019-57000.md) | 0 |  |
+| Wis. Stat. § 19.575 | [sec-0019-57500.md](sec-0019-57500.md) | 0 |  |
+| Wis. Stat. § 19.579 | [sec-0019-57900.md](sec-0019-57900.md) | 0 |  |
+| Wis. Stat. § 19.58 | [sec-0019-58000.md](sec-0019-58000.md) | 0 |  |
+| Wis. Stat. § 19.59 | [sec-0019-59000.md](sec-0019-59000.md) | 0 |  |
+| Wis. Stat. § 19.62 | [sec-0019-62000.md](sec-0019-62000.md) | 0 |  |
+| Wis. Stat. § 19.65 | [sec-0019-65000.md](sec-0019-65000.md) | 0 |  |
+| Wis. Stat. § 19.67 | [sec-0019-67000.md](sec-0019-67000.md) | 0 |  |
+| Wis. Stat. § 19.68 | [sec-0019-68000.md](sec-0019-68000.md) | 0 |  |
+| Wis. Stat. § 19.69 | [sec-0019-69000.md](sec-0019-69000.md) | 0 |  |
+| Wis. Stat. § 19.70 | [sec-0019-70000.md](sec-0019-70000.md) | 0 |  |
+| Wis. Stat. § 19.71 | [sec-0019-71000.md](sec-0019-71000.md) | 0 |  |
+| Wis. Stat. § 19.77 | [sec-0019-77000.md](sec-0019-77000.md) | 0 |  |
+| Wis. Stat. § 19.80 | [sec-0019-80000.md](sec-0019-80000.md) | 0 |  |
+| Wis. Stat. § 19.81 | [sec-0019-81000.md](sec-0019-81000.md) | 0 |  |
+| Wis. Stat. § 19.82 | [sec-0019-82000.md](sec-0019-82000.md) | 0 |  |
+| Wis. Stat. § 19.83 | [sec-0019-83000.md](sec-0019-83000.md) | 0 |  |
+| Wis. Stat. § 19.84 | [sec-0019-84000.md](sec-0019-84000.md) | 0 |  |
+| Wis. Stat. § 19.85 | [sec-0019-85000.md](sec-0019-85000.md) | 0 |  |
+| Wis. Stat. § 19.851 | [sec-0019-85100.md](sec-0019-85100.md) | 0 |  |
+| Wis. Stat. § 19.86 | [sec-0019-86000.md](sec-0019-86000.md) | 0 |  |
+| Wis. Stat. § 19.87 | [sec-0019-87000.md](sec-0019-87000.md) | 0 |  |
+| Wis. Stat. § 19.88 | [sec-0019-88000.md](sec-0019-88000.md) | 0 |  |
+| Wis. Stat. § 19.89 | [sec-0019-89000.md](sec-0019-89000.md) | 0 |  |
+| Wis. Stat. § 19.90 | [sec-0019-90000.md](sec-0019-90000.md) | 0 |  |
+| Wis. Stat. § 19.96 | [sec-0019-96000.md](sec-0019-96000.md) | 0 |  |
+| Wis. Stat. § 19.97 | [sec-0019-97000.md](sec-0019-97000.md) | 0 |  |
+| Wis. Stat. § 19.98 | [sec-0019-98000.md](sec-0019-98000.md) | 0 |  |

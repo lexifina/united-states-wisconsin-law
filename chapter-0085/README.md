@@ -1,0 +1,77 @@
+# Wisconsin Statutes, Chapter 85: Department of transportation
+
+Wis. Stat. ch. 85 · 1 versions, from 2026-10-01 (latest in force: 2026-10-01) · <https://docs.legis.wisconsin.gov/statutes/statutes/85>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Wis. Stat. § 85.01 | [sec-0085-01000.md](sec-0085-01000.md) | 0 |  |
+| Wis. Stat. § 85.013 | [sec-0085-01300.md](sec-0085-01300.md) | 0 |  |
+| Wis. Stat. § 85.015 | [sec-0085-01500.md](sec-0085-01500.md) | 0 |  |
+| Wis. Stat. § 85.02 | [sec-0085-02000.md](sec-0085-02000.md) | 0 |  |
+| Wis. Stat. § 85.0205 | [sec-0085-02050.md](sec-0085-02050.md) | 0 |  |
+| Wis. Stat. § 85.021 | [sec-0085-02100.md](sec-0085-02100.md) | 0 |  |
+| Wis. Stat. § 85.022 | [sec-0085-02200.md](sec-0085-02200.md) | 0 |  |
+| Wis. Stat. § 85.023 | [sec-0085-02300.md](sec-0085-02300.md) | 0 |  |
+| Wis. Stat. § 85.025 | [sec-0085-02500.md](sec-0085-02500.md) | 0 |  |
+| Wis. Stat. § 85.028 | [sec-0085-02800.md](sec-0085-02800.md) | 0 |  |
+| Wis. Stat. § 85.03 | [sec-0085-03000.md](sec-0085-03000.md) | 0 |  |
+| Wis. Stat. § 85.035 | [sec-0085-03500.md](sec-0085-03500.md) | 0 |  |
+| Wis. Stat. § 85.04 | [sec-0085-04000.md](sec-0085-04000.md) | 0 |  |
+| Wis. Stat. § 85.05 | [sec-0085-05000.md](sec-0085-05000.md) | 0 |  |
+| Wis. Stat. § 85.052 | [sec-0085-05200.md](sec-0085-05200.md) | 0 |  |
+| Wis. Stat. § 85.055 | [sec-0085-05500.md](sec-0085-05500.md) | 0 |  |
+| Wis. Stat. § 85.06 | [sec-0085-06000.md](sec-0085-06000.md) | 0 |  |
+| Wis. Stat. § 85.061 | [sec-0085-06100.md](sec-0085-06100.md) | 0 |  |
+| Wis. Stat. § 85.062 | [sec-0085-06200.md](sec-0085-06200.md) | 0 |  |
+| Wis. Stat. § 85.064 | [sec-0085-06400.md](sec-0085-06400.md) | 0 |  |
+| Wis. Stat. § 85.065 | [sec-0085-06500.md](sec-0085-06500.md) | 0 |  |
+| Wis. Stat. § 85.066 | [sec-0085-06600.md](sec-0085-06600.md) | 0 |  |
+| Wis. Stat. § 85.067 | [sec-0085-06700.md](sec-0085-06700.md) | 0 |  |
+| Wis. Stat. § 85.07 | [sec-0085-07000.md](sec-0085-07000.md) | 0 |  |
+| Wis. Stat. § 85.075 | [sec-0085-07500.md](sec-0085-07500.md) | 0 |  |
+| Wis. Stat. § 85.077 | [sec-0085-07700.md](sec-0085-07700.md) | 0 |  |
+| Wis. Stat. § 85.08 | [sec-0085-08000.md](sec-0085-08000.md) | 0 |  |
+| Wis. Stat. § 85.085 | [sec-0085-08500.md](sec-0085-08500.md) | 0 |  |
+| Wis. Stat. § 85.09 | [sec-0085-09000.md](sec-0085-09000.md) | 0 |  |
+| Wis. Stat. § 85.093 | [sec-0085-09300.md](sec-0085-09300.md) | 0 |  |
+| Wis. Stat. § 85.095 | [sec-0085-09500.md](sec-0085-09500.md) | 0 |  |
+| Wis. Stat. § 85.10 | [sec-0085-10000.md](sec-0085-10000.md) | 0 |  |
+| Wis. Stat. § 85.103 | [sec-0085-10300.md](sec-0085-10300.md) | 0 |  |
+| Wis. Stat. § 85.105 | [sec-0085-10500.md](sec-0085-10500.md) | 0 |  |
+| Wis. Stat. § 85.107 | [sec-0085-10700.md](sec-0085-10700.md) | 0 |  |
+| Wis. Stat. § 85.12 | [sec-0085-12000.md](sec-0085-12000.md) | 0 |  |
+| Wis. Stat. § 85.13 | [sec-0085-13000.md](sec-0085-13000.md) | 0 |  |
+| Wis. Stat. § 85.14 | [sec-0085-14000.md](sec-0085-14000.md) | 0 |  |
+| Wis. Stat. § 85.15 | [sec-0085-15000.md](sec-0085-15000.md) | 0 |  |
+| Wis. Stat. § 85.16 | [sec-0085-16000.md](sec-0085-16000.md) | 0 |  |
+| Wis. Stat. § 85.17 | [sec-0085-17000.md](sec-0085-17000.md) | 0 |  |
+| Wis. Stat. § 85.18 | [sec-0085-18000.md](sec-0085-18000.md) | 0 |  |
+| Wis. Stat. § 85.19 | [sec-0085-19000.md](sec-0085-19000.md) | 0 |  |
+| Wis. Stat. § 85.193 | [sec-0085-19300.md](sec-0085-19300.md) | 0 |  |
+| Wis. Stat. § 85.195 | [sec-0085-19500.md](sec-0085-19500.md) | 0 |  |
+| Wis. Stat. § 85.20 | [sec-0085-20000.md](sec-0085-20000.md) | 0 |  |
+| Wis. Stat. § 85.205 | [sec-0085-20500.md](sec-0085-20500.md) | 0 |  |
+| Wis. Stat. § 85.21 | [sec-0085-21000.md](sec-0085-21000.md) | 0 |  |
+| Wis. Stat. § 85.215 | [sec-0085-21500.md](sec-0085-21500.md) | 0 |  |
+| Wis. Stat. § 85.22 | [sec-0085-22000.md](sec-0085-22000.md) | 0 |  |
+| Wis. Stat. § 85.23 | [sec-0085-23000.md](sec-0085-23000.md) | 0 |  |
+| Wis. Stat. § 85.24 | [sec-0085-24000.md](sec-0085-24000.md) | 0 |  |
+| Wis. Stat. § 85.245 | [sec-0085-24500.md](sec-0085-24500.md) | 0 |  |
+| Wis. Stat. § 85.25 | [sec-0085-25000.md](sec-0085-25000.md) | 0 |  |
+| Wis. Stat. § 85.26 | [sec-0085-26000.md](sec-0085-26000.md) | 0 |  |
+| Wis. Stat. § 85.27 | [sec-0085-27000.md](sec-0085-27000.md) | 0 |  |
+| Wis. Stat. § 85.28 | [sec-0085-28000.md](sec-0085-28000.md) | 0 |  |
+| Wis. Stat. § 85.30 | [sec-0085-30000.md](sec-0085-30000.md) | 0 |  |
+| Wis. Stat. § 85.31 | [sec-0085-31000.md](sec-0085-31000.md) | 0 |  |
+| Wis. Stat. § 85.32 | [sec-0085-32000.md](sec-0085-32000.md) | 0 |  |
+| Wis. Stat. § 85.35 | [sec-0085-35000.md](sec-0085-35000.md) | 0 |  |
+| Wis. Stat. § 85.51 | [sec-0085-51000.md](sec-0085-51000.md) | 0 |  |
+| Wis. Stat. § 85.52 | [sec-0085-52000.md](sec-0085-52000.md) | 0 |  |
+| Wis. Stat. § 85.53 | [sec-0085-53000.md](sec-0085-53000.md) | 0 |  |
+| Wis. Stat. § 85.55 | [sec-0085-55000.md](sec-0085-55000.md) | 0 |  |
+| Wis. Stat. § 85.605 | [sec-0085-60500.md](sec-0085-60500.md) | 0 |  |
+| Wis. Stat. § 85.61 | [sec-0085-61000.md](sec-0085-61000.md) | 0 |  |
+| Wis. Stat. § 85.62 | [sec-0085-62000.md](sec-0085-62000.md) | 0 |  |
+| Wis. Stat. § 85.63 | [sec-0085-63000.md](sec-0085-63000.md) | 0 |  |
+| Wis. Stat. § 85.64 | [sec-0085-64000.md](sec-0085-64000.md) | 0 |  |
+| Wis. Stat. § 85.65 | [sec-0085-65000.md](sec-0085-65000.md) | 0 |  |

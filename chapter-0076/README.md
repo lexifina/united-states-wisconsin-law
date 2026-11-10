@@ -1,0 +1,65 @@
+# Wisconsin Statutes, Chapter 76: Taxation of public utilities and insurers
+
+Wis. Stat. ch. 76 · 1 versions, from 2026-10-01 (latest in force: 2026-10-01) · <https://docs.legis.wisconsin.gov/statutes/statutes/76>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Wis. Stat. § 76.01 | [sec-0076-01000.md](sec-0076-01000.md) | 0 |  |
+| Wis. Stat. § 76.02 | [sec-0076-02000.md](sec-0076-02000.md) | 0 |  |
+| Wis. Stat. § 76.025 | [sec-0076-02500.md](sec-0076-02500.md) | 0 |  |
+| Wis. Stat. § 76.03 | [sec-0076-03000.md](sec-0076-03000.md) | 0 |  |
+| Wis. Stat. § 76.04 | [sec-0076-04000.md](sec-0076-04000.md) | 0 |  |
+| Wis. Stat. § 76.05 | [sec-0076-05000.md](sec-0076-05000.md) | 0 |  |
+| Wis. Stat. § 76.06 | [sec-0076-06000.md](sec-0076-06000.md) | 0 |  |
+| Wis. Stat. § 76.07 | [sec-0076-07000.md](sec-0076-07000.md) | 0 |  |
+| Wis. Stat. § 76.074 | [sec-0076-07400.md](sec-0076-07400.md) | 0 |  |
+| Wis. Stat. § 76.075 | [sec-0076-07500.md](sec-0076-07500.md) | 0 |  |
+| Wis. Stat. § 76.08 | [sec-0076-08000.md](sec-0076-08000.md) | 0 |  |
+| Wis. Stat. § 76.09 | [sec-0076-09000.md](sec-0076-09000.md) | 0 |  |
+| Wis. Stat. § 76.10 | [sec-0076-10000.md](sec-0076-10000.md) | 0 |  |
+| Wis. Stat. § 76.11 | [sec-0076-11000.md](sec-0076-11000.md) | 0 |  |
+| Wis. Stat. § 76.125 | [sec-0076-12500.md](sec-0076-12500.md) | 0 |  |
+| Wis. Stat. § 76.126 | [sec-0076-12600.md](sec-0076-12600.md) | 0 |  |
+| Wis. Stat. § 76.13 | [sec-0076-13000.md](sec-0076-13000.md) | 0 |  |
+| Wis. Stat. § 76.14 | [sec-0076-14000.md](sec-0076-14000.md) | 0 |  |
+| Wis. Stat. § 76.15 | [sec-0076-15000.md](sec-0076-15000.md) | 0 |  |
+| Wis. Stat. § 76.16 | [sec-0076-16000.md](sec-0076-16000.md) | 0 |  |
+| Wis. Stat. § 76.17 | [sec-0076-17000.md](sec-0076-17000.md) | 0 |  |
+| Wis. Stat. § 76.18 | [sec-0076-18000.md](sec-0076-18000.md) | 0 |  |
+| Wis. Stat. § 76.22 | [sec-0076-22000.md](sec-0076-22000.md) | 0 |  |
+| Wis. Stat. § 76.23 | [sec-0076-23000.md](sec-0076-23000.md) | 0 |  |
+| Wis. Stat. § 76.24 | [sec-0076-24000.md](sec-0076-24000.md) | 0 |  |
+| Wis. Stat. § 76.25 | [sec-0076-25000.md](sec-0076-25000.md) | 0 |  |
+| Wis. Stat. § 76.26 | [sec-0076-26000.md](sec-0076-26000.md) | 0 |  |
+| Wis. Stat. § 76.28 | [sec-0076-28000.md](sec-0076-28000.md) | 0 |  |
+| Wis. Stat. § 76.29 | [sec-0076-29000.md](sec-0076-29000.md) | 0 |  |
+| Wis. Stat. § 76.30 | [sec-0076-30000.md](sec-0076-30000.md) | 0 |  |
+| Wis. Stat. § 76.31 | [sec-0076-31000.md](sec-0076-31000.md) | 0 |  |
+| Wis. Stat. § 76.39 | [sec-0076-39000.md](sec-0076-39000.md) | 0 |  |
+| Wis. Stat. § 76.46 | [sec-0076-46000.md](sec-0076-46000.md) | 0 |  |
+| Wis. Stat. § 76.48 | [sec-0076-48000.md](sec-0076-48000.md) | 0 |  |
+| Wis. Stat. § 76.54 | [sec-0076-54000.md](sec-0076-54000.md) | 0 |  |
+| Wis. Stat. § 76.60 | [sec-0076-60000.md](sec-0076-60000.md) | 0 |  |
+| Wis. Stat. § 76.61 | [sec-0076-61000.md](sec-0076-61000.md) | 0 |  |
+| Wis. Stat. § 76.62 | [sec-0076-62000.md](sec-0076-62000.md) | 0 |  |
+| Wis. Stat. § 76.63 | [sec-0076-63000.md](sec-0076-63000.md) | 0 |  |
+| Wis. Stat. § 76.633 | [sec-0076-63300.md](sec-0076-63300.md) | 0 |  |
+| Wis. Stat. § 76.634 | [sec-0076-63400.md](sec-0076-63400.md) | 0 |  |
+| Wis. Stat. § 76.635 | [sec-0076-63500.md](sec-0076-63500.md) | 0 |  |
+| Wis. Stat. § 76.636 | [sec-0076-63600.md](sec-0076-63600.md) | 0 |  |
+| Wis. Stat. § 76.637 | [sec-0076-63700.md](sec-0076-63700.md) | 0 |  |
+| Wis. Stat. § 76.638 | [sec-0076-63800.md](sec-0076-63800.md) | 0 |  |
+| Wis. Stat. § 76.639 | [sec-0076-63900.md](sec-0076-63900.md) | 0 |  |
+| Wis. Stat. § 76.64 | [sec-0076-64000.md](sec-0076-64000.md) | 0 |  |
+| Wis. Stat. § 76.645 | [sec-0076-64500.md](sec-0076-64500.md) | 0 |  |
+| Wis. Stat. § 76.65 | [sec-0076-65000.md](sec-0076-65000.md) | 0 |  |
+| Wis. Stat. § 76.655 | [sec-0076-65500.md](sec-0076-65500.md) | 0 |  |
+| Wis. Stat. § 76.66 | [sec-0076-66000.md](sec-0076-66000.md) | 0 |  |
+| Wis. Stat. § 76.67 | [sec-0076-67000.md](sec-0076-67000.md) | 0 |  |
+| Wis. Stat. § 76.68 | [sec-0076-68000.md](sec-0076-68000.md) | 0 |  |
+| Wis. Stat. § 76.80 | [sec-0076-80000.md](sec-0076-80000.md) | 0 |  |
+| Wis. Stat. § 76.81 | [sec-0076-81000.md](sec-0076-81000.md) | 0 |  |
+| Wis. Stat. § 76.815 | [sec-0076-81500.md](sec-0076-81500.md) | 0 |  |
+| Wis. Stat. § 76.82 | [sec-0076-82000.md](sec-0076-82000.md) | 0 |  |
+| Wis. Stat. § 76.83 | [sec-0076-83000.md](sec-0076-83000.md) | 0 |  |
+| Wis. Stat. § 76.84 | [sec-0076-84000.md](sec-0076-84000.md) | 0 |  |

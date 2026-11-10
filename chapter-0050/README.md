@@ -1,0 +1,72 @@
+# Wisconsin Statutes, Chapter 50: Uniform licensure
+
+Wis. Stat. ch. 50 · 1 versions, from 2025-11-21 (latest in force: 2025-11-21) · <https://docs.legis.wisconsin.gov/statutes/statutes/50>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Wis. Stat. § 50.01 | [sec-0050-01000.md](sec-0050-01000.md) | 0 |  |
+| Wis. Stat. § 50.02 | [sec-0050-02000.md](sec-0050-02000.md) | 0 |  |
+| Wis. Stat. § 50.025 | [sec-0050-02500.md](sec-0050-02500.md) | 0 |  |
+| Wis. Stat. § 50.03 | [sec-0050-03000.md](sec-0050-03000.md) | 0 |  |
+| Wis. Stat. § 50.032 | [sec-0050-03200.md](sec-0050-03200.md) | 0 |  |
+| Wis. Stat. § 50.033 | [sec-0050-03300.md](sec-0050-03300.md) | 0 |  |
+| Wis. Stat. § 50.034 | [sec-0050-03400.md](sec-0050-03400.md) | 0 |  |
+| Wis. Stat. § 50.035 | [sec-0050-03500.md](sec-0050-03500.md) | 0 |  |
+| Wis. Stat. § 50.037 | [sec-0050-03700.md](sec-0050-03700.md) | 0 |  |
+| Wis. Stat. § 50.04 | [sec-0050-04000.md](sec-0050-04000.md) | 0 |  |
+| Wis. Stat. § 50.045 | [sec-0050-04500.md](sec-0050-04500.md) | 0 |  |
+| Wis. Stat. § 50.05 | [sec-0050-05000.md](sec-0050-05000.md) | 0 |  |
+| Wis. Stat. § 50.053 | [sec-0050-05300.md](sec-0050-05300.md) | 0 |  |
+| Wis. Stat. § 50.06 | [sec-0050-06000.md](sec-0050-06000.md) | 0 |  |
+| Wis. Stat. § 50.065 | [sec-0050-06500.md](sec-0050-06500.md) | 0 |  |
+| Wis. Stat. § 50.07 | [sec-0050-07000.md](sec-0050-07000.md) | 0 |  |
+| Wis. Stat. § 50.08 | [sec-0050-08000.md](sec-0050-08000.md) | 0 |  |
+| Wis. Stat. § 50.085 | [sec-0050-08500.md](sec-0050-08500.md) | 0 |  |
+| Wis. Stat. § 50.09 | [sec-0050-09000.md](sec-0050-09000.md) | 0 |  |
+| Wis. Stat. § 50.095 | [sec-0050-09500.md](sec-0050-09500.md) | 0 |  |
+| Wis. Stat. § 50.097 | [sec-0050-09700.md](sec-0050-09700.md) | 0 |  |
+| Wis. Stat. § 50.098 | [sec-0050-09800.md](sec-0050-09800.md) | 0 |  |
+| Wis. Stat. § 50.10 | [sec-0050-10000.md](sec-0050-10000.md) | 0 |  |
+| Wis. Stat. § 50.11 | [sec-0050-11000.md](sec-0050-11000.md) | 0 |  |
+| Wis. Stat. § 50.12 | [sec-0050-12000.md](sec-0050-12000.md) | 0 |  |
+| Wis. Stat. § 50.13 | [sec-0050-13000.md](sec-0050-13000.md) | 0 |  |
+| Wis. Stat. § 50.135 | [sec-0050-13500.md](sec-0050-13500.md) | 0 |  |
+| Wis. Stat. § 50.14 | [sec-0050-14000.md](sec-0050-14000.md) | 0 |  |
+| Wis. Stat. § 50.32 | [sec-0050-32000.md](sec-0050-32000.md) | 0 |  |
+| Wis. Stat. § 50.33 | [sec-0050-33000.md](sec-0050-33000.md) | 0 |  |
+| Wis. Stat. § 50.34 | [sec-0050-34000.md](sec-0050-34000.md) | 0 |  |
+| Wis. Stat. § 50.35 | [sec-0050-35000.md](sec-0050-35000.md) | 0 |  |
+| Wis. Stat. § 50.355 | [sec-0050-35500.md](sec-0050-35500.md) | 0 |  |
+| Wis. Stat. § 50.36 | [sec-0050-36000.md](sec-0050-36000.md) | 0 |  |
+| Wis. Stat. § 50.37 | [sec-0050-37000.md](sec-0050-37000.md) | 0 |  |
+| Wis. Stat. § 50.373 | [sec-0050-37300.md](sec-0050-37300.md) | 0 |  |
+| Wis. Stat. § 50.375 | [sec-0050-37500.md](sec-0050-37500.md) | 0 |  |
+| Wis. Stat. § 50.377 | [sec-0050-37700.md](sec-0050-37700.md) | 0 |  |
+| Wis. Stat. § 50.378 | [sec-0050-37800.md](sec-0050-37800.md) | 0 |  |
+| Wis. Stat. § 50.38 | [sec-0050-38000.md](sec-0050-38000.md) | 0 |  |
+| Wis. Stat. § 50.39 | [sec-0050-39000.md](sec-0050-39000.md) | 0 |  |
+| Wis. Stat. § 50.49 | [sec-0050-49000.md](sec-0050-49000.md) | 0 |  |
+| Wis. Stat. § 50.495 | [sec-0050-49500.md](sec-0050-49500.md) | 0 |  |
+| Wis. Stat. § 50.498 | [sec-0050-49800.md](sec-0050-49800.md) | 0 |  |
+| Wis. Stat. § 50.50 | [sec-0050-50000.md](sec-0050-50000.md) | 0 |  |
+| Wis. Stat. § 50.51 | [sec-0050-51000.md](sec-0050-51000.md) | 0 |  |
+| Wis. Stat. § 50.52 | [sec-0050-52000.md](sec-0050-52000.md) | 0 |  |
+| Wis. Stat. § 50.53 | [sec-0050-53000.md](sec-0050-53000.md) | 0 |  |
+| Wis. Stat. § 50.535 | [sec-0050-53500.md](sec-0050-53500.md) | 0 |  |
+| Wis. Stat. § 50.54 | [sec-0050-54000.md](sec-0050-54000.md) | 0 |  |
+| Wis. Stat. § 50.55 | [sec-0050-55000.md](sec-0050-55000.md) | 0 |  |
+| Wis. Stat. § 50.56 | [sec-0050-56000.md](sec-0050-56000.md) | 0 |  |
+| Wis. Stat. § 50.57 | [sec-0050-57000.md](sec-0050-57000.md) | 0 |  |
+| Wis. Stat. § 50.60 | [sec-0050-60000.md](sec-0050-60000.md) | 0 |  |
+| Wis. Stat. § 50.65 | [sec-0050-65000.md](sec-0050-65000.md) | 0 |  |
+| Wis. Stat. § 50.90 | [sec-0050-90000.md](sec-0050-90000.md) | 0 |  |
+| Wis. Stat. § 50.91 | [sec-0050-91000.md](sec-0050-91000.md) | 0 |  |
+| Wis. Stat. § 50.92 | [sec-0050-92000.md](sec-0050-92000.md) | 0 |  |
+| Wis. Stat. § 50.925 | [sec-0050-92500.md](sec-0050-92500.md) | 0 |  |
+| Wis. Stat. § 50.93 | [sec-0050-93000.md](sec-0050-93000.md) | 0 |  |
+| Wis. Stat. § 50.94 | [sec-0050-94000.md](sec-0050-94000.md) | 0 |  |
+| Wis. Stat. § 50.942 | [sec-0050-94200.md](sec-0050-94200.md) | 0 |  |
+| Wis. Stat. § 50.95 | [sec-0050-95000.md](sec-0050-95000.md) | 0 |  |
+| Wis. Stat. § 50.97 | [sec-0050-97000.md](sec-0050-97000.md) | 0 |  |
+| Wis. Stat. § 50.98 | [sec-0050-98000.md](sec-0050-98000.md) | 0 |  |
+| Wis. Stat. § 50.981 | [sec-0050-98100.md](sec-0050-98100.md) | 0 |  |

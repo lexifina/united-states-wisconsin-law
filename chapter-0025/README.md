@@ -1,0 +1,77 @@
+# Wisconsin Statutes, Chapter 25: Trust funds and their management
+
+Wis. Stat. ch. 25 · 1 versions, from 2026-10-01 (latest in force: 2026-10-01) · <https://docs.legis.wisconsin.gov/statutes/statutes/25>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Wis. Stat. § 25.01 | [sec-0025-01000.md](sec-0025-01000.md) | 0 |  |
+| Wis. Stat. § 25.14 | [sec-0025-14000.md](sec-0025-14000.md) | 0 |  |
+| Wis. Stat. § 25.15 | [sec-0025-15000.md](sec-0025-15000.md) | 0 |  |
+| Wis. Stat. § 25.156 | [sec-0025-15600.md](sec-0025-15600.md) | 0 |  |
+| Wis. Stat. § 25.16 | [sec-0025-16000.md](sec-0025-16000.md) | 0 |  |
+| Wis. Stat. § 25.165 | [sec-0025-16500.md](sec-0025-16500.md) | 0 |  |
+| Wis. Stat. § 25.167 | [sec-0025-16700.md](sec-0025-16700.md) | 0 |  |
+| Wis. Stat. § 25.17 | [sec-0025-17000.md](sec-0025-17000.md) | 0 |  |
+| Wis. Stat. § 25.18 | [sec-0025-18000.md](sec-0025-18000.md) | 0 |  |
+| Wis. Stat. § 25.182 | [sec-0025-18200.md](sec-0025-18200.md) | 0 |  |
+| Wis. Stat. § 25.183 | [sec-0025-18300.md](sec-0025-18300.md) | 0 |  |
+| Wis. Stat. § 25.184 | [sec-0025-18400.md](sec-0025-18400.md) | 0 |  |
+| Wis. Stat. § 25.185 | [sec-0025-18500.md](sec-0025-18500.md) | 0 |  |
+| Wis. Stat. § 25.186 | [sec-0025-18600.md](sec-0025-18600.md) | 0 |  |
+| Wis. Stat. § 25.187 | [sec-0025-18700.md](sec-0025-18700.md) | 0 |  |
+| Wis. Stat. § 25.19 | [sec-0025-19000.md](sec-0025-19000.md) | 0 |  |
+| Wis. Stat. § 25.20 | [sec-0025-20000.md](sec-0025-20000.md) | 0 |  |
+| Wis. Stat. § 25.29 | [sec-0025-29000.md](sec-0025-29000.md) | 0 |  |
+| Wis. Stat. § 25.293 | [sec-0025-29300.md](sec-0025-29300.md) | 0 |  |
+| Wis. Stat. § 25.295 | [sec-0025-29500.md](sec-0025-29500.md) | 0 |  |
+| Wis. Stat. § 25.297 | [sec-0025-29700.md](sec-0025-29700.md) | 0 |  |
+| Wis. Stat. § 25.30 | [sec-0025-30000.md](sec-0025-30000.md) | 0 |  |
+| Wis. Stat. § 25.31 | [sec-0025-31000.md](sec-0025-31000.md) | 0 |  |
+| Wis. Stat. § 25.315 | [sec-0025-31500.md](sec-0025-31500.md) | 0 |  |
+| Wis. Stat. § 25.35 | [sec-0025-35000.md](sec-0025-35000.md) | 0 |  |
+| Wis. Stat. § 25.36 | [sec-0025-36000.md](sec-0025-36000.md) | 0 |  |
+| Wis. Stat. § 25.37 | [sec-0025-37000.md](sec-0025-37000.md) | 0 |  |
+| Wis. Stat. § 25.38 | [sec-0025-38000.md](sec-0025-38000.md) | 0 |  |
+| Wis. Stat. § 25.40 | [sec-0025-40000.md](sec-0025-40000.md) | 0 |  |
+| Wis. Stat. § 25.405 | [sec-0025-40500.md](sec-0025-40500.md) | 0 |  |
+| Wis. Stat. § 25.41 | [sec-0025-41000.md](sec-0025-41000.md) | 0 |  |
+| Wis. Stat. § 25.425 | [sec-0025-42500.md](sec-0025-42500.md) | 0 |  |
+| Wis. Stat. § 25.43 | [sec-0025-43000.md](sec-0025-43000.md) | 0 |  |
+| Wis. Stat. § 25.45 | [sec-0025-45000.md](sec-0025-45000.md) | 0 |  |
+| Wis. Stat. § 25.46 | [sec-0025-46000.md](sec-0025-46000.md) | 0 |  |
+| Wis. Stat. § 25.463 | [sec-0025-46300.md](sec-0025-46300.md) | 0 |  |
+| Wis. Stat. § 25.465 | [sec-0025-46500.md](sec-0025-46500.md) | 0 |  |
+| Wis. Stat. § 25.466 | [sec-0025-46600.md](sec-0025-46600.md) | 0 |  |
+| Wis. Stat. § 25.468 | [sec-0025-46800.md](sec-0025-46800.md) | 0 |  |
+| Wis. Stat. § 25.469 | [sec-0025-46900.md](sec-0025-46900.md) | 0 |  |
+| Wis. Stat. § 25.47 | [sec-0025-47000.md](sec-0025-47000.md) | 0 |  |
+| Wis. Stat. § 25.48 | [sec-0025-48000.md](sec-0025-48000.md) | 0 |  |
+| Wis. Stat. § 25.49 | [sec-0025-49000.md](sec-0025-49000.md) | 0 |  |
+| Wis. Stat. § 25.491 | [sec-0025-49100.md](sec-0025-49100.md) | 0 |  |
+| Wis. Stat. § 25.50 | [sec-0025-50000.md](sec-0025-50000.md) | 0 |  |
+| Wis. Stat. § 25.55 | [sec-0025-55000.md](sec-0025-55000.md) | 0 |  |
+| Wis. Stat. § 25.60 | [sec-0025-60000.md](sec-0025-60000.md) | 0 |  |
+| Wis. Stat. § 25.61 | [sec-0025-61000.md](sec-0025-61000.md) | 0 |  |
+| Wis. Stat. § 25.62 | [sec-0025-62000.md](sec-0025-62000.md) | 0 |  |
+| Wis. Stat. § 25.65 | [sec-0025-65000.md](sec-0025-65000.md) | 0 |  |
+| Wis. Stat. § 25.67 | [sec-0025-67000.md](sec-0025-67000.md) | 0 |  |
+| Wis. Stat. § 25.68 | [sec-0025-68000.md](sec-0025-68000.md) | 0 |  |
+| Wis. Stat. § 25.69 | [sec-0025-69000.md](sec-0025-69000.md) | 0 |  |
+| Wis. Stat. § 25.70 | [sec-0025-70000.md](sec-0025-70000.md) | 0 |  |
+| Wis. Stat. § 25.72 | [sec-0025-72000.md](sec-0025-72000.md) | 0 |  |
+| Wis. Stat. § 25.73 | [sec-0025-73000.md](sec-0025-73000.md) | 0 |  |
+| Wis. Stat. § 25.74 | [sec-0025-74000.md](sec-0025-74000.md) | 0 |  |
+| Wis. Stat. § 25.75 | [sec-0025-75000.md](sec-0025-75000.md) | 0 |  |
+| Wis. Stat. § 25.77 | [sec-0025-77000.md](sec-0025-77000.md) | 0 |  |
+| Wis. Stat. § 25.772 | [sec-0025-77200.md](sec-0025-77200.md) | 0 |  |
+| Wis. Stat. § 25.776 | [sec-0025-77600.md](sec-0025-77600.md) | 0 |  |
+| Wis. Stat. § 25.78 | [sec-0025-78000.md](sec-0025-78000.md) | 0 |  |
+| Wis. Stat. § 25.80 | [sec-0025-80000.md](sec-0025-80000.md) | 0 |  |
+| Wis. Stat. § 25.85 | [sec-0025-85000.md](sec-0025-85000.md) | 0 |  |
+| Wis. Stat. § 25.853 | [sec-0025-85300.md](sec-0025-85300.md) | 0 |  |
+| Wis. Stat. § 25.855 | [sec-0025-85500.md](sec-0025-85500.md) | 0 |  |
+| Wis. Stat. § 25.90 | [sec-0025-90000.md](sec-0025-90000.md) | 0 |  |
+| Wis. Stat. § 25.95 | [sec-0025-95000.md](sec-0025-95000.md) | 0 |  |
+| Wis. Stat. § 25.96 | [sec-0025-96000.md](sec-0025-96000.md) | 0 |  |
+| Wis. Stat. § 25.97 | [sec-0025-97000.md](sec-0025-97000.md) | 0 |  |
+| Wis. Stat. § 25.99 | [sec-0025-99000.md](sec-0025-99000.md) | 0 |  |

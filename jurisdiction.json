@@ -1,0 +1,8 @@
+{
+  "path": "us/wi",
+  "code": "US-WI",
+  "name": "United States (Wisconsin)",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-wisconsin-law",
+  "build": "built"
+}

@@ -1,0 +1,71 @@
+# Wisconsin Statutes, Chapter 14: Constitutional offices and interstate bodies
+
+Wis. Stat. ch. 14 · 1 versions, from 2026-10-01 (latest in force: 2026-10-01) · <https://docs.legis.wisconsin.gov/statutes/statutes/14>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Wis. Stat. § 14.01 | [sec-0014-01000.md](sec-0014-01000.md) | 0 |  |
+| Wis. Stat. § 14.015 | [sec-0014-01500.md](sec-0014-01500.md) | 0 |  |
+| Wis. Stat. § 14.017 | [sec-0014-01700.md](sec-0014-01700.md) | 0 |  |
+| Wis. Stat. § 14.019 | [sec-0014-01900.md](sec-0014-01900.md) | 0 |  |
+| Wis. Stat. § 14.02 | [sec-0014-02000.md](sec-0014-02000.md) | 0 |  |
+| Wis. Stat. § 14.03 | [sec-0014-03000.md](sec-0014-03000.md) | 0 |  |
+| Wis. Stat. § 14.035 | [sec-0014-03500.md](sec-0014-03500.md) | 0 |  |
+| Wis. Stat. § 14.04 | [sec-0014-04000.md](sec-0014-04000.md) | 0 |  |
+| Wis. Stat. § 14.05 | [sec-0014-05000.md](sec-0014-05000.md) | 0 |  |
+| Wis. Stat. § 14.06 | [sec-0014-06000.md](sec-0014-06000.md) | 0 |  |
+| Wis. Stat. § 14.07 | [sec-0014-07000.md](sec-0014-07000.md) | 0 |  |
+| Wis. Stat. § 14.08 | [sec-0014-08000.md](sec-0014-08000.md) | 0 |  |
+| Wis. Stat. § 14.09 | [sec-0014-09000.md](sec-0014-09000.md) | 0 |  |
+| Wis. Stat. § 14.11 | [sec-0014-11000.md](sec-0014-11000.md) | 0 |  |
+| Wis. Stat. § 14.12 | [sec-0014-12000.md](sec-0014-12000.md) | 0 |  |
+| Wis. Stat. § 14.13 | [sec-0014-13000.md](sec-0014-13000.md) | 0 |  |
+| Wis. Stat. § 14.14 | [sec-0014-14000.md](sec-0014-14000.md) | 0 |  |
+| Wis. Stat. § 14.15 | [sec-0014-15000.md](sec-0014-15000.md) | 0 |  |
+| Wis. Stat. § 14.16 | [sec-0014-16000.md](sec-0014-16000.md) | 0 |  |
+| Wis. Stat. § 14.165 | [sec-0014-16500.md](sec-0014-16500.md) | 0 |  |
+| Wis. Stat. § 14.17 | [sec-0014-17000.md](sec-0014-17000.md) | 0 |  |
+| Wis. Stat. § 14.18 | [sec-0014-18000.md](sec-0014-18000.md) | 0 |  |
+| Wis. Stat. § 14.19 | [sec-0014-19000.md](sec-0014-19000.md) | 0 |  |
+| Wis. Stat. § 14.24 | [sec-0014-24000.md](sec-0014-24000.md) | 0 |  |
+| Wis. Stat. § 14.31 | [sec-0014-31000.md](sec-0014-31000.md) | 0 |  |
+| Wis. Stat. § 14.32 | [sec-0014-32000.md](sec-0014-32000.md) | 0 |  |
+| Wis. Stat. § 14.33 | [sec-0014-33000.md](sec-0014-33000.md) | 0 |  |
+| Wis. Stat. § 14.34 | [sec-0014-34000.md](sec-0014-34000.md) | 0 |  |
+| Wis. Stat. § 14.35 | [sec-0014-35000.md](sec-0014-35000.md) | 0 |  |
+| Wis. Stat. § 14.36 | [sec-0014-36000.md](sec-0014-36000.md) | 0 |  |
+| Wis. Stat. § 14.38 | [sec-0014-38000.md](sec-0014-38000.md) | 0 |  |
+| Wis. Stat. § 14.39 | [sec-0014-39000.md](sec-0014-39000.md) | 0 |  |
+| Wis. Stat. § 14.40 | [sec-0014-40000.md](sec-0014-40000.md) | 0 |  |
+| Wis. Stat. § 14.43 | [sec-0014-43000.md](sec-0014-43000.md) | 0 |  |
+| Wis. Stat. § 14.45 | [sec-0014-45000.md](sec-0014-45000.md) | 0 |  |
+| Wis. Stat. § 14.47 | [sec-0014-47000.md](sec-0014-47000.md) | 0 |  |
+| Wis. Stat. § 14.49 | [sec-0014-49000.md](sec-0014-49000.md) | 0 |  |
+| Wis. Stat. § 14.56 | [sec-0014-56000.md](sec-0014-56000.md) | 0 |  |
+| Wis. Stat. § 14.58 | [sec-0014-58000.md](sec-0014-58000.md) | 0 |  |
+| Wis. Stat. § 14.59 | [sec-0014-59000.md](sec-0014-59000.md) | 0 |  |
+| Wis. Stat. § 14.60 | [sec-0014-60000.md](sec-0014-60000.md) | 0 |  |
+| Wis. Stat. § 14.76 | [sec-0014-76000.md](sec-0014-76000.md) | 0 |  |
+| Wis. Stat. § 14.78 | [sec-0014-78000.md](sec-0014-78000.md) | 0 |  |
+| Wis. Stat. § 14.81 | [sec-0014-81000.md](sec-0014-81000.md) | 0 |  |
+| Wis. Stat. § 14.82 | [sec-0014-82000.md](sec-0014-82000.md) | 0 |  |
+| Wis. Stat. § 14.83 | [sec-0014-83000.md](sec-0014-83000.md) | 0 |  |
+| Wis. Stat. § 14.832 | [sec-0014-83200.md](sec-0014-83200.md) | 0 |  |
+| Wis. Stat. § 14.833 | [sec-0014-83300.md](sec-0014-83300.md) | 0 |  |
+| Wis. Stat. § 14.835 | [sec-0014-83500.md](sec-0014-83500.md) | 0 |  |
+| Wis. Stat. § 14.84 | [sec-0014-84000.md](sec-0014-84000.md) | 0 |  |
+| Wis. Stat. § 14.85 | [sec-0014-85000.md](sec-0014-85000.md) | 0 |  |
+| Wis. Stat. § 14.86 | [sec-0014-86000.md](sec-0014-86000.md) | 0 |  |
+| Wis. Stat. § 14.87 | [sec-0014-87000.md](sec-0014-87000.md) | 0 |  |
+| Wis. Stat. § 14.875 | [sec-0014-87500.md](sec-0014-87500.md) | 0 |  |
+| Wis. Stat. § 14.88 | [sec-0014-88000.md](sec-0014-88000.md) | 0 |  |
+| Wis. Stat. § 14.89 | [sec-0014-89000.md](sec-0014-89000.md) | 0 |  |
+| Wis. Stat. § 14.895 | [sec-0014-89500.md](sec-0014-89500.md) | 0 |  |
+| Wis. Stat. § 14.896 | [sec-0014-89600.md](sec-0014-89600.md) | 0 |  |
+| Wis. Stat. § 14.897 | [sec-0014-89700.md](sec-0014-89700.md) | 0 |  |
+| Wis. Stat. § 14.898 | [sec-0014-89800.md](sec-0014-89800.md) | 0 |  |
+| Wis. Stat. § 14.90 | [sec-0014-90000.md](sec-0014-90000.md) | 0 |  |
+| Wis. Stat. § 14.91 | [sec-0014-91000.md](sec-0014-91000.md) | 0 |  |
+| Wis. Stat. § 14.92 | [sec-0014-92000.md](sec-0014-92000.md) | 0 |  |
+| Wis. Stat. § 14.94 | [sec-0014-94000.md](sec-0014-94000.md) | 0 |  |
+| Wis. Stat. § 14.95 | [sec-0014-95000.md](sec-0014-95000.md) | 0 |  |

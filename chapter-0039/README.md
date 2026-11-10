@@ -1,0 +1,63 @@
+# Wisconsin Statutes, Chapter 39: Higher educational agencies and education compacts
+
+Wis. Stat. ch. 39 · 1 versions, from 2026-10-01 (latest in force: 2026-10-01) · <https://docs.legis.wisconsin.gov/statutes/statutes/39>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Wis. Stat. § 39.11 | [sec-0039-11000.md](sec-0039-11000.md) | 0 |  |
+| Wis. Stat. § 39.115 | [sec-0039-11500.md](sec-0039-11500.md) | 0 |  |
+| Wis. Stat. § 39.12 | [sec-0039-12000.md](sec-0039-12000.md) | 0 |  |
+| Wis. Stat. § 39.13 | [sec-0039-13000.md](sec-0039-13000.md) | 0 |  |
+| Wis. Stat. § 39.14 | [sec-0039-14000.md](sec-0039-14000.md) | 0 |  |
+| Wis. Stat. § 39.15 | [sec-0039-15000.md](sec-0039-15000.md) | 0 |  |
+| Wis. Stat. § 39.155 | [sec-0039-15500.md](sec-0039-15500.md) | 0 |  |
+| Wis. Stat. § 39.16 | [sec-0039-16000.md](sec-0039-16000.md) | 0 |  |
+| Wis. Stat. § 39.26 | [sec-0039-26000.md](sec-0039-26000.md) | 0 |  |
+| Wis. Stat. § 39.28 | [sec-0039-28000.md](sec-0039-28000.md) | 0 |  |
+| Wis. Stat. § 39.285 | [sec-0039-28500.md](sec-0039-28500.md) | 0 |  |
+| Wis. Stat. § 39.29 | [sec-0039-29000.md](sec-0039-29000.md) | 0 |  |
+| Wis. Stat. § 39.30 | [sec-0039-30000.md](sec-0039-30000.md) | 0 |  |
+| Wis. Stat. § 39.31 | [sec-0039-31000.md](sec-0039-31000.md) | 0 |  |
+| Wis. Stat. § 39.32 | [sec-0039-32000.md](sec-0039-32000.md) | 0 |  |
+| Wis. Stat. § 39.325 | [sec-0039-32500.md](sec-0039-32500.md) | 0 |  |
+| Wis. Stat. § 39.33 | [sec-0039-33000.md](sec-0039-33000.md) | 0 |  |
+| Wis. Stat. § 39.34 | [sec-0039-34000.md](sec-0039-34000.md) | 0 |  |
+| Wis. Stat. § 39.35 | [sec-0039-35000.md](sec-0039-35000.md) | 0 |  |
+| Wis. Stat. § 39.36 | [sec-0039-36000.md](sec-0039-36000.md) | 0 |  |
+| Wis. Stat. § 39.37 | [sec-0039-37000.md](sec-0039-37000.md) | 0 |  |
+| Wis. Stat. § 39.374 | [sec-0039-37400.md](sec-0039-37400.md) | 0 |  |
+| Wis. Stat. § 39.378 | [sec-0039-37800.md](sec-0039-37800.md) | 0 |  |
+| Wis. Stat. § 39.38 | [sec-0039-38000.md](sec-0039-38000.md) | 0 |  |
+| Wis. Stat. § 39.382 | [sec-0039-38200.md](sec-0039-38200.md) | 0 |  |
+| Wis. Stat. § 39.385 | [sec-0039-38500.md](sec-0039-38500.md) | 0 |  |
+| Wis. Stat. § 39.389 | [sec-0039-38900.md](sec-0039-38900.md) | 0 |  |
+| Wis. Stat. § 39.39 | [sec-0039-39000.md](sec-0039-39000.md) | 0 |  |
+| Wis. Stat. § 39.393 | [sec-0039-39300.md](sec-0039-39300.md) | 0 |  |
+| Wis. Stat. § 39.395 | [sec-0039-39500.md](sec-0039-39500.md) | 0 |  |
+| Wis. Stat. § 39.397 | [sec-0039-39700.md](sec-0039-39700.md) | 0 |  |
+| Wis. Stat. § 39.398 | [sec-0039-39800.md](sec-0039-39800.md) | 0 |  |
+| Wis. Stat. § 39.399 | [sec-0039-39900.md](sec-0039-39900.md) | 0 |  |
+| Wis. Stat. § 39.40 | [sec-0039-40000.md](sec-0039-40000.md) | 0 |  |
+| Wis. Stat. § 39.41 | [sec-0039-41000.md](sec-0039-41000.md) | 0 |  |
+| Wis. Stat. § 39.415 | [sec-0039-41500.md](sec-0039-41500.md) | 0 |  |
+| Wis. Stat. § 39.42 | [sec-0039-42000.md](sec-0039-42000.md) | 0 |  |
+| Wis. Stat. § 39.435 | [sec-0039-43500.md](sec-0039-43500.md) | 0 |  |
+| Wis. Stat. § 39.437 | [sec-0039-43700.md](sec-0039-43700.md) | 0 |  |
+| Wis. Stat. § 39.44 | [sec-0039-44000.md](sec-0039-44000.md) | 0 |  |
+| Wis. Stat. § 39.45 | [sec-0039-45000.md](sec-0039-45000.md) | 0 |  |
+| Wis. Stat. § 39.46 | [sec-0039-46000.md](sec-0039-46000.md) | 0 |  |
+| Wis. Stat. § 39.465 | [sec-0039-46500.md](sec-0039-46500.md) | 0 |  |
+| Wis. Stat. § 39.47 | [sec-0039-47000.md](sec-0039-47000.md) | 0 |  |
+| Wis. Stat. § 39.48 | [sec-0039-48000.md](sec-0039-48000.md) | 0 |  |
+| Wis. Stat. § 39.49 | [sec-0039-49000.md](sec-0039-49000.md) | 0 |  |
+| Wis. Stat. § 39.50 | [sec-0039-50000.md](sec-0039-50000.md) | 0 |  |
+| Wis. Stat. § 39.51 | [sec-0039-51000.md](sec-0039-51000.md) | 0 |  |
+| Wis. Stat. § 39.53 | [sec-0039-53000.md](sec-0039-53000.md) | 0 |  |
+| Wis. Stat. § 39.54 | [sec-0039-54000.md](sec-0039-54000.md) | 0 |  |
+| Wis. Stat. § 39.75 | [sec-0039-75000.md](sec-0039-75000.md) | 0 |  |
+| Wis. Stat. § 39.76 | [sec-0039-76000.md](sec-0039-76000.md) | 0 |  |
+| Wis. Stat. § 39.80 | [sec-0039-80000.md](sec-0039-80000.md) | 0 |  |
+| Wis. Stat. § 39.85 | [sec-0039-85000.md](sec-0039-85000.md) | 0 |  |
+| Wis. Stat. § 39.86 | [sec-0039-86000.md](sec-0039-86000.md) | 0 |  |
+| Wis. Stat. § 39.87 | [sec-0039-87000.md](sec-0039-87000.md) | 0 |  |
+| Wis. Stat. § 39.91 | [sec-0039-91000.md](sec-0039-91000.md) | 0 |  |
