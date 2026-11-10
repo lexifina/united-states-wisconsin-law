@@ -177,12 +177,92 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0190` | Wisconsin Statutes, Chapter 190: Railroads; organization and management | 1 | 2025-12-19 to 2025-12-19 |
 | `chapter-0191` | Wisconsin Statutes, Chapter 191: Railroads; construction | 1 | 2026-10-01 to 2026-10-01 |
 | `chapter-0192` | Wisconsin Statutes, Chapter 192: Railroads; regulations and liabilities | 1 | 2026-04-03 to 2026-04-03 |
+| `chapter-0193` | Wisconsin Statutes, Chapter 193: Unincorporated cooperative associations | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0194` | Wisconsin Statutes, Chapter 194: Motor vehicle transportation | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0195` | Wisconsin Statutes, Chapter 195: Railroad and water carrier regulation | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0196` | Wisconsin Statutes, Chapter 196: Regulation of public utilities | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0197` | Wisconsin Statutes, Chapter 197: Municipal acquisition of utilities | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0198` | Wisconsin Statutes, Chapter 198: Municipal power and water districts | 1 | 2026-03-01 to 2026-03-01 |
+| `chapter-0199` | Wisconsin Statutes, Chapter 199: Citizens utility board | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0200` | Wisconsin Statutes, Chapter 200: Metropolitan sewerage districts | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0201` | Wisconsin Statutes, Chapter 201: Securities of public service corporations | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0202` | Wisconsin Statutes, Chapter 202: Regulation of professional employer organizations and the solicitation of funds for a charitable purpose | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0203` | Wisconsin Statutes, Chapter 203: Earned wage access services | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0204` | Wisconsin Statutes, Chapter 204: Benefit corporations | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0213` | Wisconsin Statutes, Chapter 213: Police and fire fighting service | 1 | 2025-07-08 to 2025-07-08 |
+| `chapter-0214` | Wisconsin Statutes, Chapter 214: Savings banks | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0215` | Wisconsin Statutes, Chapter 215: Savings and loan associations | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0216` | Wisconsin Statutes, Chapter 216: Investment associations | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0217` | Wisconsin Statutes, Chapter 217: Money transmitters | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0218` | Wisconsin Statutes, Chapter 218: Finance companies, auto dealers, adjustment companies and collection agencies | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0219` | Wisconsin Statutes, Chapter 219: Investments | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0220` | Wisconsin Statutes, Chapter 220: Banking | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0221` | Wisconsin Statutes, Chapter 221: State banks | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0222` | Wisconsin Statutes, Chapter 222: Universal banks | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0223` | Wisconsin Statutes, Chapter 223: Trust company banks and other fiduciaries | 1 | 2025-07-29 to 2025-07-29 |
+| `chapter-0224` | Wisconsin Statutes, Chapter 224: Miscellaneous banking and financial institutions provisions | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0225` | Wisconsin Statutes, Chapter 225: Business development credit corporations | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0226` | Wisconsin Statutes, Chapter 226: Foreign corporations | 1 | 2026-05-22 to 2026-05-22 |
+| `chapter-0227` | Wisconsin Statutes, Chapter 227: Administrative procedure and review | 1 | 2026-07-01 to 2026-07-01 |
+| `chapter-0228` | Wisconsin Statutes, Chapter 228: Recording and copying of public records in populous counties | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0229` | Wisconsin Statutes, Chapter 229: Public institutions | 1 | 2026-07-01 to 2026-07-01 |
+| `chapter-0230` | Wisconsin Statutes, Chapter 230: State employment relations | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0231` | Wisconsin Statutes, Chapter 231: Health and educational facilities authority | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0232` | Wisconsin Statutes, Chapter 232: Bradley center sports and entertainment corporation | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0233` | Wisconsin Statutes, Chapter 233: University of Wisconsin hospitals and clinics authority | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0234` | Wisconsin Statutes, Chapter 234: Wisconsin housing and economic development authority | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0236` | Wisconsin Statutes, Chapter 236: Platting lands and recording and vacating plats | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0237` | Wisconsin Statutes, Chapter 237: Fox river navigational system authority | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0238` | Wisconsin Statutes, Chapter 238: Wisconsin economic development corporation | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0240` | Wisconsin Statutes, Chapter 240: Fraudulent conveyances and contracts relating to real estate | 1 | 2026-07-01 to 2026-07-01 |
+| `chapter-0241` | Wisconsin Statutes, Chapter 241: Fraudulent contracts | 1 | 2025-07-08 to 2025-07-08 |
+| `chapter-0242` | Wisconsin Statutes, Chapter 242: Uniform voidable transactions law | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0243` | Wisconsin Statutes, Chapter 243: General provisions relating to fraudulent conveyances and contracts | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0244` | Wisconsin Statutes, Chapter 244: Uniform power of attorney for finances and property | 1 | 2025-07-08 to 2025-07-08 |
+| `chapter-0247` | Wisconsin Statutes, Chapter 247: Wisconsin artistic endowment foundation | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0250` | Wisconsin Statutes, Chapter 250: Health; administration and supervision | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0251` | Wisconsin Statutes, Chapter 251: Local health officials | 1 | 2025-11-01 to 2025-11-01 |
+| `chapter-0252` | Wisconsin Statutes, Chapter 252: Communicable diseases | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0253` | Wisconsin Statutes, Chapter 253: Maternal and child health | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0254` | Wisconsin Statutes, Chapter 254: Environmental health | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0255` | Wisconsin Statutes, Chapter 255: Chronic disease and injuries | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0256` | Wisconsin Statutes, Chapter 256: Emergency medical services | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0257` | Wisconsin Statutes, Chapter 257: Emergency volunteer health care practitioners | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0279` | Wisconsin Statutes, Chapter 279: Lower Fox river remediation authority | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0280` | Wisconsin Statutes, Chapter 280: Well drilling, heat exchange drilling, and pump installing | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0281` | Wisconsin Statutes, Chapter 281: Water and sewage | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0283` | Wisconsin Statutes, Chapter 283: Pollution discharge elimination | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0285` | Wisconsin Statutes, Chapter 285: Air pollution | 1 | 2026-06-19 to 2026-06-19 |
+| `chapter-0287` | Wisconsin Statutes, Chapter 287: Solid waste reduction, recovery and recycling | 1 | 2026-03-01 to 2026-03-01 |
+| `chapter-0289` | Wisconsin Statutes, Chapter 289: Solid waste facilities | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0291` | Wisconsin Statutes, Chapter 291: Hazardous waste management | 1 | 2025-10-15 to 2025-10-15 |
+| `chapter-0292` | Wisconsin Statutes, Chapter 292: Remedial action | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0293` | Wisconsin Statutes, Chapter 293: Nonferrous metallic mining | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0295` | Wisconsin Statutes, Chapter 295: Nonmetallic mining reclamation; oil and gas; ferrous metallic mining | 1 | 2025-11-21 to 2025-11-21 |
+| `chapter-0299` | Wisconsin Statutes, Chapter 299: General environmental provisions | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0301` | Wisconsin Statutes, Chapter 301: Corrections | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0302` | Wisconsin Statutes, Chapter 302: Prisons; state, county and municipal | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0303` | Wisconsin Statutes, Chapter 303: Prison labor | 1 | 2026-04-03 to 2026-04-03 |
+| `chapter-0304` | Wisconsin Statutes, Chapter 304: Paroles and pardons | 1 | 2025-11-21 to 2025-11-21 |
+| `chapter-0321` | Wisconsin Statutes, Chapter 321: Department of military affairs | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0322` | Wisconsin Statutes, Chapter 322: Wisconsin code of military justice | 1 | 2025-07-08 to 2025-07-08 |
+| `chapter-0323` | Wisconsin Statutes, Chapter 323: Emergency management | 1 | 2025-11-21 to 2025-11-21 |
+| `chapter-0324` | Wisconsin Statutes, Chapter 324: Deployed parents custody and visitation | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0340` | Wisconsin Statutes, Chapter 340: Vehicles - general provisions | 1 | 2026-07-01 to 2026-07-01 |
+| `chapter-0341` | Wisconsin Statutes, Chapter 341: Registration of vehicles | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0342` | Wisconsin Statutes, Chapter 342: Vehicle title and anti-theft law | 1 | 2026-08-05 to 2026-08-05 |
+| `chapter-0343` | Wisconsin Statutes, Chapter 343: Operators' licenses | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0344` | Wisconsin Statutes, Chapter 344: Vehicles - financial responsibility | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0345` | Wisconsin Statutes, Chapter 345: Vehicles - civil and criminal liability | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0346` | Wisconsin Statutes, Chapter 346: Rules of the road | 1 | 2026-03-01 to 2026-03-01 |
+| `chapter-0347` | Wisconsin Statutes, Chapter 347: Equipment of vehicles | 1 | 2026-03-01 to 2026-03-01 |
+| `chapter-0348` | Wisconsin Statutes, Chapter 348: Vehicles - size, weight and load | 1 | 2026-10-01 to 2026-10-01 |
 
-The build made 167 commits:
+The build made 247 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 163 | first version of an act |
+| 243 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -190,7 +270,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 163 tags.
+- 243 tags.
 
 ## Dates
 
@@ -202,7 +282,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `62a4252c74868bfd1607de39b1114642b448a913b4b92e49703759071966ad9c` (32832309 bytes).
+- Corpus: sha256 `cd94e38e9d007a97b15f033da0977634fb3258838465f9dd4561328e83381beb` (43551221 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
