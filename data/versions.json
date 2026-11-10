@@ -4032,6 +4032,1602 @@
      "sha256": "7b052c3af16d165875f62bde38765aabdaa827fce65518ce40d61244a404cb6c"
     }
    ]
+  },
+  {
+   "slug": "chapter-0448",
+   "short": "Wis. Stat. ch. 448",
+   "title": "Wisconsin Statutes, Chapter 448: Medical practices",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/448",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 124,
+     "source_url": "https://web.archive.org/web/20251207173408/https://docs.legis.wisconsin.gov/statutes/statutes/448.pdf",
+     "sha256": "df97824cad34c30ddf6ab07555da06169b1a6671040a77a26aa09a02d1cd6cd3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0449",
+   "short": "Wis. Stat. ch. 449",
+   "title": "Wisconsin Statutes, Chapter 449: Optometry examining board",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/449",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20260905154255/https://docs.legis.wisconsin.gov/statutes/statutes/449.pdf",
+     "sha256": "136f063ae273acf888eb561227c679ba1f8da4d38c2491663b66bba3ad1d21fa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0450",
+   "short": "Wis. Stat. ch. 450",
+   "title": "Wisconsin Statutes, Chapter 450: Pharmacy examining board",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/450",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20261021172501/https://docs.legis.wisconsin.gov/statutes/statutes/450.pdf",
+     "sha256": "643e8c71ead94f39dfb14b203c251b453554b11f36884037c41465cc915aa1fc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0451",
+   "short": "Wis. Stat. ch. 451",
+   "title": "Wisconsin Statutes, Chapter 451: Acupuncture",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/451",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20251118185903/https://docs.legis.wisconsin.gov/statutes/statutes/451.pdf",
+     "sha256": "3f03fcb9a8ceeab7dff7e5d09d8268e186330a3d96e048000e439a51cc14a70a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0452",
+   "short": "Wis. Stat. ch. 452",
+   "title": "Wisconsin Statutes, Chapter 452: Real estate practice",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/452",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20261030051234/https://docs.legis.wisconsin.gov/statutes/statutes/452.pdf",
+     "sha256": "c13c1d6e707b7feed8722d95c7f5fcab7fc21403fa3961a250a17754fdd58e72"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0454",
+   "short": "Wis. Stat. ch. 454",
+   "title": "Wisconsin Statutes, Chapter 454: Barbering and cosmetology",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/454",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260516182559/https://docs.legis.wisconsin.gov/statutes/statutes/454.pdf",
+     "sha256": "f73edade633ff7ce4a0436a39a7d335f675b6097e366b362b18788828671bb1f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0455",
+   "short": "Wis. Stat. ch. 455",
+   "title": "Wisconsin Statutes, Chapter 455: Psychology",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/455",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261021000721/https://docs.legis.wisconsin.gov/statutes/statutes/455.pdf",
+     "sha256": "0b913bcf511dbae49925c1333a191d4a74ec44133af09ee270e5d33130215906"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0456",
+   "short": "Wis. Stat. ch. 456",
+   "title": "Wisconsin Statutes, Chapter 456: Nursing home administrator examining board",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/456",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20251118195729/https://docs.legis.wisconsin.gov/statutes/statutes/456.pdf",
+     "sha256": "f12355f4ee825654e7dd5197f2a69cbd971280f431e552781190d80b8b51b201"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0457",
+   "short": "Wis. Stat. ch. 457",
+   "title": "Wisconsin Statutes, Chapter 457: Marriage and family therapy, professional counseling, and social work",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/457",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20261010014020/https://docs.legis.wisconsin.gov/statutes/statutes/457.pdf",
+     "sha256": "4d52b1e26a1cfb731d250b0f0615562101b562b5bc8ace77d12aed5b9bab3011"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0458",
+   "short": "Wis. Stat. ch. 458",
+   "title": "Wisconsin Statutes, Chapter 458: Real estate appraisers board",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/458",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20261024012554/https://docs.legis.wisconsin.gov/statutes/statutes/458.pdf",
+     "sha256": "41d8ae17f0f00a08f506cf3339b601810186ad9ca8e6393657552b6ede95a2d6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0459",
+   "short": "Wis. Stat. ch. 459",
+   "title": "Wisconsin Statutes, Chapter 459: Hearing and speech examining board",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/459",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 29,
+     "source_url": "https://web.archive.org/web/20260227080219/https://docs.legis.wisconsin.gov/statutes/statutes/459.pdf",
+     "sha256": "a3674a58beb6b4b3de02e4f9bc13ce14881e329767ff12030a481e2b54e7a0d5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0460",
+   "short": "Wis. Stat. ch. 460",
+   "title": "Wisconsin Statutes, Chapter 460: Massage therapy and bodywork therapy",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/460",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20261021112449/https://docs.legis.wisconsin.gov/statutes/statutes/460.pdf",
+     "sha256": "bb3eabd77c136fe92df6c84a205cb8f3629a2bef27d0b3d3301e62722eace803"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0462",
+   "short": "Wis. Stat. ch. 462",
+   "title": "Wisconsin Statutes, Chapter 462: Radiographers and limited x-ray machine operators",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/462",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20261020032229/https://docs.legis.wisconsin.gov/statutes/statutes/462.pdf",
+     "sha256": "2ca192e433e9bdddf6279091dc323f5b129406ef5c77b9b5ee195506441b7a23"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0463",
+   "short": "Wis. Stat. ch. 463",
+   "title": "Wisconsin Statutes, Chapter 463: Body art and tanning facilities",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/463",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20261021074511/https://docs.legis.wisconsin.gov/statutes/statutes/463.pdf",
+     "sha256": "5ef619f3916745ea35d7e800dfcbe03468ff87877d668275f1dad83cbefcbb91"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0466",
+   "short": "Wis. Stat. ch. 466",
+   "title": "Wisconsin Statutes, Chapter 466: Naturopathic doctors",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/466",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260918072601/https://docs.legis.wisconsin.gov/statutes/statutes/466.pdf",
+     "sha256": "d386bbe4ae4a2198319b511457689031db45cd984c5749779c283bc0b5492b50"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0470",
+   "short": "Wis. Stat. ch. 470",
+   "title": "Wisconsin Statutes, Chapter 470: Examining board of professional geologists, hydrologists and soil scientists",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/470",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20261027054957/https://docs.legis.wisconsin.gov/statutes/statutes/470.pdf",
+     "sha256": "8351395bed65f7d91fad299eed0c90af7262d4ac25176e6061f6b682d0359359"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0480",
+   "short": "Wis. Stat. ch. 480",
+   "title": "Wisconsin Statutes, Chapter 480: Auctioneer board",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/480",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20261022132931/https://docs.legis.wisconsin.gov/statutes/statutes/480.pdf",
+     "sha256": "94b6cee83c77b65c881c0291231f3081b5736a0c4f9a1a821e22b41297e07426"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0551",
+   "short": "Wis. Stat. ch. 551",
+   "title": "Wisconsin Statutes, Chapter 551: Wisconsin uniform securities law",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/551",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20261027152433/https://docs.legis.wisconsin.gov/statutes/statutes/551.pdf",
+     "sha256": "63042734816f464ea4a7309f420e03d049a9f4fb6a38f47469dd4afe96ce5369"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0552",
+   "short": "Wis. Stat. ch. 552",
+   "title": "Wisconsin Statutes, Chapter 552: Corporate take-over law",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/552",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20251106232218/https://docs.legis.wisconsin.gov/statutes/statutes/552.pdf",
+     "sha256": "821d0e5dbb335377305dbd80fc4b718e0c882b4a5d5d1c481f8ec412aee52009"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0553",
+   "short": "Wis. Stat. ch. 553",
+   "title": "Wisconsin Statutes, Chapter 553: Wisconsin franchise investment law",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/553",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20250325031931/https://docs.legis.wisconsin.gov/statutes/statutes/553.pdf",
+     "sha256": "9fa518ae674a237b12fcfe414813b326c79a23241e0b0c00edb3774150bf4a3a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0562",
+   "short": "Wis. Stat. ch. 562",
+   "title": "Wisconsin Statutes, Chapter 562: Regulation of racing and on-track pari-mutuel wagering",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/562",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20260217080622/https://docs.legis.wisconsin.gov/statutes/statutes/562.pdf",
+     "sha256": "6eb443659155f96b0c7812cfff4764eef8dfa76b263f6f133ad49c04670311fa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0563",
+   "short": "Wis. Stat. ch. 563",
+   "title": "Wisconsin Statutes, Chapter 563: Bingo and raffle control",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/563",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 54,
+     "source_url": "https://web.archive.org/web/20261019062242/https://docs.legis.wisconsin.gov/statutes/statutes/563.pdf",
+     "sha256": "8a5fd20a500fcecef6d507eb250d930e521e4efe1ebfe2294895ab39243faeb8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0565",
+   "short": "Wis. Stat. ch. 565",
+   "title": "Wisconsin Statutes, Chapter 565: State lottery",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/565",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20251225221405/https://docs.legis.wisconsin.gov/statutes/statutes/565.pdf",
+     "sha256": "29028dd5394247ad365ab403f63bcac62a65c3343dbc704cf535fa28afabf215"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0569",
+   "short": "Wis. Stat. ch. 569",
+   "title": "Wisconsin Statutes, Chapter 569: Indian gaming",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/569",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20261025160009/https://docs.legis.wisconsin.gov/statutes/statutes/569.pdf",
+     "sha256": "81119d40f78740c2bd33f0ac6ddee9ea4605d29c8984aa7d47716ba55f14f0c4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0600",
+   "short": "Wis. Stat. ch. 600",
+   "title": "Wisconsin Statutes, Chapter 600: Insurance - general provisions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/600",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20251225003640/https://docs.legis.wisconsin.gov/statutes/statutes/600.pdf",
+     "sha256": "5a52ee962239283af2738b0753adef1857be7eec549dc5722993fb95106ce95b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0601",
+   "short": "Wis. Stat. ch. 601",
+   "title": "Wisconsin Statutes, Chapter 601: Insurance - administration",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/601",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 52,
+     "source_url": "https://web.archive.org/web/20261027045425/https://docs.legis.wisconsin.gov/statutes/statutes/601.pdf",
+     "sha256": "eccc580cd7313d2bfbdbfb97bd4b2ec81fb7000bd6c0795524a6f49dac04b139"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0604",
+   "short": "Wis. Stat. ch. 604",
+   "title": "Wisconsin Statutes, Chapter 604: State insurance funds; general principles",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/604",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20261020234318/https://docs.legis.wisconsin.gov/statutes/statutes/604.pdf",
+     "sha256": "a6ba8a4bea99aed7de119ffa1c7a72d007af9989bd81718ea408bb03255d8d18"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0605",
+   "short": "Wis. Stat. ch. 605",
+   "title": "Wisconsin Statutes, Chapter 605: Local government property insurance fund",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/605",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20261027230314/https://docs.legis.wisconsin.gov/statutes/statutes/605.pdf",
+     "sha256": "9cb456bb9fb2ae815fef614f3763bfb03cf5566718c07e635bfb1460fd89b972"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0607",
+   "short": "Wis. Stat. ch. 607",
+   "title": "Wisconsin Statutes, Chapter 607: State life insurance fund",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/607",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260314172058/https://docs.legis.wisconsin.gov/statutes/statutes/607.pdf",
+     "sha256": "8fc353b82b6ff79c982ff3b4fb26c69044edd849da056d9c09e0b8761dab30a6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0609",
+   "short": "Wis. Stat. ch. 609",
+   "title": "Wisconsin Statutes, Chapter 609: Defined network plans",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/609",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 55,
+     "source_url": "https://web.archive.org/web/20260213231358/https://docs.legis.wisconsin.gov/statutes/statutes/609.pdf",
+     "sha256": "de3bb7fcd628c228a0575d4c16ab54c5b843b4ef8ff63922e63c8d0613a11564"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0610",
+   "short": "Wis. Stat. ch. 610",
+   "title": "Wisconsin Statutes, Chapter 610: Insurers in general",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/610",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260314170147/https://docs.legis.wisconsin.gov/statutes/statutes/610.pdf",
+     "sha256": "574da15e655bbb88d3b25a520e4116d2540c4d14c9d38a46e35fab79d66f7c66"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0611",
+   "short": "Wis. Stat. ch. 611",
+   "title": "Wisconsin Statutes, Chapter 611: Domestic stock and mutual insurance corporations",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/611",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 58,
+     "source_url": "https://web.archive.org/web/20261022124637/https://docs.legis.wisconsin.gov/statutes/statutes/611.pdf",
+     "sha256": "4c0d74e15f4c3fbdbc31c3f5b43a0fe01b262628911996f45dc399f1409ab43c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0612",
+   "short": "Wis. Stat. ch. 612",
+   "title": "Wisconsin Statutes, Chapter 612: Town mutuals",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/612",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20261021183156/https://docs.legis.wisconsin.gov/statutes/statutes/612.pdf",
+     "sha256": "f5ea1d721e57808b157505b83c52ef666a955fb0a698bf6518964dffb5f7b0ef"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0613",
+   "short": "Wis. Stat. ch. 613",
+   "title": "Wisconsin Statutes, Chapter 613: Service insurance corporations",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/613",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20261026215733/https://docs.legis.wisconsin.gov/statutes/statutes/613.pdf",
+     "sha256": "d9effc8520c1f1aa36b858dba993f8dba89ff4ab3f8acc0461100dd5049071d1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0614",
+   "short": "Wis. Stat. ch. 614",
+   "title": "Wisconsin Statutes, Chapter 614: Insurance - fraternals",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/614",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 44,
+     "source_url": "https://web.archive.org/web/20260314172004/https://docs.legis.wisconsin.gov/statutes/statutes/614.pdf",
+     "sha256": "4451e21f9fe06ed27739edfbf06332db50b4f01e5b165fcd8789fe3d20fbb529"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0616",
+   "short": "Wis. Stat. ch. 616",
+   "title": "Wisconsin Statutes, Chapter 616: Miscellaneous insurers",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/616",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20260217153208/https://docs.legis.wisconsin.gov/statutes/statutes/616.pdf",
+     "sha256": "b69467de5d90e7d0c7422ef9539215ffcb974ae332fae4179bf2cdedb4a2211c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0617",
+   "short": "Wis. Stat. ch. 617",
+   "title": "Wisconsin Statutes, Chapter 617: Regulation of insurance holding companies and intercorporate transactions relating to insurers",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/617",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20261021184047/https://docs.legis.wisconsin.gov/statutes/statutes/617.pdf",
+     "sha256": "767321f182275cfabcdda6f26f52ff806d6cebe6a9ed8ea487a83e234ed7b87e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0618",
+   "short": "Wis. Stat. ch. 618",
+   "title": "Wisconsin Statutes, Chapter 618: Nondomestic insurers",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/618",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20250321192925/https://docs.legis.wisconsin.gov/statutes/statutes/618.pdf",
+     "sha256": "238ee7091b183b9c4a4cf5fb57a2ebb0b3b0f3e5cc0dd1ce87554b08a5d2b081"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0619",
+   "short": "Wis. Stat. ch. 619",
+   "title": "Wisconsin Statutes, Chapter 619: Risk-sharing plans",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/619",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20261021203316/https://docs.legis.wisconsin.gov/statutes/statutes/619.pdf",
+     "sha256": "1b74726a30af39163f6f0d457149d04e2f88e676cbdddadc18c8aa76ba9a1f21"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0620",
+   "short": "Wis. Stat. ch. 620",
+   "title": "Wisconsin Statutes, Chapter 620: Insurance - investments",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/620",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261022174533/https://docs.legis.wisconsin.gov/statutes/statutes/620.pdf",
+     "sha256": "1e4c2993f44dba8eddd45c551a608475bf426a14489ad5717e4a422448592161"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0622",
+   "short": "Wis. Stat. ch. 622",
+   "title": "Wisconsin Statutes, Chapter 622: Own risk and solvency assessment",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/622",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260809155021/https://docs.legis.wisconsin.gov/statutes/statutes/622.pdf",
+     "sha256": "f1852a231757672ea0c8f4274554b84a4bc5ff725a1ac365e2cd1962bc9e48e8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0623",
+   "short": "Wis. Stat. ch. 623",
+   "title": "Wisconsin Statutes, Chapter 623: Insurance - accounting and reserves",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/623",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20260217153057/https://docs.legis.wisconsin.gov/statutes/statutes/623.pdf",
+     "sha256": "ef27ff6429f4eff095dce66248c5b7831ab312615be09435906ce74dc32a897e"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0625",
+   "short": "Wis. Stat. ch. 625",
+   "title": "Wisconsin Statutes, Chapter 625: Insurance - rate regulation",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/625",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20261023152822/https://docs.legis.wisconsin.gov/statutes/statutes/625.pdf",
+     "sha256": "38b433b7b42e81701ff28e42eb3f00cda426c89c974bf89af63fbaee763ccb7b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0626",
+   "short": "Wis. Stat. ch. 626",
+   "title": "Wisconsin Statutes, Chapter 626: Rate regulation in worker's compensation insurance",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/626",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20261019151128/https://docs.legis.wisconsin.gov/statutes/statutes/626.pdf",
+     "sha256": "626c3385d66375cfeed80d7664ce78cbc2d5a00392d876d5e307bbb1caf90c11"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0627",
+   "short": "Wis. Stat. ch. 627",
+   "title": "Wisconsin Statutes, Chapter 627: Underwriting restrictions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/627",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20261017054751/https://docs.legis.wisconsin.gov/statutes/statutes/627.pdf",
+     "sha256": "3a6b79a553f74897b4e56f0f3ba3cdb2244c77f22fb0dfff1cb33ff777187abd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0628",
+   "short": "Wis. Stat. ch. 628",
+   "title": "Wisconsin Statutes, Chapter 628: Insurance marketing",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/628",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20261020183240/https://docs.legis.wisconsin.gov/statutes/statutes/628.pdf",
+     "sha256": "561da643bd854d274f7264179d03407c6c19eead75cec0039edfa05751025bd6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0629",
+   "short": "Wis. Stat. ch. 629",
+   "title": "Wisconsin Statutes, Chapter 629: Public adjusters",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/629",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20261029182018/https://docs.legis.wisconsin.gov/statutes/statutes/629.pdf",
+     "sha256": "1790cf2f2329b5ec46ff24b56b64c33830c817070d6b16e715072e1c22144cbf"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0630",
+   "short": "Wis. Stat. ch. 630",
+   "title": "Wisconsin Statutes, Chapter 630: General public policy provisions applicable to insurers and others",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/630",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20261101021049/https://docs.legis.wisconsin.gov/statutes/statutes/630.pdf",
+     "sha256": "68ddb0235e2b6e4fd54061ff63e2bdb13f229a0f4fc56bd41415257d44e05718"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0631",
+   "short": "Wis. Stat. ch. 631",
+   "title": "Wisconsin Statutes, Chapter 631: Insurance contracts generally",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/631",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 38,
+     "source_url": "https://web.archive.org/web/20261028172819/https://docs.legis.wisconsin.gov/statutes/statutes/631.pdf",
+     "sha256": "287a6224262de593befcc48ae85b7dab5b04c106340b92a648d825e0a693808d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0632",
+   "short": "Wis. Stat. ch. 632",
+   "title": "Wisconsin Statutes, Chapter 632: Insurance contracts in specific lines",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/632",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 113,
+     "source_url": "https://web.archive.org/web/20260119045950/https://docs.legis.wisconsin.gov/statutes/statutes/632.pdf",
+     "sha256": "a4af1e66178d88ce3e6968ade711515c92a5ea6c58ec011631ef7016d7a0b14b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0633",
+   "short": "Wis. Stat. ch. 633",
+   "title": "Wisconsin Statutes, Chapter 633: Employee benefit plan administrators, principals, and pharmacy benefit managers",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/633",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260625193141/https://docs.legis.wisconsin.gov/statutes/statutes/633.pdf",
+     "sha256": "2ebfd98155ea0191d4f57be2aed255c3989a5ad910037b50d8eea0dc08a793ee"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0635",
+   "short": "Wis. Stat. ch. 635",
+   "title": "Wisconsin Statutes, Chapter 635: Small employer health insurance",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/635",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261028170039/https://docs.legis.wisconsin.gov/statutes/statutes/635.pdf",
+     "sha256": "56f5c15381957193cab0adbfe50b2c3e4c99b59a2b14ac19aed0db6e2934bf47"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0644",
+   "short": "Wis. Stat. ch. 644",
+   "title": "Wisconsin Statutes, Chapter 644: Domestic mutual insurance holding companies",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/644",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20261101010221/https://docs.legis.wisconsin.gov/statutes/statutes/644.pdf",
+     "sha256": "4b049e6bf93e1ea3d18ca91b82917ddc6ca583518506891614a14a832c04474f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0645",
+   "short": "Wis. Stat. ch. 645",
+   "title": "Wisconsin Statutes, Chapter 645: Insurers rehabilitation and liquidation",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/645",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 67,
+     "source_url": "https://web.archive.org/web/20261021040152/https://docs.legis.wisconsin.gov/statutes/statutes/645.pdf",
+     "sha256": "070c36964021a39667627e888cadf7f20a2365d52233acebaa308c0ce668f495"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0646",
+   "short": "Wis. Stat. ch. 646",
+   "title": "Wisconsin Statutes, Chapter 646: Insurance security fund",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/646",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20261016225045/https://docs.legis.wisconsin.gov/statutes/statutes/646.pdf",
+     "sha256": "df130a0a2edc55f454dc8bdec789efeaa295efde2558a9916769f4a39fb02a5f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0647",
+   "short": "Wis. Stat. ch. 647",
+   "title": "Wisconsin Statutes, Chapter 647: Continuing care contracts",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/647",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261026035818/https://docs.legis.wisconsin.gov/statutes/statutes/647.pdf",
+     "sha256": "22796320662504a5b6b8d284bd959284b36cca7154d9d71950d1d184e8816479"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0648",
+   "short": "Wis. Stat. ch. 648",
+   "title": "Wisconsin Statutes, Chapter 648: Regulation of care management organizations",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/648",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20261023045232/https://docs.legis.wisconsin.gov/statutes/statutes/648.pdf",
+     "sha256": "da415bc3d2b115d7510d5a778fa7a2701b195d76ef1a94bf14a526e7d142ec73"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0655",
+   "short": "Wis. Stat. ch. 655",
+   "title": "Wisconsin Statutes, Chapter 655: Health care liability and injured patients and families compensation",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/655",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20261029213656/https://docs.legis.wisconsin.gov/statutes/statutes/655.pdf",
+     "sha256": "caa4fcd629d0de9e1327d655f1e74c82fe36c847099b7259442f66fedfaf856b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0700",
+   "short": "Wis. Stat. ch. 700",
+   "title": "Wisconsin Statutes, Chapter 700: Interests in property",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/700",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20261020125757/https://docs.legis.wisconsin.gov/statutes/statutes/700.pdf",
+     "sha256": "53c44be505e4448c9e32ced25ed9c3bd4e78f712b25379e59d1dca6102104caa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0701",
+   "short": "Wis. Stat. ch. 701",
+   "title": "Wisconsin Statutes, Chapter 701: Trusts",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/701",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 170,
+     "source_url": "https://web.archive.org/web/20251209180608/https://docs.legis.wisconsin.gov/statutes/statutes/701.pdf",
+     "sha256": "90201ccee4ca1f40b994c90d1614106b6ff1b430a67183255fb7415571bea8d3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0702",
+   "short": "Wis. Stat. ch. 702",
+   "title": "Wisconsin Statutes, Chapter 702: Uniform powers of appointment act",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/702",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20260117105041/https://docs.legis.wisconsin.gov/statutes/statutes/702.pdf",
+     "sha256": "c124a82e0f69064871eb96685c6df8429fdd53167f5f63f103a9ea78a89dba0c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0703",
+   "short": "Wis. Stat. ch. 703",
+   "title": "Wisconsin Statutes, Chapter 703: Condominiums",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/703",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 56,
+     "source_url": "https://web.archive.org/web/20261020191433/https://docs.legis.wisconsin.gov/statutes/statutes/703.pdf",
+     "sha256": "96c7668755b0045bd55b06cae0b24cd381e734765f1d4483dc07c59f6931b77a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0704",
+   "short": "Wis. Stat. ch. 704",
+   "title": "Wisconsin Statutes, Chapter 704: Landlord and tenant",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/704",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20261030052530/https://docs.legis.wisconsin.gov/statutes/statutes/704.pdf",
+     "sha256": "33fb46245d65f836b8019e714cd6c9f33cefde28ea6b5afbdfbff59cd0e2af35"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0705",
+   "short": "Wis. Stat. ch. 705",
+   "title": "Wisconsin Statutes, Chapter 705: Multiple-party and agency accounts; nonprobate transfers at death; transfer on death security registration",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/705",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20261028093901/https://docs.legis.wisconsin.gov/statutes/statutes/705.pdf",
+     "sha256": "4727dd06bff81b9536c41e472e14fafc1d911171246ccd5d5c57fd81bdb5240d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0706",
+   "short": "Wis. Stat. ch. 706",
+   "title": "Wisconsin Statutes, Chapter 706: Conveyances of real property; recording; titles",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/706",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260412002853/https://docs.legis.wisconsin.gov/statutes/statutes/706.pdf",
+     "sha256": "bda7a0bbd0b33c9c6c1adf0bca104f83e83105d68b77690b441db7667f6c3456"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0707",
+   "short": "Wis. Stat. ch. 707",
+   "title": "Wisconsin Statutes, Chapter 707: Time-share ownership",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/707",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 47,
+     "source_url": "https://web.archive.org/web/20260613192817/https://docs.legis.wisconsin.gov/statutes/statutes/707.pdf",
+     "sha256": "0ba103b40185bd674d41c1732dea682047d75598a192735d9bb6a17459b51866"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0708",
+   "short": "Wis. Stat. ch. 708",
+   "title": "Wisconsin Statutes, Chapter 708: Mortgages and land contracts",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/708",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20261024005706/https://docs.legis.wisconsin.gov/statutes/statutes/708.pdf",
+     "sha256": "f330ffc10dde76674ef3387350f53de7fad12fc7af5d3c65d2eb728f86a7521a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0709",
+   "short": "Wis. Stat. ch. 709",
+   "title": "Wisconsin Statutes, Chapter 709: Disclosures by owners of real estate",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/709",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20261030051235/https://docs.legis.wisconsin.gov/statutes/statutes/709.pdf",
+     "sha256": "8f22d011d88170f4b36ac5db3318ccbe45ef385de595ea54b059f9ef6e75e7c6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0710",
+   "short": "Wis. Stat. ch. 710",
+   "title": "Wisconsin Statutes, Chapter 710: Miscellaneous property provisions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/710",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20261020151008/https://docs.legis.wisconsin.gov/statutes/statutes/710.pdf",
+     "sha256": "df708176b43a7dc59e0477721cd20bdbdea77ab01275ef40afb9934d7626f298"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0711",
+   "short": "Wis. Stat. ch. 711",
+   "title": "Wisconsin Statutes, Chapter 711: Digital property",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/711",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20261022201130/https://docs.legis.wisconsin.gov/statutes/statutes/711.pdf",
+     "sha256": "9c992418f91637062f3dddc2db5e1208750ad4a194c9dd85c6f5ad5195098655"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0750",
+   "short": "Wis. Stat. ch. 750",
+   "title": "Wisconsin Statutes, Chapter 750: Court of impeachment",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/750",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250620171532/https://docs.legis.wisconsin.gov/statutes/statutes/750.pdf",
+     "sha256": "74ea5da08bdddd444825547de1d3e28f057e6a9facee641afaa4a55dd5d91bf9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0751",
+   "short": "Wis. Stat. ch. 751",
+   "title": "Wisconsin Statutes, Chapter 751: Supreme court",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/751",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20261028105221/https://docs.legis.wisconsin.gov/statutes/statutes/751.pdf",
+     "sha256": "8264fbd46874018eaa87a5b4117bc2baea85917b98606151722fbb9b9dac6efe"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0752",
+   "short": "Wis. Stat. ch. 752",
+   "title": "Wisconsin Statutes, Chapter 752: Court of appeals",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/752",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20260311185107/https://docs.legis.wisconsin.gov/statutes/statutes/752.pdf",
+     "sha256": "dbc02d0852a5bf29a2b42fccd745beda89aae60e191957d6f7aa72e1aecb058f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0753",
+   "short": "Wis. Stat. ch. 753",
+   "title": "Wisconsin Statutes, Chapter 753: Circuit courts",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/753",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20260114100013/https://docs.legis.wisconsin.gov/statutes/statutes/753.pdf",
+     "sha256": "953aaecb529cf4a672167c1ce7585f2e4c72172178fed4eca89159d615becd56"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0755",
+   "short": "Wis. Stat. ch. 755",
+   "title": "Wisconsin Statutes, Chapter 755: Municipal court",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/755",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20260526004202/https://docs.legis.wisconsin.gov/statutes/statutes/755.pdf",
+     "sha256": "2bca5cea383a222eada8616a265741572b3a01d9281fd27efb0fa4b8fb96fd16"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0756",
+   "short": "Wis. Stat. ch. 756",
+   "title": "Wisconsin Statutes, Chapter 756: Juries",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/756",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20261017143624/https://docs.legis.wisconsin.gov/statutes/statutes/756.pdf",
+     "sha256": "9bd2401394e84a46ea209e5f0355d06432c2aef9c93ac8ce2d2ccdc1e8c346f5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0757",
+   "short": "Wis. Stat. ch. 757",
+   "title": "Wisconsin Statutes, Chapter 757: General provisions concerning courts of record, judges, attorneys and clerks",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/757",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 56,
+     "source_url": "https://web.archive.org/web/20261029111801/https://docs.legis.wisconsin.gov/statutes/statutes/757.pdf",
+     "sha256": "5fe079b1212238523425ab1a08171905095f120e1a69bee08c64fb61331871af"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0758",
+   "short": "Wis. Stat. ch. 758",
+   "title": "Wisconsin Statutes, Chapter 758: Judicial branch agencies and committees",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/758",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20260511062602/https://docs.legis.wisconsin.gov/statutes/statutes/758.pdf",
+     "sha256": "60fdc08ab2e78f921c1f0bb3533de4dfe967990c0f21c06c424076237e412659"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0765",
+   "short": "Wis. Stat. ch. 765",
+   "title": "Wisconsin Statutes, Chapter 765: Marriage",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/765",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20261023041919/https://docs.legis.wisconsin.gov/statutes/statutes/765.pdf",
+     "sha256": "67dde7440fd1bdb305aca98474c25faad0e57ccf49c1aeb3b851ff4cdc88e475"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0766",
+   "short": "Wis. Stat. ch. 766",
+   "title": "Wisconsin Statutes, Chapter 766: Property rights of married persons; marital property",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/766",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 32,
+     "source_url": "https://web.archive.org/web/20261020212257/https://docs.legis.wisconsin.gov/statutes/statutes/766.pdf",
+     "sha256": "7584d7fbc1e4895f25229489e38f2121e29c5fca323b4d97f9372a7ccf865489"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0767",
+   "short": "Wis. Stat. ch. 767",
+   "title": "Wisconsin Statutes, Chapter 767: Actions affecting the family",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/767",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 91,
+     "source_url": "https://web.archive.org/web/20261009135645/https://docs.legis.wisconsin.gov/statutes/statutes/767.pdf",
+     "sha256": "0ce4e1cd01647df9efbcafa78ed0ec3c00e859a76fd1685a41b6014d38f5e043"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0768",
+   "short": "Wis. Stat. ch. 768",
+   "title": "Wisconsin Statutes, Chapter 768: Actions abolished",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/768",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260209233855/https://docs.legis.wisconsin.gov/statutes/statutes/768.pdf",
+     "sha256": "c34c1f7832cde90db7dcbc9af9a7acd9be1fb41ec317f2eef894be285dc6dce6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0769",
+   "short": "Wis. Stat. ch. 769",
+   "title": "Wisconsin Statutes, Chapter 769: Uniform interstate family support act",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/769",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 76,
+     "source_url": "https://web.archive.org/web/20261031165458/https://docs.legis.wisconsin.gov/statutes/statutes/769.pdf",
+     "sha256": "b5898f2b9930f0c3f9abb2988a34bb318d132107e819e7057dcb62ac6853540d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0770",
+   "short": "Wis. Stat. ch. 770",
+   "title": "Wisconsin Statutes, Chapter 770: Domestic partnership",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/770",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261016232242/https://docs.legis.wisconsin.gov/statutes/statutes/770.pdf",
+     "sha256": "a107f66514d90890b0deb3d64c21ab5a365156f8fef3e8bcd8ac1f53948752c6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0775",
+   "short": "Wis. Stat. ch. 775",
+   "title": "Wisconsin Statutes, Chapter 775: Actions against state",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/775",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20261021043615/https://docs.legis.wisconsin.gov/statutes/statutes/775.pdf",
+     "sha256": "0d49d177ebcb7d586d2c1bb0c88f470ddcaec47ac603c3a12ece82f406d3482b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0778",
+   "short": "Wis. Stat. ch. 778",
+   "title": "Wisconsin Statutes, Chapter 778: Collection of forfeitures",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/778",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20261019034855/https://docs.legis.wisconsin.gov/statutes/statutes/778.pdf",
+     "sha256": "c1b09708867bbc659bfae036fdb3904711b6e3a6c304728b2fcb41886e4adea7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0779",
+   "short": "Wis. Stat. ch. 779",
+   "title": "Wisconsin Statutes, Chapter 779: Liens",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/779",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 67,
+     "source_url": "https://web.archive.org/web/20261009194735/https://docs.legis.wisconsin.gov/statutes/statutes/779.pdf",
+     "sha256": "3d8607a2b9411a653183d0fdb83e86fa70f693d8699468311aed7f80d7447d64"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0780",
+   "short": "Wis. Stat. ch. 780",
+   "title": "Wisconsin Statutes, Chapter 780: Liens against vessels",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/780",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261020234318/https://docs.legis.wisconsin.gov/statutes/statutes/780.pdf",
+     "sha256": "12fbb5680c3c7e659c196785b0dc749c77114be6ea4f1a00151b28ad9d5bd3ef"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0781",
+   "short": "Wis. Stat. ch. 781",
+   "title": "Wisconsin Statutes, Chapter 781: Extraordinary remedies",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/781",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20261101151552/https://docs.legis.wisconsin.gov/statutes/statutes/781.pdf",
+     "sha256": "11d6754090dbb1db77163f39f32ec4556f383bca7b572a8bfd0b461a8ec23eb6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0782",
+   "short": "Wis. Stat. ch. 782",
+   "title": "Wisconsin Statutes, Chapter 782: Habeas corpus",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/782",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20260607172557/https://docs.legis.wisconsin.gov/statutes/statutes/782.pdf",
+     "sha256": "f815834c2dbe7d6261ac67189267e6392a072af2f8883990363c25f1d96d4632"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0783",
+   "short": "Wis. Stat. ch. 783",
+   "title": "Wisconsin Statutes, Chapter 783: Mandamus and prohibition",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/783",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261102090141/https://docs.legis.wisconsin.gov/statutes/statutes/783.pdf",
+     "sha256": "fd0dc1107f93a1d7d1b262525536c1b1c98b3b2a5f2b0237d5eba9ba6363231b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0784",
+   "short": "Wis. Stat. ch. 784",
+   "title": "Wisconsin Statutes, Chapter 784: Quo warranto",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/784",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20251215081715/https://docs.legis.wisconsin.gov/statutes/statutes/784.pdf",
+     "sha256": "0e9b1da86dcffc30429af47aaadbeeb0fc5912f28f16921e22826e0e466bab70"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0785",
+   "short": "Wis. Stat. ch. 785",
+   "title": "Wisconsin Statutes, Chapter 785: Contempt of court",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/785",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20261026085633/https://docs.legis.wisconsin.gov/statutes/statutes/785.pdf",
+     "sha256": "947ac160e582e8f4ca63a1b7c99c394731bdda53c2d61dbe4137265fe5707bf7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0786",
+   "short": "Wis. Stat. ch. 786",
+   "title": "Wisconsin Statutes, Chapter 786: Disposition of lands of wards; specific performance; change of names; establish heirships",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/786",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20261019080541/https://docs.legis.wisconsin.gov/statutes/statutes/786.pdf",
+     "sha256": "374ca23913de8bd3329fd93737e80c4a722dbe8cb46644b08606d279a0581ed9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0788",
+   "short": "Wis. Stat. ch. 788",
+   "title": "Wisconsin Statutes, Chapter 788: Arbitration",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/788",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20251118014529/https://docs.legis.wisconsin.gov/statutes/statutes/788.pdf",
+     "sha256": "b480ac35175a0e4c6b93085d6ac8442cdea370f7eaa527ebf08067c070c83377"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0799",
+   "short": "Wis. Stat. ch. 799",
+   "title": "Wisconsin Statutes, Chapter 799: Procedure in small claims actions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/799",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20261030052528/https://docs.legis.wisconsin.gov/statutes/statutes/799.pdf",
+     "sha256": "d1596fe0c7023f5e4fb6168e6d049b33bdcdff93b6327ad852d7a7d1b23a9f81"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0800",
+   "short": "Wis. Stat. ch. 800",
+   "title": "Wisconsin Statutes, Chapter 800: Municipal court procedure",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/800",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 23,
+     "source_url": "https://web.archive.org/web/20261021085350/https://docs.legis.wisconsin.gov/statutes/statutes/800.pdf",
+     "sha256": "63c584a24e2312ca1b6cf33a59a4cc279a44430ae858de8fd811eb3b9c5e777b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0801",
+   "short": "Wis. Stat. ch. 801",
+   "title": "Wisconsin Statutes, Chapter 801: Civil procedure - commencement of action and venue",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/801",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20261021044212/https://docs.legis.wisconsin.gov/statutes/statutes/801.pdf",
+     "sha256": "4c1e64e97a558568ba147a0411ff8bafbd2d9b9c9577a0555e75dd1b195e70d8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0802",
+   "short": "Wis. Stat. ch. 802",
+   "title": "Wisconsin Statutes, Chapter 802: Civil procedure - pleadings, motions and pretrial practice",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/802",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20260610121326/https://docs.legis.wisconsin.gov/statutes/statutes/802.pdf",
+     "sha256": "e0739db7b86f4489298f92319b8732d6d4da56021bfdb488e0784c6116aa03a2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0803",
+   "short": "Wis. Stat. ch. 803",
+   "title": "Wisconsin Statutes, Chapter 803: Civil procedure - parties",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/803",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20261023144736/https://docs.legis.wisconsin.gov/statutes/statutes/803.pdf",
+     "sha256": "9350906530af1123b296db1868a21e7da0506b1fcf41d6e6419776f0891eec63"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0804",
+   "short": "Wis. Stat. ch. 804",
+   "title": "Wisconsin Statutes, Chapter 804: Civil procedure - depositions and discovery",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/804",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20261024210841/https://docs.legis.wisconsin.gov/statutes/statutes/804.pdf",
+     "sha256": "a4b3c8a3746c4c1f19d5079ca881721607da06aad1d071ab73dff11f2a2d2c2b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0805",
+   "short": "Wis. Stat. ch. 805",
+   "title": "Wisconsin Statutes, Chapter 805: Civil procedure - trials",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/805",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20261021123624/https://docs.legis.wisconsin.gov/statutes/statutes/805.pdf",
+     "sha256": "b135e5a54b0840bdf080619ff302c834c5e492f8600b6a051b855bc33d339a8d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0806",
+   "short": "Wis. Stat. ch. 806",
+   "title": "Wisconsin Statutes, Chapter 806: Civil procedure - judgment",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/806",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 43,
+     "source_url": "https://web.archive.org/web/20251123104026/https://docs.legis.wisconsin.gov/statutes/statutes/806.pdf",
+     "sha256": "f30b2b441da0cd1f0d18083b14333a3c5960d518778ea31e58a86dbfd13c5b04"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0807",
+   "short": "Wis. Stat. ch. 807",
+   "title": "Wisconsin Statutes, Chapter 807: Civil procedure - miscellaneous provisions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/807",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20261017235507/https://docs.legis.wisconsin.gov/statutes/statutes/807.pdf",
+     "sha256": "8180d71baedc099fcd2312717eea036109a9405127df94c553ebfe8d758e0ff1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0808",
+   "short": "Wis. Stat. ch. 808",
+   "title": "Wisconsin Statutes, Chapter 808: Appeals and writs of error",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/808",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260312044747/https://docs.legis.wisconsin.gov/statutes/statutes/808.pdf",
+     "sha256": "5bf361d9e52c5a12089ac3ec86f2de3d216b052891fb2562a6cce825d776cfa9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0809",
+   "short": "Wis. Stat. ch. 809",
+   "title": "Wisconsin Statutes, Chapter 809: Rules of appellate procedure",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/809",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 48,
+     "source_url": "https://web.archive.org/web/20261027035214/https://docs.legis.wisconsin.gov/statutes/statutes/809.pdf",
+     "sha256": "364db252eac8497b599863aaf132298c5ab7e88d00977b1af9ed479ecfccee3a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0810",
+   "short": "Wis. Stat. ch. 810",
+   "title": "Wisconsin Statutes, Chapter 810: Replevin",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/810",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20251222234816/https://docs.legis.wisconsin.gov/statutes/statutes/810.pdf",
+     "sha256": "ed63c42f0abf85115c3db5ae95ea9cfbf0429b32ac16c9baafedc5d9ebe9f899"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0811",
+   "short": "Wis. Stat. ch. 811",
+   "title": "Wisconsin Statutes, Chapter 811: Attachment",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/811",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20261031104109/https://docs.legis.wisconsin.gov/statutes/statutes/811.pdf",
+     "sha256": "8368274614194e3f5a5e04c96302bcb62688440784ffdb660af1cf14cf744dab"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0812",
+   "short": "Wis. Stat. ch. 812",
+   "title": "Wisconsin Statutes, Chapter 812: Garnishment",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/812",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20260611062146/https://docs.legis.wisconsin.gov/statutes/statutes/812.pdf",
+     "sha256": "2a33d50f7875e78361237c774d4d4c371826fe8dfd20421f6fd6fe9fafddb6d3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0813",
+   "short": "Wis. Stat. ch. 813",
+   "title": "Wisconsin Statutes, Chapter 813: Injunctions, ne exeat and receivers",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/813",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20261019213053/https://docs.legis.wisconsin.gov/statutes/statutes/813.pdf",
+     "sha256": "81c4c6c26caca6b8e3abcf6122c3137c905ee726631a203834957d19f9ef91a5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0814",
+   "short": "Wis. Stat. ch. 814",
+   "title": "Wisconsin Statutes, Chapter 814: Court costs, fees, and surcharges",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/814",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 62,
+     "source_url": "https://web.archive.org/web/20261019200641/https://docs.legis.wisconsin.gov/statutes/statutes/814.pdf",
+     "sha256": "7303973da002a7229af0265042037514ae87bc1b4cc600a3e69db612241c9333"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0815",
+   "short": "Wis. Stat. ch. 815",
+   "title": "Wisconsin Statutes, Chapter 815: Executions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/815",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20260613191420/https://docs.legis.wisconsin.gov/statutes/statutes/815.pdf",
+     "sha256": "03f45bfee7ebd633aab5008345ba35b774dc96d5b534d2f51658494200e2a275"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0816",
+   "short": "Wis. Stat. ch. 816",
+   "title": "Wisconsin Statutes, Chapter 816: Remedies supplementary to execution",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/816",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20260313120005/https://docs.legis.wisconsin.gov/statutes/statutes/816.pdf",
+     "sha256": "d72c45d3d9276098fce1494725b4b39a47707900bfe273f15875d5527b3a5fb8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0818",
+   "short": "Wis. Stat. ch. 818",
+   "title": "Wisconsin Statutes, Chapter 818: Arrest and bail",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/818",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20261021075615/https://docs.legis.wisconsin.gov/statutes/statutes/818.pdf",
+     "sha256": "e03661e5258556ca1ecb8dc0d697fe3c3f5fe4068b80b23fac97caf3424fc8da"
+    }
+   ]
   }
  ]
 }

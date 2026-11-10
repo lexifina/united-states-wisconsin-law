@@ -302,12 +302,126 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0445` | Wisconsin Statutes, Chapter 445: Funeral directors | 1 | 2026-10-01 to 2026-10-01 |
 | `chapter-0446` | Wisconsin Statutes, Chapter 446: Chiropractic examining board | 1 | 2026-06-19 to 2026-06-19 |
 | `chapter-0447` | Wisconsin Statutes, Chapter 447: Dentistry and dental hygiene | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0448` | Wisconsin Statutes, Chapter 448: Medical practices | 1 | 2025-11-21 to 2025-11-21 |
+| `chapter-0449` | Wisconsin Statutes, Chapter 449: Optometry examining board | 1 | 2026-09-04 to 2026-09-04 |
+| `chapter-0450` | Wisconsin Statutes, Chapter 450: Pharmacy examining board | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0451` | Wisconsin Statutes, Chapter 451: Acupuncture | 1 | 2025-11-01 to 2025-11-01 |
+| `chapter-0452` | Wisconsin Statutes, Chapter 452: Real estate practice | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0454` | Wisconsin Statutes, Chapter 454: Barbering and cosmetology | 1 | 2026-05-13 to 2026-05-13 |
+| `chapter-0455` | Wisconsin Statutes, Chapter 455: Psychology | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0456` | Wisconsin Statutes, Chapter 456: Nursing home administrator examining board | 1 | 2025-11-01 to 2025-11-01 |
+| `chapter-0457` | Wisconsin Statutes, Chapter 457: Marriage and family therapy, professional counseling, and social work | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0458` | Wisconsin Statutes, Chapter 458: Real estate appraisers board | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0459` | Wisconsin Statutes, Chapter 459: Hearing and speech examining board | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0460` | Wisconsin Statutes, Chapter 460: Massage therapy and bodywork therapy | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0462` | Wisconsin Statutes, Chapter 462: Radiographers and limited x-ray machine operators | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0463` | Wisconsin Statutes, Chapter 463: Body art and tanning facilities | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0466` | Wisconsin Statutes, Chapter 466: Naturopathic doctors | 1 | 2026-09-04 to 2026-09-04 |
+| `chapter-0470` | Wisconsin Statutes, Chapter 470: Examining board of professional geologists, hydrologists and soil scientists | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0480` | Wisconsin Statutes, Chapter 480: Auctioneer board | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0551` | Wisconsin Statutes, Chapter 551: Wisconsin uniform securities law | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0552` | Wisconsin Statutes, Chapter 552: Corporate take-over law | 1 | 2025-11-01 to 2025-11-01 |
+| `chapter-0553` | Wisconsin Statutes, Chapter 553: Wisconsin franchise investment law | 1 | 2025-03-07 to 2025-03-07 |
+| `chapter-0562` | Wisconsin Statutes, Chapter 562: Regulation of racing and on-track pari-mutuel wagering | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0563` | Wisconsin Statutes, Chapter 563: Bingo and raffle control | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0565` | Wisconsin Statutes, Chapter 565: State lottery | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0569` | Wisconsin Statutes, Chapter 569: Indian gaming | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0600` | Wisconsin Statutes, Chapter 600: Insurance - general provisions | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0601` | Wisconsin Statutes, Chapter 601: Insurance - administration | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0604` | Wisconsin Statutes, Chapter 604: State insurance funds; general principles | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0605` | Wisconsin Statutes, Chapter 605: Local government property insurance fund | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0607` | Wisconsin Statutes, Chapter 607: State life insurance fund | 1 | 2026-03-01 to 2026-03-01 |
+| `chapter-0609` | Wisconsin Statutes, Chapter 609: Defined network plans | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0610` | Wisconsin Statutes, Chapter 610: Insurers in general | 1 | 2026-03-01 to 2026-03-01 |
+| `chapter-0611` | Wisconsin Statutes, Chapter 611: Domestic stock and mutual insurance corporations | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0612` | Wisconsin Statutes, Chapter 612: Town mutuals | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0613` | Wisconsin Statutes, Chapter 613: Service insurance corporations | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0614` | Wisconsin Statutes, Chapter 614: Insurance - fraternals | 1 | 2026-03-01 to 2026-03-01 |
+| `chapter-0616` | Wisconsin Statutes, Chapter 616: Miscellaneous insurers | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0617` | Wisconsin Statutes, Chapter 617: Regulation of insurance holding companies and intercorporate transactions relating to insurers | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0618` | Wisconsin Statutes, Chapter 618: Nondomestic insurers | 1 | 2025-03-07 to 2025-03-07 |
+| `chapter-0619` | Wisconsin Statutes, Chapter 619: Risk-sharing plans | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0620` | Wisconsin Statutes, Chapter 620: Insurance - investments | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0622` | Wisconsin Statutes, Chapter 622: Own risk and solvency assessment | 1 | 2026-08-05 to 2026-08-05 |
+| `chapter-0623` | Wisconsin Statutes, Chapter 623: Insurance - accounting and reserves | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0625` | Wisconsin Statutes, Chapter 625: Insurance - rate regulation | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0626` | Wisconsin Statutes, Chapter 626: Rate regulation in worker's compensation insurance | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0627` | Wisconsin Statutes, Chapter 627: Underwriting restrictions | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0628` | Wisconsin Statutes, Chapter 628: Insurance marketing | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0629` | Wisconsin Statutes, Chapter 629: Public adjusters | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0630` | Wisconsin Statutes, Chapter 630: General public policy provisions applicable to insurers and others | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0631` | Wisconsin Statutes, Chapter 631: Insurance contracts generally | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0632` | Wisconsin Statutes, Chapter 632: Insurance contracts in specific lines | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0633` | Wisconsin Statutes, Chapter 633: Employee benefit plan administrators, principals, and pharmacy benefit managers | 1 | 2026-06-19 to 2026-06-19 |
+| `chapter-0635` | Wisconsin Statutes, Chapter 635: Small employer health insurance | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0644` | Wisconsin Statutes, Chapter 644: Domestic mutual insurance holding companies | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0645` | Wisconsin Statutes, Chapter 645: Insurers rehabilitation and liquidation | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0646` | Wisconsin Statutes, Chapter 646: Insurance security fund | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0647` | Wisconsin Statutes, Chapter 647: Continuing care contracts | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0648` | Wisconsin Statutes, Chapter 648: Regulation of care management organizations | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0655` | Wisconsin Statutes, Chapter 655: Health care liability and injured patients and families compensation | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0700` | Wisconsin Statutes, Chapter 700: Interests in property | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0701` | Wisconsin Statutes, Chapter 701: Trusts | 1 | 2025-11-21 to 2025-11-21 |
+| `chapter-0702` | Wisconsin Statutes, Chapter 702: Uniform powers of appointment act | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0703` | Wisconsin Statutes, Chapter 703: Condominiums | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0704` | Wisconsin Statutes, Chapter 704: Landlord and tenant | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0705` | Wisconsin Statutes, Chapter 705: Multiple-party and agency accounts; nonprobate transfers at death; transfer on death security registration | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0706` | Wisconsin Statutes, Chapter 706: Conveyances of real property; recording; titles | 1 | 2026-04-03 to 2026-04-03 |
+| `chapter-0707` | Wisconsin Statutes, Chapter 707: Time-share ownership | 1 | 2026-05-22 to 2026-05-22 |
+| `chapter-0708` | Wisconsin Statutes, Chapter 708: Mortgages and land contracts | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0709` | Wisconsin Statutes, Chapter 709: Disclosures by owners of real estate | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0710` | Wisconsin Statutes, Chapter 710: Miscellaneous property provisions | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0711` | Wisconsin Statutes, Chapter 711: Digital property | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0750` | Wisconsin Statutes, Chapter 750: Court of impeachment | 1 | 2025-05-30 to 2025-05-30 |
+| `chapter-0751` | Wisconsin Statutes, Chapter 751: Supreme court | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0752` | Wisconsin Statutes, Chapter 752: Court of appeals | 1 | 2026-03-01 to 2026-03-01 |
+| `chapter-0753` | Wisconsin Statutes, Chapter 753: Circuit courts | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0755` | Wisconsin Statutes, Chapter 755: Municipal court | 1 | 2026-05-22 to 2026-05-22 |
+| `chapter-0756` | Wisconsin Statutes, Chapter 756: Juries | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0757` | Wisconsin Statutes, Chapter 757: General provisions concerning courts of record, judges, attorneys and clerks | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0758` | Wisconsin Statutes, Chapter 758: Judicial branch agencies and committees | 1 | 2026-04-03 to 2026-04-03 |
+| `chapter-0765` | Wisconsin Statutes, Chapter 765: Marriage | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0766` | Wisconsin Statutes, Chapter 766: Property rights of married persons; marital property | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0767` | Wisconsin Statutes, Chapter 767: Actions affecting the family | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0768` | Wisconsin Statutes, Chapter 768: Actions abolished | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0769` | Wisconsin Statutes, Chapter 769: Uniform interstate family support act | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0770` | Wisconsin Statutes, Chapter 770: Domestic partnership | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0775` | Wisconsin Statutes, Chapter 775: Actions against state | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0778` | Wisconsin Statutes, Chapter 778: Collection of forfeitures | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0779` | Wisconsin Statutes, Chapter 779: Liens | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0780` | Wisconsin Statutes, Chapter 780: Liens against vessels | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0781` | Wisconsin Statutes, Chapter 781: Extraordinary remedies | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0782` | Wisconsin Statutes, Chapter 782: Habeas corpus | 1 | 2026-05-22 to 2026-05-22 |
+| `chapter-0783` | Wisconsin Statutes, Chapter 783: Mandamus and prohibition | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0784` | Wisconsin Statutes, Chapter 784: Quo warranto | 1 | 2025-11-21 to 2025-11-21 |
+| `chapter-0785` | Wisconsin Statutes, Chapter 785: Contempt of court | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0786` | Wisconsin Statutes, Chapter 786: Disposition of lands of wards; specific performance; change of names; establish heirships | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0788` | Wisconsin Statutes, Chapter 788: Arbitration | 1 | 2025-11-01 to 2025-11-01 |
+| `chapter-0799` | Wisconsin Statutes, Chapter 799: Procedure in small claims actions | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0800` | Wisconsin Statutes, Chapter 800: Municipal court procedure | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0801` | Wisconsin Statutes, Chapter 801: Civil procedure - commencement of action and venue | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0802` | Wisconsin Statutes, Chapter 802: Civil procedure - pleadings, motions and pretrial practice | 1 | 2026-05-22 to 2026-05-22 |
+| `chapter-0803` | Wisconsin Statutes, Chapter 803: Civil procedure - parties | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0804` | Wisconsin Statutes, Chapter 804: Civil procedure - depositions and discovery | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0805` | Wisconsin Statutes, Chapter 805: Civil procedure - trials | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0806` | Wisconsin Statutes, Chapter 806: Civil procedure - judgment | 1 | 2025-11-21 to 2025-11-21 |
+| `chapter-0807` | Wisconsin Statutes, Chapter 807: Civil procedure - miscellaneous provisions | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0808` | Wisconsin Statutes, Chapter 808: Appeals and writs of error | 1 | 2026-03-01 to 2026-03-01 |
+| `chapter-0809` | Wisconsin Statutes, Chapter 809: Rules of appellate procedure | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0810` | Wisconsin Statutes, Chapter 810: Replevin | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0811` | Wisconsin Statutes, Chapter 811: Attachment | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0812` | Wisconsin Statutes, Chapter 812: Garnishment | 1 | 2026-05-22 to 2026-05-22 |
+| `chapter-0813` | Wisconsin Statutes, Chapter 813: Injunctions, ne exeat and receivers | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0814` | Wisconsin Statutes, Chapter 814: Court costs, fees, and surcharges | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0815` | Wisconsin Statutes, Chapter 815: Executions | 1 | 2026-05-22 to 2026-05-22 |
+| `chapter-0816` | Wisconsin Statutes, Chapter 816: Remedies supplementary to execution | 1 | 2026-03-01 to 2026-03-01 |
+| `chapter-0818` | Wisconsin Statutes, Chapter 818: Arrest and bail | 1 | 2026-10-01 to 2026-10-01 |
 
-The build made 292 commits:
+The build made 406 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 288 | first version of an act |
+| 402 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -315,7 +429,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 288 tags.
+- 402 tags.
 
 ## Dates
 
@@ -327,7 +441,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8fb935388c2c0699c06abdbe24c9aa0b97cc89c718cd592b95e62d7847e27e6f` (46108651 bytes).
+- Corpus: sha256 `c8d6b10cadc7f31e7d54d3fb2fa5f39b86d13bdafcc22648293f0c1aebe9bebc` (53925354 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
