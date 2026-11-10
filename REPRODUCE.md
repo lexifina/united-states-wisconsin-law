@@ -416,12 +416,41 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0815` | Wisconsin Statutes, Chapter 815: Executions | 1 | 2026-05-22 to 2026-05-22 |
 | `chapter-0816` | Wisconsin Statutes, Chapter 816: Remedies supplementary to execution | 1 | 2026-03-01 to 2026-03-01 |
 | `chapter-0818` | Wisconsin Statutes, Chapter 818: Arrest and bail | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0820` | Wisconsin Statutes, Chapter 820: Partition of personal property | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0821` | Wisconsin Statutes, Chapter 821: Uniform certification of questions of law rule | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0822` | Wisconsin Statutes, Chapter 822: Uniform child custody jurisdiction and enforcement act | 1 | 2026-04-03 to 2026-04-03 |
+| `chapter-0823` | Wisconsin Statutes, Chapter 823: Nuisances | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0840` | Wisconsin Statutes, Chapter 840: Real property actions; general provisions | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0841` | Wisconsin Statutes, Chapter 841: Declaration of interest in real property | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0842` | Wisconsin Statutes, Chapter 842: Partition of interest in real property | 1 | 2026-04-03 to 2026-04-03 |
+| `chapter-0843` | Wisconsin Statutes, Chapter 843: Actions for possession of real property; damages for withholding | 1 | 2025-11-21 to 2025-11-21 |
+| `chapter-0844` | Wisconsin Statutes, Chapter 844: Interference with interest; physical injury | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0846` | Wisconsin Statutes, Chapter 846: Real estate foreclosure | 1 | 2025-11-01 to 2025-11-01 |
+| `chapter-0847` | Wisconsin Statutes, Chapter 847: Miscellaneous real estate actions | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0851` | Wisconsin Statutes, Chapter 851: Probate - definitions and general provisions | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0852` | Wisconsin Statutes, Chapter 852: Intestate succession | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0853` | Wisconsin Statutes, Chapter 853: Wills | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0854` | Wisconsin Statutes, Chapter 854: Transfers at death - general rules | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0856` | Wisconsin Statutes, Chapter 856: Opening estates | 1 | 2025-10-15 to 2025-10-15 |
+| `chapter-0857` | Wisconsin Statutes, Chapter 857: Powers and duties of personal representatives | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0858` | Wisconsin Statutes, Chapter 858: Probate - inventory | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0859` | Wisconsin Statutes, Chapter 859: Probate - claims | 1 | 2025-07-29 to 2025-07-29 |
+| `chapter-0860` | Wisconsin Statutes, Chapter 860: Probate - sale, mortgage and lease of property | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0861` | Wisconsin Statutes, Chapter 861: Probate - family rights | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0862` | Wisconsin Statutes, Chapter 862: Probate - accounts | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0863` | Wisconsin Statutes, Chapter 863: Closing estates | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0865` | Wisconsin Statutes, Chapter 865: Probate - informal administration | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0867` | Wisconsin Statutes, Chapter 867: Probate - summary procedures | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0868` | Wisconsin Statutes, Chapter 868: Probate - ancillary procedures | 1 | 2025-11-01 to 2025-11-01 |
+| `chapter-0877` | Wisconsin Statutes, Chapter 877: Actions by and against personal representatives, heirs, and legatees | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0878` | Wisconsin Statutes, Chapter 878: Probate bonds | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0879` | Wisconsin Statutes, Chapter 879: Probate - notice, appearance, appeal and miscellaneous procedure | 1 | 2026-10-01 to 2026-10-01 |
 
-The build made 406 commits:
+The build made 435 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 402 | first version of an act |
+| 431 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -429,7 +458,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 402 tags.
+- 431 tags.
 
 ## Dates
 
@@ -441,7 +470,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `c8d6b10cadc7f31e7d54d3fb2fa5f39b86d13bdafcc22648293f0c1aebe9bebc` (53925354 bytes).
+- Corpus: sha256 `8dbc69ed8d2dcc9b4f84e257d170eec3c487aac24a430ece3abb4070298bbac9` (54703612 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

@@ -5628,6 +5628,412 @@
      "sha256": "e03661e5258556ca1ecb8dc0d697fe3c3f5fe4068b80b23fac97caf3424fc8da"
     }
    ]
+  },
+  {
+   "slug": "chapter-0820",
+   "short": "Wis. Stat. ch. 820",
+   "title": "Wisconsin Statutes, Chapter 820: Partition of personal property",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/820",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20251224000137/https://docs.legis.wisconsin.gov/statutes/statutes/820.pdf",
+     "sha256": "dae94c002e8cc7c4492fb7ede036e8d0b9055d5f12d722cb27c882f619038e99"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0821",
+   "short": "Wis. Stat. ch. 821",
+   "title": "Wisconsin Statutes, Chapter 821: Uniform certification of questions of law rule",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/821",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20260219002058/https://docs.legis.wisconsin.gov/statutes/statutes/821.pdf",
+     "sha256": "222fb9701c95d22f608a7554d8aef766b1fee9bac073b95da99cb94689a34ef1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0822",
+   "short": "Wis. Stat. ch. 822",
+   "title": "Wisconsin Statutes, Chapter 822: Uniform child custody jurisdiction and enforcement act",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/822",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 39,
+     "source_url": "https://web.archive.org/web/20260418231347/https://docs.legis.wisconsin.gov/statutes/statutes/822.pdf",
+     "sha256": "5655190d19bb29430d87b34208cdb6eee896eb731e32151d68296e2d40de587b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0823",
+   "short": "Wis. Stat. ch. 823",
+   "title": "Wisconsin Statutes, Chapter 823: Nuisances",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/823",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20261022073247/https://docs.legis.wisconsin.gov/statutes/statutes/823.pdf",
+     "sha256": "83abf5429b3d0a87dd79871807e2b31c0b1d5555b3914202bc87330a687fec8b"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0840",
+   "short": "Wis. Stat. ch. 840",
+   "title": "Wisconsin Statutes, Chapter 840: Real property actions; general provisions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/840",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20261029015442/https://docs.legis.wisconsin.gov/statutes/statutes/840.pdf",
+     "sha256": "3591fd44983989501cbcb67c0903bfa83ca584b5b4af8b373844647139bdd696"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0841",
+   "short": "Wis. Stat. ch. 841",
+   "title": "Wisconsin Statutes, Chapter 841: Declaration of interest in real property",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/841",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20261019200519/https://docs.legis.wisconsin.gov/statutes/statutes/841.pdf",
+     "sha256": "31251dd99e408402cc15be1036db28d7ec2249ac8c147403e52c87e7ce85159c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0842",
+   "short": "Wis. Stat. ch. 842",
+   "title": "Wisconsin Statutes, Chapter 842: Partition of interest in real property",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/842",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 31,
+     "source_url": "https://web.archive.org/web/20260511091416/https://docs.legis.wisconsin.gov/statutes/statutes/842.pdf",
+     "sha256": "7e1263e42fe4b5ff64b647ad7d113869bca9e2b4ba67405ffdb0ba6f233e00a4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0843",
+   "short": "Wis. Stat. ch. 843",
+   "title": "Wisconsin Statutes, Chapter 843: Actions for possession of real property; damages for withholding",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/843",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20251209111909/https://docs.legis.wisconsin.gov/statutes/statutes/843.pdf",
+     "sha256": "67809676ee6b1b9cb81ffa3d00d5f83919c3a62a4f3610c21f9ed68944b55ce9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0844",
+   "short": "Wis. Stat. ch. 844",
+   "title": "Wisconsin Statutes, Chapter 844: Interference with interest; physical injury",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/844",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261016214447/https://docs.legis.wisconsin.gov/statutes/statutes/844.pdf",
+     "sha256": "1da67431d2238086998799e4c11e949bf81fc9c459b24b0b534b206a007fb79d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0846",
+   "short": "Wis. Stat. ch. 846",
+   "title": "Wisconsin Statutes, Chapter 846: Real estate foreclosure",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/846",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20251113175435/https://docs.legis.wisconsin.gov/statutes/statutes/846.pdf",
+     "sha256": "12543a0f10cd34ccce32f19006d49e3732416da313aa2599c104749758cbcf18"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0847",
+   "short": "Wis. Stat. ch. 847",
+   "title": "Wisconsin Statutes, Chapter 847: Miscellaneous real estate actions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/847",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20261021133638/https://docs.legis.wisconsin.gov/statutes/statutes/847.pdf",
+     "sha256": "18437bb7f18f42031e52fa73be449e3a0a8a8b492d63a15bab9d9e6d50a897b6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0851",
+   "short": "Wis. Stat. ch. 851",
+   "title": "Wisconsin Statutes, Chapter 851: Probate - definitions and general provisions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/851",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20261022065722/https://docs.legis.wisconsin.gov/statutes/statutes/851.pdf",
+     "sha256": "7a883811ed5cfec4e90f6edf600d7a5d989ca1a80fcb9fc0afac29efddc3f689"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0852",
+   "short": "Wis. Stat. ch. 852",
+   "title": "Wisconsin Statutes, Chapter 852: Intestate succession",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/852",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20261018090544/https://docs.legis.wisconsin.gov/statutes/statutes/852.pdf",
+     "sha256": "3a04cbe6b48e81bbc68ffced71a847d0e56d6f2b04365d14627f795869c9f95a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0853",
+   "short": "Wis. Stat. ch. 853",
+   "title": "Wisconsin Statutes, Chapter 853: Wills",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/853",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20261009110111/https://docs.legis.wisconsin.gov/statutes/statutes/853.pdf",
+     "sha256": "6223b0d047f375044d5e4c69b40ede9b48c678bc69754b3ca32e2c80d29a4404"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0854",
+   "short": "Wis. Stat. ch. 854",
+   "title": "Wisconsin Statutes, Chapter 854: Transfers at death - general rules",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/854",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20261017144048/https://docs.legis.wisconsin.gov/statutes/statutes/854.pdf",
+     "sha256": "a9ea98d9e737a7ea4844f0e2b0d5fd96af22105d77b8f130321e7c20106167f3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0856",
+   "short": "Wis. Stat. ch. 856",
+   "title": "Wisconsin Statutes, Chapter 856: Opening estates",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/856",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20251027200056/https://docs.legis.wisconsin.gov/statutes/statutes/856.pdf",
+     "sha256": "f8223be96b0eaa19c9bc3c325ea2066983c3b15f226688a27ec64882539ade45"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0857",
+   "short": "Wis. Stat. ch. 857",
+   "title": "Wisconsin Statutes, Chapter 857: Powers and duties of personal representatives",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/857",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20261020234318/https://docs.legis.wisconsin.gov/statutes/statutes/857.pdf",
+     "sha256": "641b1d981f01c4de1f7c960559fd7b17861963aff4596de9e5b1c0d1faa544c1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0858",
+   "short": "Wis. Stat. ch. 858",
+   "title": "Wisconsin Statutes, Chapter 858: Probate - inventory",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/858",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20261022061344/https://docs.legis.wisconsin.gov/statutes/statutes/858.pdf",
+     "sha256": "500c2df20a3ccb71fae270235dcb6e061ffb1963dc38dc9af769d1b378b24802"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0859",
+   "short": "Wis. Stat. ch. 859",
+   "title": "Wisconsin Statutes, Chapter 859: Probate - claims",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/859",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 28,
+     "source_url": "https://web.archive.org/web/20250810233627/https://docs.legis.wisconsin.gov/statutes/statutes/859.pdf",
+     "sha256": "86c2f3f79d56b3601464b73498241adccfa144d5f425d2a0201e06653262fc55"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0860",
+   "short": "Wis. Stat. ch. 860",
+   "title": "Wisconsin Statutes, Chapter 860: Probate - sale, mortgage and lease of property",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/860",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20261017080519/https://docs.legis.wisconsin.gov/statutes/statutes/860.pdf",
+     "sha256": "5895d47f46bbf78e0dd1657549dfd7b4f3579bf356a98602a50c54cf6453daf9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0861",
+   "short": "Wis. Stat. ch. 861",
+   "title": "Wisconsin Statutes, Chapter 861: Probate - family rights",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/861",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20261027224944/https://docs.legis.wisconsin.gov/statutes/statutes/861.pdf",
+     "sha256": "b930742ce4bcc2b8f96b66e4167c7b9f5729a2293deb489806d27ebb3930ed69"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0862",
+   "short": "Wis. Stat. ch. 862",
+   "title": "Wisconsin Statutes, Chapter 862: Probate - accounts",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/862",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20251225125613/https://docs.legis.wisconsin.gov/statutes/statutes/862.pdf",
+     "sha256": "fde817f2faa1125b58ec99e5c6df0ba656cf49cecf79bdc2a74dc4310bc5183f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0863",
+   "short": "Wis. Stat. ch. 863",
+   "title": "Wisconsin Statutes, Chapter 863: Closing estates",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/863",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20261027125717/https://docs.legis.wisconsin.gov/statutes/statutes/863.pdf",
+     "sha256": "8cbc6b0f268b87e0b1ac1083c434eabfd8461d2ee1fc69bff59d6d3dd0267e08"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0865",
+   "short": "Wis. Stat. ch. 865",
+   "title": "Wisconsin Statutes, Chapter 865: Probate - informal administration",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/865",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20260210190328/https://docs.legis.wisconsin.gov/statutes/statutes/865.pdf",
+     "sha256": "a2172d4b6ff295b1d2a85df29c90d252a46630378f09bf7c2a37ed4aba6d1052"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0867",
+   "short": "Wis. Stat. ch. 867",
+   "title": "Wisconsin Statutes, Chapter 867: Probate - summary procedures",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/867",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20261027113131/https://docs.legis.wisconsin.gov/statutes/statutes/867.pdf",
+     "sha256": "9471814b8c009ec20c7e74ba0a140b3aa0a797aa6c5cdb5acdaaef1b0b196dc6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0868",
+   "short": "Wis. Stat. ch. 868",
+   "title": "Wisconsin Statutes, Chapter 868: Probate - ancillary procedures",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/868",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20251117044237/https://docs.legis.wisconsin.gov/statutes/statutes/868.pdf",
+     "sha256": "ca1b0beea27f7d21401fd9c7006701bb02465a9f93e03006da327beaab9f2c00"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0877",
+   "short": "Wis. Stat. ch. 877",
+   "title": "Wisconsin Statutes, Chapter 877: Actions by and against personal representatives, heirs, and legatees",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/877",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20261021200431/https://docs.legis.wisconsin.gov/statutes/statutes/877.pdf",
+     "sha256": "a97391767fe8e232afc6ca1a81ea7d1179592fc604767dc12ed76eac582ebcc2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0878",
+   "short": "Wis. Stat. ch. 878",
+   "title": "Wisconsin Statutes, Chapter 878: Probate bonds",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/878",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20251223143158/https://docs.legis.wisconsin.gov/statutes/statutes/878.pdf",
+     "sha256": "f546fcae3aaff27cc393627b9fcc301ecaa0de1273744baf030c33ea0f5af820"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0879",
+   "short": "Wis. Stat. ch. 879",
+   "title": "Wisconsin Statutes, Chapter 879: Probate - notice, appearance, appeal and miscellaneous procedure",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/879",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 34,
+     "source_url": "https://web.archive.org/web/20261028015501/https://docs.legis.wisconsin.gov/statutes/statutes/879.pdf",
+     "sha256": "ff54966dbaef03df6d382f3c720666d26921436bfd6b5f9870550c8227f86b25"
+    }
+   ]
   }
  ]
 }
