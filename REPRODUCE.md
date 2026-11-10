@@ -120,12 +120,69 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0111` | Wisconsin Statutes, Chapter 111: Employment relations | 1 | 2026-10-01 to 2026-10-01 |
 | `chapter-0112` | Wisconsin Statutes, Chapter 112: Fiduciaries | 1 | 2026-10-01 to 2026-10-01 |
 | `chapter-0113` | Wisconsin Statutes, Chapter 113: Uniform joint obligations act | 1 | 2026-04-03 to 2026-04-03 |
+| `chapter-0114` | Wisconsin Statutes, Chapter 114: Aeronautics and astronautics | 1 | 2025-11-01 to 2025-11-01 |
+| `chapter-0115` | Wisconsin Statutes, Chapter 115: State superintendent; general classifications and definitions; children with disabilities | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0116` | Wisconsin Statutes, Chapter 116: Cooperative educational service agencies | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0117` | Wisconsin Statutes, Chapter 117: School district reorganization | 1 | 2026-09-04 to 2026-09-04 |
+| `chapter-0118` | Wisconsin Statutes, Chapter 118: General school operations | 1 | 2026-09-04 to 2026-09-04 |
+| `chapter-0119` | Wisconsin Statutes, Chapter 119: First class city school system | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0120` | Wisconsin Statutes, Chapter 120: School district government | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0121` | Wisconsin Statutes, Chapter 121: School finance | 1 | 2025-11-21 to 2025-11-21 |
+| `chapter-0125` | Wisconsin Statutes, Chapter 125: Alcohol beverages | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0126` | Wisconsin Statutes, Chapter 126: Agricultural producer security | 1 | 2026-05-13 to 2026-05-13 |
+| `chapter-0128` | Wisconsin Statutes, Chapter 128: Creditors' actions | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0129` | Wisconsin Statutes, Chapter 129: Consignments of works of fine art | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0132` | Wisconsin Statutes, Chapter 132: Trademarks, badges and labeled products | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0133` | Wisconsin Statutes, Chapter 133: Trusts and monopolies | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0134` | Wisconsin Statutes, Chapter 134: Miscellaneous trade regulations | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0135` | Wisconsin Statutes, Chapter 135: Dealership practices | 1 | 2026-08-05 to 2026-08-05 |
+| `chapter-0136` | Wisconsin Statutes, Chapter 136: Future service plans | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0137` | Wisconsin Statutes, Chapter 137: Electronic transactions and records | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0138` | Wisconsin Statutes, Chapter 138: Money and rates of interest | 1 | 2026-03-01 to 2026-03-01 |
+| `chapter-0139` | Wisconsin Statutes, Chapter 139: Beverage and tobacco taxes | 1 | 2026-05-22 to 2026-05-22 |
+| `chapter-0140` | Wisconsin Statutes, Chapter 140: Notaries public; notarial acts | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0145` | Wisconsin Statutes, Chapter 145: Plumbing and fire protection systems and swimming pool plan review | 1 | 2025-07-08 to 2025-07-08 |
+| `chapter-0146` | Wisconsin Statutes, Chapter 146: Miscellaneous health provisions | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0148` | Wisconsin Statutes, Chapter 148: Medical societies | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0150` | Wisconsin Statutes, Chapter 150: Regulation of health services | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0153` | Wisconsin Statutes, Chapter 153: Health care information | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0154` | Wisconsin Statutes, Chapter 154: Advance directives | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0155` | Wisconsin Statutes, Chapter 155: Power of attorney for health care | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0157` | Wisconsin Statutes, Chapter 157: Disposition of human remains | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0160` | Wisconsin Statutes, Chapter 160: Groundwater protection standards | 1 | 2025-03-07 to 2025-03-07 |
+| `chapter-0164` | Wisconsin Statutes, Chapter 164: Law enforcement officers' bill of rights | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0165` | Wisconsin Statutes, Chapter 165: Department of justice | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0167` | Wisconsin Statutes, Chapter 167: Safeguards of persons and property | 1 | 2026-05-22 to 2026-05-22 |
+| `chapter-0168` | Wisconsin Statutes, Chapter 168: Petroleum products and dangerous substances | 1 | 2026-05-22 to 2026-05-22 |
+| `chapter-0169` | Wisconsin Statutes, Chapter 169: Captive wildlife | 1 | 2025-07-08 to 2025-07-08 |
+| `chapter-0170` | Wisconsin Statutes, Chapter 170: Strays and lost chattels | 1 | 2026-04-03 to 2026-04-03 |
+| `chapter-0171` | Wisconsin Statutes, Chapter 171: Unclaimed property | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0172` | Wisconsin Statutes, Chapter 172: Animals distrained or doing damage | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0173` | Wisconsin Statutes, Chapter 173: Animals; humane officers | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0174` | Wisconsin Statutes, Chapter 174: Dogs | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0175` | Wisconsin Statutes, Chapter 175: Miscellaneous police provisions | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0177` | Wisconsin Statutes, Chapter 177: Uniform unclaimed property act | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0178` | Wisconsin Statutes, Chapter 178: Uniform partnership law | 1 | 2025-11-21 to 2025-11-21 |
+| `chapter-0179` | Wisconsin Statutes, Chapter 179: Uniform limited partnership law | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0180` | Wisconsin Statutes, Chapter 180: Business corporations | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0181` | Wisconsin Statutes, Chapter 181: Nonstock corporations | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0182` | Wisconsin Statutes, Chapter 182: Miscellaneous corporate provisions; turnpike corporations | 1 | 2026-07-01 to 2026-07-01 |
+| `chapter-0183` | Wisconsin Statutes, Chapter 183: Uniform limited liability company law | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0184` | Wisconsin Statutes, Chapter 184: Uniform unincorporated nonprofit association act | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0185` | Wisconsin Statutes, Chapter 185: Cooperatives | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0186` | Wisconsin Statutes, Chapter 186: Credit unions | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0187` | Wisconsin Statutes, Chapter 187: Religious societies | 1 | 2026-05-22 to 2026-05-22 |
+| `chapter-0188` | Wisconsin Statutes, Chapter 188: Fraternal societies | 1 | 2025-11-21 to 2025-11-21 |
+| `chapter-0189` | Wisconsin Statutes, Chapter 189: Office of the commissioner of railroads | 1 | 2026-05-13 to 2026-05-13 |
+| `chapter-0190` | Wisconsin Statutes, Chapter 190: Railroads; organization and management | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0191` | Wisconsin Statutes, Chapter 191: Railroads; construction | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0192` | Wisconsin Statutes, Chapter 192: Railroads; regulations and liabilities | 1 | 2026-04-03 to 2026-04-03 |
 
-The build made 106 commits:
+The build made 167 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 106 | first version of an act |
+| 163 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -133,7 +190,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 106 tags.
+- 163 tags.
 
 ## Dates
 
@@ -145,7 +202,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `d2058e5c70439374a9f1486435d5d0ae69a4ed370f2d271f6c3dd03cf82796a8` (25469714 bytes).
+- Corpus: sha256 `62a4252c74868bfd1607de39b1114642b448a913b4b92e49703759071966ad9c` (32832309 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -154,8 +211,6 @@ When a law gives no date of its own, the default rule applies: No dated history 
 Not yet run for this build.
 
 No second build of this corpus has been compared yet.
-
-On GitHub this history follows the repository's first commit ("sources, before any law"), so each commit there has that parent and a committer time of its own; `tools/build.py` rebuilds the same files in the same commits, with the hashes quoted above.
 
 ## Decisions made by hand
 
