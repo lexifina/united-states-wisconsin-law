@@ -445,12 +445,66 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0877` | Wisconsin Statutes, Chapter 877: Actions by and against personal representatives, heirs, and legatees | 1 | 2026-10-01 to 2026-10-01 |
 | `chapter-0878` | Wisconsin Statutes, Chapter 878: Probate bonds | 1 | 2025-12-19 to 2025-12-19 |
 | `chapter-0879` | Wisconsin Statutes, Chapter 879: Probate - notice, appearance, appeal and miscellaneous procedure | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0881` | Wisconsin Statutes, Chapter 881: Trust fund investments | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0882` | Wisconsin Statutes, Chapter 882: Adoption of adults | 1 | 2025-11-01 to 2025-11-01 |
+| `chapter-0885` | Wisconsin Statutes, Chapter 885: Witnesses and oral testimony | 1 | 2026-05-13 to 2026-05-13 |
+| `chapter-0887` | Wisconsin Statutes, Chapter 887: Depositions, oaths and affidavits | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0889` | Wisconsin Statutes, Chapter 889: Documentary and record evidence | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0891` | Wisconsin Statutes, Chapter 891: Presumptions | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0893` | Wisconsin Statutes, Chapter 893: Limitations of commencement of actions and proceedings; procedure for claims against governmental units | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0895` | Wisconsin Statutes, Chapter 895: Damages, liability, and miscellaneous provisions regarding actions in courts | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0898` | Wisconsin Statutes, Chapter 898: Persons in jail on civil process | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0901` | Wisconsin Statutes, Chapter 901: Evidence - general provisions | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0902` | Wisconsin Statutes, Chapter 902: Evidence - judicial notice | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0903` | Wisconsin Statutes, Chapter 903: Evidence - presumptions | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0904` | Wisconsin Statutes, Chapter 904: Evidence - relevancy and its limits | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0905` | Wisconsin Statutes, Chapter 905: Evidence - privileges | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0906` | Wisconsin Statutes, Chapter 906: Evidence - witnesses | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0907` | Wisconsin Statutes, Chapter 907: Evidence - opinions and expert testimony | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0908` | Wisconsin Statutes, Chapter 908: Evidence - hearsay | 1 | 2025-08-13 to 2025-08-13 |
+| `chapter-0909` | Wisconsin Statutes, Chapter 909: Evidence - authentication and identification | 1 | 2025-08-13 to 2025-08-13 |
+| `chapter-0910` | Wisconsin Statutes, Chapter 910: Evidence - contents of writings, recordings and photographs | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0911` | Wisconsin Statutes, Chapter 911: Evidence - miscellaneous rules | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0938` | Wisconsin Statutes, Chapter 938: Juvenile justice code | 1 | 2025-07-08 to 2025-07-08 |
+| `chapter-0939` | Wisconsin Statutes, Chapter 939: Crimes - general provisions | 1 | 2025-11-21 to 2025-11-21 |
+| `chapter-0940` | Wisconsin Statutes, Chapter 940: Crimes against life and bodily security | 1 | 2026-05-22 to 2026-05-22 |
+| `chapter-0941` | Wisconsin Statutes, Chapter 941: Crimes against public health and safety | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0942` | Wisconsin Statutes, Chapter 942: Crimes against reputation, privacy and civil liberties | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0943` | Wisconsin Statutes, Chapter 943: Crimes against property | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0944` | Wisconsin Statutes, Chapter 944: Crimes against sexual morality | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0945` | Wisconsin Statutes, Chapter 945: Gambling | 1 | 2025-03-07 to 2025-03-07 |
+| `chapter-0946` | Wisconsin Statutes, Chapter 946: Crimes against government and its administration | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0947` | Wisconsin Statutes, Chapter 947: Crimes against public peace, order and other interests | 1 | 2026-05-22 to 2026-05-22 |
+| `chapter-0948` | Wisconsin Statutes, Chapter 948: Crimes against children | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0949` | Wisconsin Statutes, Chapter 949: Awards for the victims of crimes | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0950` | Wisconsin Statutes, Chapter 950: Rights of victims and witnesses of crime | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0951` | Wisconsin Statutes, Chapter 951: Crimes against animals | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0961` | Wisconsin Statutes, Chapter 961: Uniform controlled substances act | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0967` | Wisconsin Statutes, Chapter 967: Criminal procedure - general provisions | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0968` | Wisconsin Statutes, Chapter 968: Commencement of criminal proceedings | 1 | 2025-11-21 to 2025-11-21 |
+| `chapter-0969` | Wisconsin Statutes, Chapter 969: Bail and other conditions of release | 1 | 2026-04-03 to 2026-04-03 |
+| `chapter-0970` | Wisconsin Statutes, Chapter 970: Criminal procedure - preliminary proceedings | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0971` | Wisconsin Statutes, Chapter 971: Criminal procedure - proceedings before and at trial | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0972` | Wisconsin Statutes, Chapter 972: Criminal trials | 1 | 2026-05-13 to 2026-05-13 |
+| `chapter-0973` | Wisconsin Statutes, Chapter 973: Sentencing | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0974` | Wisconsin Statutes, Chapter 974: Criminal procedure - appeals, new trials and writs of error | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0975` | Wisconsin Statutes, Chapter 975: Sex crimes law | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0976` | Wisconsin Statutes, Chapter 976: Uniform acts in criminal proceedings | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0977` | Wisconsin Statutes, Chapter 977: State public defender | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0978` | Wisconsin Statutes, Chapter 978: District attorneys | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0979` | Wisconsin Statutes, Chapter 979: Investigation of deaths | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0980` | Wisconsin Statutes, Chapter 980: Sexually violent person commitments | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0985` | Wisconsin Statutes, Chapter 985: Publication of legal notices; public newspapers; fees | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0990` | Wisconsin Statutes, Chapter 990: Construction of statutes | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0991` | Wisconsin Statutes, Chapter 991: Acts and statutes - effective date, numbering, citation and repeal | 1 | 2025-06-25 to 2025-06-25 |
+| `chapter-0992` | Wisconsin Statutes, Chapter 992: Curative acts | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0995` | Wisconsin Statutes, Chapter 995: Miscellaneous statutes | 1 | 2026-10-01 to 2026-10-01 |
 
-The build made 435 commits:
+The build made 489 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 431 | first version of an act |
+| 485 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -458,7 +512,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 431 tags.
+- 485 tags.
 
 ## Dates
 
@@ -470,7 +524,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8dbc69ed8d2dcc9b4f84e257d170eec3c487aac24a430ece3abb4070298bbac9` (54703612 bytes).
+- Corpus: sha256 `e157bab7d706a7ade206bbffdd9471a5a3cd3862acd5ae3bdaef777211efbc54` (58631025 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

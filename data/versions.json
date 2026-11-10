@@ -6034,6 +6034,762 @@
      "sha256": "ff54966dbaef03df6d382f3c720666d26921436bfd6b5f9870550c8227f86b25"
     }
    ]
+  },
+  {
+   "slug": "chapter-0881",
+   "short": "Wis. Stat. ch. 881",
+   "title": "Wisconsin Statutes, Chapter 881: Trust fund investments",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/881",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20261101115035/https://docs.legis.wisconsin.gov/statutes/statutes/881.pdf",
+     "sha256": "08ec081a2783c77982515647d510c4feb3f0e650dc06b36c0cfe335cc47577ec"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0882",
+   "short": "Wis. Stat. ch. 882",
+   "title": "Wisconsin Statutes, Chapter 882: Adoption of adults",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/882",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20251118113522/https://docs.legis.wisconsin.gov/statutes/statutes/882.pdf",
+     "sha256": "256e7d155b096802735f0954b538ece2c5f3f62ba08696c57deabf3b0ef18875"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0885",
+   "short": "Wis. Stat. ch. 885",
+   "title": "Wisconsin Statutes, Chapter 885: Witnesses and oral testimony",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/885",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20260514005317/https://docs.legis.wisconsin.gov/statutes/statutes/885.pdf",
+     "sha256": "16a10549d617374839be15a1eb9754e084c2bfcb97cc7e623809167850e35268"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0887",
+   "short": "Wis. Stat. ch. 887",
+   "title": "Wisconsin Statutes, Chapter 887: Depositions, oaths and affidavits",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/887",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261025044837/https://docs.legis.wisconsin.gov/statutes/statutes/887.pdf",
+     "sha256": "546f9403354f91e9e49c69ad03bcd380dfba236f8fbbd1bce4b32f68eabf863c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0889",
+   "short": "Wis. Stat. ch. 889",
+   "title": "Wisconsin Statutes, Chapter 889: Documentary and record evidence",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/889",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 25,
+     "source_url": "https://web.archive.org/web/20261026190402/https://docs.legis.wisconsin.gov/statutes/statutes/889.pdf",
+     "sha256": "918fa3a49cbe67b91ddde3ddf4cfbf6fcf208f4e353b0c31f86b4734231695a2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0891",
+   "short": "Wis. Stat. ch. 891",
+   "title": "Wisconsin Statutes, Chapter 891: Presumptions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/891",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 45,
+     "source_url": "https://web.archive.org/web/20261027082031/https://docs.legis.wisconsin.gov/statutes/statutes/891.pdf",
+     "sha256": "19a4f22a7761af0f9d4ae9431194c8702b0abee5dfd1099a6add1a012a1ae997"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0893",
+   "short": "Wis. Stat. ch. 893",
+   "title": "Wisconsin Statutes, Chapter 893: Limitations of commencement of actions and proceedings; procedure for claims against governmental units",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/893",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 102,
+     "source_url": "https://web.archive.org/web/20261022235432/https://docs.legis.wisconsin.gov/statutes/statutes/893.pdf",
+     "sha256": "7054bdd621e2569825bece356294e98e7c2f32b8d0738f2776b5f53568619763"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0895",
+   "short": "Wis. Stat. ch. 895",
+   "title": "Wisconsin Statutes, Chapter 895: Damages, liability, and miscellaneous provisions regarding actions in courts",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/895",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 111,
+     "source_url": "https://web.archive.org/web/20261016230207/https://docs.legis.wisconsin.gov/statutes/statutes/895.pdf",
+     "sha256": "0bab5127561e1a608c76fc2cfba41ca77853a6af1d6a3ba1953f3a34ae4af239"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0898",
+   "short": "Wis. Stat. ch. 898",
+   "title": "Wisconsin Statutes, Chapter 898: Persons in jail on civil process",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/898",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20261019020327/https://docs.legis.wisconsin.gov/statutes/statutes/898.pdf",
+     "sha256": "cb6aac2e50c5496bb26042e22fe813523e2c2e54c4745ff90a0d2a82d45f6377"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0901",
+   "short": "Wis. Stat. ch. 901",
+   "title": "Wisconsin Statutes, Chapter 901: Evidence - general provisions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/901",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20261101160209/https://docs.legis.wisconsin.gov/statutes/statutes/901.pdf",
+     "sha256": "508c2f4859be86830e7ba1b52fe7dd91ede5b5bd71527270acbb0c11f2ed3f2c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0902",
+   "short": "Wis. Stat. ch. 902",
+   "title": "Wisconsin Statutes, Chapter 902: Evidence - judicial notice",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/902",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20261022002128/https://docs.legis.wisconsin.gov/statutes/statutes/902.pdf",
+     "sha256": "882b7537ed413d73e85d39b1dc6dd9ed34aebf78b3000788247f9b0bb23ae9fa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0903",
+   "short": "Wis. Stat. ch. 903",
+   "title": "Wisconsin Statutes, Chapter 903: Evidence - presumptions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/903",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20261027175607/https://docs.legis.wisconsin.gov/statutes/statutes/903.pdf",
+     "sha256": "54e84beeba6674749a7442a2971b2d7adbc64cd0e7354c072ecd6ce9ac90827d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0904",
+   "short": "Wis. Stat. ch. 904",
+   "title": "Wisconsin Statutes, Chapter 904: Evidence - relevancy and its limits",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/904",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20261020234318/https://docs.legis.wisconsin.gov/statutes/statutes/904.pdf",
+     "sha256": "abc5efd0b5018a83a9a2803c58cd7f0f2a54ea645c40e057b06ef50997c42cb4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0905",
+   "short": "Wis. Stat. ch. 905",
+   "title": "Wisconsin Statutes, Chapter 905: Evidence - privileges",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/905",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 20,
+     "source_url": "https://web.archive.org/web/20261026141422/https://docs.legis.wisconsin.gov/statutes/statutes/905.pdf",
+     "sha256": "14288013bc22d93f83751adc0a6d12cffec255f0606ca67e50e969f140faafd2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0906",
+   "short": "Wis. Stat. ch. 906",
+   "title": "Wisconsin Statutes, Chapter 906: Evidence - witnesses",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/906",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20261022012951/https://docs.legis.wisconsin.gov/statutes/statutes/906.pdf",
+     "sha256": "21114403fc28e3ae9abd43c0de8a44eea5d94d677894856de67a7fefdc7c595c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0907",
+   "short": "Wis. Stat. ch. 907",
+   "title": "Wisconsin Statutes, Chapter 907: Evidence - opinions and expert testimony",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/907",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20261020002628/https://docs.legis.wisconsin.gov/statutes/statutes/907.pdf",
+     "sha256": "5379705e2008bac6c9dc2df85eacca9f33edbdc2eea3a2d541f4d1927e8755f9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0908",
+   "short": "Wis. Stat. ch. 908",
+   "title": "Wisconsin Statutes, Chapter 908: Evidence - hearsay",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/908",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250826211959/https://docs.legis.wisconsin.gov/statutes/statutes/908.pdf",
+     "sha256": "907ac8ef5a2b3a20df247b21cbe8a631df3ca6e4bee7b75701eae27239664cee"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0909",
+   "short": "Wis. Stat. ch. 909",
+   "title": "Wisconsin Statutes, Chapter 909: Evidence - authentication and identification",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/909",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250813220720/https://docs.legis.wisconsin.gov/statutes/statutes/909.pdf",
+     "sha256": "af9466d19714c88ae940a02d48d94707ea416e7d315f6a9c4f9bab108f37e044"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0910",
+   "short": "Wis. Stat. ch. 910",
+   "title": "Wisconsin Statutes, Chapter 910: Evidence - contents of writings, recordings and photographs",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/910",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261025094051/https://docs.legis.wisconsin.gov/statutes/statutes/910.pdf",
+     "sha256": "f5eb89e5a9024678670768c9c02435698bb321735f50d7f4fe1c7711f4479830"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0911",
+   "short": "Wis. Stat. ch. 911",
+   "title": "Wisconsin Statutes, Chapter 911: Evidence - miscellaneous rules",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/911",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20261030230304/https://docs.legis.wisconsin.gov/statutes/statutes/911.pdf",
+     "sha256": "521ab5843b83a2c452856176f820e55f7bbb61523ddd1ec3cb9d27296cfc0a4c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0938",
+   "short": "Wis. Stat. ch. 938",
+   "title": "Wisconsin Statutes, Chapter 938: Juvenile justice code",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/938",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 127,
+     "source_url": "https://web.archive.org/web/20250714003105/https://docs.legis.wisconsin.gov/statutes/statutes/938.pdf",
+     "sha256": "08d2b064a0e5f83c04a940a551a88aeb04acc38bfe2f667fd3a2de928ad21dbb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0939",
+   "short": "Wis. Stat. ch. 939",
+   "title": "Wisconsin Statutes, Chapter 939: Crimes - general provisions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/939",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 48,
+     "source_url": "https://web.archive.org/web/20251213052245/https://docs.legis.wisconsin.gov/statutes/statutes/939.pdf",
+     "sha256": "6947daaf382b60068fd6eba18c15d9eb50d11ac02b95e2744a3a94c8aae8ca55"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0940",
+   "short": "Wis. Stat. ch. 940",
+   "title": "Wisconsin Statutes, Chapter 940: Crimes against life and bodily security",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/940",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 48,
+     "source_url": "https://web.archive.org/web/20260525213807/https://docs.legis.wisconsin.gov/statutes/statutes/940.pdf",
+     "sha256": "bb2f5ce19255b7102f243ae3a03703d628a3042ff364e987d4a213c634ff42be"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0941",
+   "short": "Wis. Stat. ch. 941",
+   "title": "Wisconsin Statutes, Chapter 941: Crimes against public health and safety",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/941",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20261023141928/https://docs.legis.wisconsin.gov/statutes/statutes/941.pdf",
+     "sha256": "699dd6e6244e3887088620aa522ab9c0d3dd04146b2257b23bb2ed96010af6d9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0942",
+   "short": "Wis. Stat. ch. 942",
+   "title": "Wisconsin Statutes, Chapter 942: Crimes against reputation, privacy and civil liberties",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/942",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20261022072434/https://docs.legis.wisconsin.gov/statutes/statutes/942.pdf",
+     "sha256": "63130995c377c229e593c874be0fbfde6f936aee74d97107f0dc99379dbc7764"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0943",
+   "short": "Wis. Stat. ch. 943",
+   "title": "Wisconsin Statutes, Chapter 943: Crimes against property",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/943",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 87,
+     "source_url": "https://web.archive.org/web/20261030052532/https://docs.legis.wisconsin.gov/statutes/statutes/943.pdf",
+     "sha256": "15abeea9e2fa2d7443a034ae612ef9cf29ee6328cf220676e2c6f909f422e7bc"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0944",
+   "short": "Wis. Stat. ch. 944",
+   "title": "Wisconsin Statutes, Chapter 944: Crimes against sexual morality",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/944",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20261022062543/https://docs.legis.wisconsin.gov/statutes/statutes/944.pdf",
+     "sha256": "440aee542c86a6657604a91ae8cb7ce8dbc203b560d27933859d9703ae31c0d6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0945",
+   "short": "Wis. Stat. ch. 945",
+   "title": "Wisconsin Statutes, Chapter 945: Gambling",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/945",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20250319134613/https://docs.legis.wisconsin.gov/statutes/statutes/945.pdf",
+     "sha256": "b66028cf3cb5aee075649ed4fb0eed2962524015a7c1c7fce83c257e331b2a5a"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0946",
+   "short": "Wis. Stat. ch. 946",
+   "title": "Wisconsin Statutes, Chapter 946: Crimes against government and its administration",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/946",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 62,
+     "source_url": "https://web.archive.org/web/20261021122225/https://docs.legis.wisconsin.gov/statutes/statutes/946.pdf",
+     "sha256": "e49883775fb0d7fa953b415c68b028826d5cd13baacfc0bb77fdcc9346edc51f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0947",
+   "short": "Wis. Stat. ch. 947",
+   "title": "Wisconsin Statutes, Chapter 947: Crimes against public peace, order and other interests",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/947",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260611134454/https://docs.legis.wisconsin.gov/statutes/statutes/947.pdf",
+     "sha256": "8e125593f2fc5dd0a269e9dafca39c389a05c14922f7070f3ffcbf18f5837427"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0948",
+   "short": "Wis. Stat. ch. 948",
+   "title": "Wisconsin Statutes, Chapter 948: Crimes against children",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/948",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 47,
+     "source_url": "https://web.archive.org/web/20261024235711/https://docs.legis.wisconsin.gov/statutes/statutes/948.pdf",
+     "sha256": "cc8163862442629a48d3eac94bb220be7f35d712d4550a1530bf180fa0b66bad"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0949",
+   "short": "Wis. Stat. ch. 949",
+   "title": "Wisconsin Statutes, Chapter 949: Awards for the victims of crimes",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/949",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 33,
+     "source_url": "https://web.archive.org/web/20261022150835/https://docs.legis.wisconsin.gov/statutes/statutes/949.pdf",
+     "sha256": "22aa313b42b1d914b41c191479e4c9c249e95ed76260750b0f33494e4a1ef640"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0950",
+   "short": "Wis. Stat. ch. 950",
+   "title": "Wisconsin Statutes, Chapter 950: Rights of victims and witnesses of crime",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/950",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20261029030122/https://docs.legis.wisconsin.gov/statutes/statutes/950.pdf",
+     "sha256": "e0f3a1185f17546c5602a7f0147311afeb9a043ed8405a880b6c83bb58e55af1"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0951",
+   "short": "Wis. Stat. ch. 951",
+   "title": "Wisconsin Statutes, Chapter 951: Crimes against animals",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/951",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20261023141518/https://docs.legis.wisconsin.gov/statutes/statutes/951.pdf",
+     "sha256": "3833cae68af89dfc8ff8632fc2477297a7f09f302b6b5bf3c66275ec5adbdfcb"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0961",
+   "short": "Wis. Stat. ch. 961",
+   "title": "Wisconsin Statutes, Chapter 961: Uniform controlled substances act",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/961",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 71,
+     "source_url": "https://web.archive.org/web/20261022061057/https://docs.legis.wisconsin.gov/statutes/statutes/961.pdf",
+     "sha256": "4a60c8fb9ea94be92eb722f163c6354ff12342844df8efe36f32ae2a15099cc8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0967",
+   "short": "Wis. Stat. ch. 967",
+   "title": "Wisconsin Statutes, Chapter 967: Criminal procedure - general provisions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/967",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20261021065606/https://docs.legis.wisconsin.gov/statutes/statutes/967.pdf",
+     "sha256": "ce380dfe70c2c4d20e029645e7cef1de357242ff3960b859ff7bc5f0e2c11c70"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0968",
+   "short": "Wis. Stat. ch. 968",
+   "title": "Wisconsin Statutes, Chapter 968: Commencement of criminal proceedings",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/968",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 63,
+     "source_url": "https://web.archive.org/web/20251214155257/https://docs.legis.wisconsin.gov/statutes/statutes/968.pdf",
+     "sha256": "6d36559b0c724a486c6ef206142b8e3e8e5bdd702815831af00018ca8b653245"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0969",
+   "short": "Wis. Stat. ch. 969",
+   "title": "Wisconsin Statutes, Chapter 969: Bail and other conditions of release",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/969",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260421074703/https://docs.legis.wisconsin.gov/statutes/statutes/969.pdf",
+     "sha256": "84c9c64e5d75f04752cefe4def69e14ca848f02c5c4abd5b5b98334e3f10c7d7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0970",
+   "short": "Wis. Stat. ch. 970",
+   "title": "Wisconsin Statutes, Chapter 970: Criminal procedure - preliminary proceedings",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/970",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261018033712/https://docs.legis.wisconsin.gov/statutes/statutes/970.pdf",
+     "sha256": "ba4a13c15690b935b50e0ee04aeaf89cf07a81f15c4bb896ce17b7efeaabe253"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0971",
+   "short": "Wis. Stat. ch. 971",
+   "title": "Wisconsin Statutes, Chapter 971: Criminal procedure - proceedings before and at trial",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/971",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 53,
+     "source_url": "https://web.archive.org/web/20261029173315/https://docs.legis.wisconsin.gov/statutes/statutes/971.pdf",
+     "sha256": "f57611a06ca7a3801251810c3847369b411a0d266ddc9096f0fb995f246ff719"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0972",
+   "short": "Wis. Stat. ch. 972",
+   "title": "Wisconsin Statutes, Chapter 972: Criminal trials",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/972",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260515024045/https://docs.legis.wisconsin.gov/statutes/statutes/972.pdf",
+     "sha256": "136306eda30f6595f7da9592880f805a06d79e35ebb0846cdc0089ac6aa6b4e9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0973",
+   "short": "Wis. Stat. ch. 973",
+   "title": "Wisconsin Statutes, Chapter 973: Sentencing",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/973",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 50,
+     "source_url": "https://web.archive.org/web/20261023102128/https://docs.legis.wisconsin.gov/statutes/statutes/973.pdf",
+     "sha256": "6f1eff27de37a9ad9b81e2d18720bce9fd4fef8b39c28b7ee8ffef80c83e04af"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0974",
+   "short": "Wis. Stat. ch. 974",
+   "title": "Wisconsin Statutes, Chapter 974: Criminal procedure - appeals, new trials and writs of error",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/974",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20261020171214/https://docs.legis.wisconsin.gov/statutes/statutes/974.pdf",
+     "sha256": "c42837735a0894326bc3ff17adba85b167acd05fddec0befdb74f138e4cbdaa4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0975",
+   "short": "Wis. Stat. ch. 975",
+   "title": "Wisconsin Statutes, Chapter 975: Sex crimes law",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/975",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20261021035512/https://docs.legis.wisconsin.gov/statutes/statutes/975.pdf",
+     "sha256": "cf82badd0063de3d4681cc15dcad88666e083ba7c67e1028903ebcfbda6de878"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0976",
+   "short": "Wis. Stat. ch. 976",
+   "title": "Wisconsin Statutes, Chapter 976: Uniform acts in criminal proceedings",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/976",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261031072453/https://docs.legis.wisconsin.gov/statutes/statutes/976.pdf",
+     "sha256": "68b54362794b0ecb701948d75778e8b5471e6bc703b500497dcaf1d6a14487c9"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0977",
+   "short": "Wis. Stat. ch. 977",
+   "title": "Wisconsin Statutes, Chapter 977: State public defender",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/977",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20261020184328/https://docs.legis.wisconsin.gov/statutes/statutes/977.pdf",
+     "sha256": "39232a7c109f3d5abdc16931e7452a80db42ac87d3ef3eafa1fe77e0724fe4be"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0978",
+   "short": "Wis. Stat. ch. 978",
+   "title": "Wisconsin Statutes, Chapter 978: District attorneys",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/978",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20261030232250/https://docs.legis.wisconsin.gov/statutes/statutes/978.pdf",
+     "sha256": "fe864a7c9fa9bab6df5e7442ccd2fc0afcfdf839c6e953d6788407ef112fcab0"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0979",
+   "short": "Wis. Stat. ch. 979",
+   "title": "Wisconsin Statutes, Chapter 979: Investigation of deaths",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/979",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20261020193810/https://docs.legis.wisconsin.gov/statutes/statutes/979.pdf",
+     "sha256": "19d632cd0e9a121e4028afd7565d226e930d8c927ee89e2b84c3633f2508b36c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0980",
+   "short": "Wis. Stat. ch. 980",
+   "title": "Wisconsin Statutes, Chapter 980: Sexually violent person commitments",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/980",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 26,
+     "source_url": "https://web.archive.org/web/20261029010530/https://docs.legis.wisconsin.gov/statutes/statutes/980.pdf",
+     "sha256": "5301535e0dd9a0622dd3f0e9fb1c65e98d338aa0f432854e9892c82a296716d3"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0985",
+   "short": "Wis. Stat. ch. 985",
+   "title": "Wisconsin Statutes, Chapter 985: Publication of legal notices; public newspapers; fees",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/985",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20261018125801/https://docs.legis.wisconsin.gov/statutes/statutes/985.pdf",
+     "sha256": "6643c9ba90d84f7afc9eb05b681e4bd3bc653eea62cbbc2c1f1ae528ea4c8da4"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0990",
+   "short": "Wis. Stat. ch. 990",
+   "title": "Wisconsin Statutes, Chapter 990: Construction of statutes",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/990",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261022082559/https://docs.legis.wisconsin.gov/statutes/statutes/990.pdf",
+     "sha256": "07dabdb19d57ff6e3146f383879abba8ad3d500bcae8b602ae28975252ab37db"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0991",
+   "short": "Wis. Stat. ch. 991",
+   "title": "Wisconsin Statutes, Chapter 991: Acts and statutes - effective date, numbering, citation and repeal",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/991",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 10,
+     "source_url": "https://web.archive.org/web/20250703150503/https://docs.legis.wisconsin.gov/statutes/statutes/991.pdf",
+     "sha256": "849b1c4d6b8b37b8b6ad44bff43c90a4bf0b17f2fb15f2a3ba8d1334eb5dd5af"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0992",
+   "short": "Wis. Stat. ch. 992",
+   "title": "Wisconsin Statutes, Chapter 992: Curative acts",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/992",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20261016232429/https://docs.legis.wisconsin.gov/statutes/statutes/992.pdf",
+     "sha256": "b23df39b4dd99681e601e8af65b8c00a5635bae79179969324904572a92a5ca7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0995",
+   "short": "Wis. Stat. ch. 995",
+   "title": "Wisconsin Statutes, Chapter 995: Miscellaneous statutes",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/995",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20261017144444/https://docs.legis.wisconsin.gov/statutes/statutes/995.pdf",
+     "sha256": "d17d0bc83df4167ccef332b54dd5fb56c78a890d96727d5362cb3678835fe9cf"
+    }
+   ]
   }
  ]
 }

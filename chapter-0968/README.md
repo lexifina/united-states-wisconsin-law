@@ -1,0 +1,69 @@
+# Wisconsin Statutes, Chapter 968: Commencement of criminal proceedings
+
+Wis. Stat. ch. 968 · 1 versions, from 2025-11-21 (latest in force: 2025-11-21) · <https://docs.legis.wisconsin.gov/statutes/statutes/968>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Wis. Stat. § 968.01 | [sec-0968-01000.md](sec-0968-01000.md) | 0 |  |
+| Wis. Stat. § 968.02 | [sec-0968-02000.md](sec-0968-02000.md) | 0 |  |
+| Wis. Stat. § 968.03 | [sec-0968-03000.md](sec-0968-03000.md) | 0 |  |
+| Wis. Stat. § 968.04 | [sec-0968-04000.md](sec-0968-04000.md) | 0 |  |
+| Wis. Stat. § 968.05 | [sec-0968-05000.md](sec-0968-05000.md) | 0 |  |
+| Wis. Stat. § 968.06 | [sec-0968-06000.md](sec-0968-06000.md) | 0 |  |
+| Wis. Stat. § 968.07 | [sec-0968-07000.md](sec-0968-07000.md) | 0 |  |
+| Wis. Stat. § 968.073 | [sec-0968-07300.md](sec-0968-07300.md) | 0 |  |
+| Wis. Stat. § 968.075 | [sec-0968-07500.md](sec-0968-07500.md) | 0 |  |
+| Wis. Stat. § 968.08 | [sec-0968-08000.md](sec-0968-08000.md) | 0 |  |
+| Wis. Stat. § 968.085 | [sec-0968-08500.md](sec-0968-08500.md) | 0 |  |
+| Wis. Stat. § 968.09 | [sec-0968-09000.md](sec-0968-09000.md) | 0 |  |
+| Wis. Stat. § 968.10 | [sec-0968-10000.md](sec-0968-10000.md) | 0 |  |
+| Wis. Stat. § 968.11 | [sec-0968-11000.md](sec-0968-11000.md) | 0 |  |
+| Wis. Stat. § 968.12 | [sec-0968-12000.md](sec-0968-12000.md) | 0 |  |
+| Wis. Stat. § 968.13 | [sec-0968-13000.md](sec-0968-13000.md) | 0 |  |
+| Wis. Stat. § 968.135 | [sec-0968-13500.md](sec-0968-13500.md) | 0 |  |
+| Wis. Stat. § 968.14 | [sec-0968-14000.md](sec-0968-14000.md) | 0 |  |
+| Wis. Stat. § 968.15 | [sec-0968-15000.md](sec-0968-15000.md) | 0 |  |
+| Wis. Stat. § 968.16 | [sec-0968-16000.md](sec-0968-16000.md) | 0 |  |
+| Wis. Stat. § 968.17 | [sec-0968-17000.md](sec-0968-17000.md) | 0 |  |
+| Wis. Stat. § 968.18 | [sec-0968-18000.md](sec-0968-18000.md) | 0 |  |
+| Wis. Stat. § 968.19 | [sec-0968-19000.md](sec-0968-19000.md) | 0 |  |
+| Wis. Stat. § 968.20 | [sec-0968-20000.md](sec-0968-20000.md) | 0 |  |
+| Wis. Stat. § 968.205 | [sec-0968-20500.md](sec-0968-20500.md) | 0 |  |
+| Wis. Stat. § 968.21 | [sec-0968-21000.md](sec-0968-21000.md) | 0 |  |
+| Wis. Stat. § 968.22 | [sec-0968-22000.md](sec-0968-22000.md) | 0 |  |
+| Wis. Stat. § 968.23 | [sec-0968-23000.md](sec-0968-23000.md) | 0 |  |
+| Wis. Stat. § 968.24 | [sec-0968-24000.md](sec-0968-24000.md) | 0 |  |
+| Wis. Stat. § 968.25 | [sec-0968-25000.md](sec-0968-25000.md) | 0 |  |
+| Wis. Stat. § 968.255 | [sec-0968-25500.md](sec-0968-25500.md) | 0 |  |
+| Wis. Stat. § 968.256 | [sec-0968-25600.md](sec-0968-25600.md) | 0 |  |
+| Wis. Stat. § 968.26 | [sec-0968-26000.md](sec-0968-26000.md) | 0 |  |
+| Wis. Stat. § 968.265 | [sec-0968-26500.md](sec-0968-26500.md) | 0 |  |
+| Wis. Stat. § 968.27 | [sec-0968-27000.md](sec-0968-27000.md) | 0 |  |
+| Wis. Stat. § 968.28 | [sec-0968-28000.md](sec-0968-28000.md) | 0 |  |
+| Wis. Stat. § 968.29 | [sec-0968-29000.md](sec-0968-29000.md) | 0 |  |
+| Wis. Stat. § 968.30 | [sec-0968-30000.md](sec-0968-30000.md) | 0 |  |
+| Wis. Stat. § 968.31 | [sec-0968-31000.md](sec-0968-31000.md) | 0 |  |
+| Wis. Stat. § 968.32 | [sec-0968-32000.md](sec-0968-32000.md) | 0 |  |
+| Wis. Stat. § 968.33 | [sec-0968-33000.md](sec-0968-33000.md) | 0 |  |
+| Wis. Stat. § 968.34 | [sec-0968-34000.md](sec-0968-34000.md) | 0 |  |
+| Wis. Stat. § 968.35 | [sec-0968-35000.md](sec-0968-35000.md) | 0 |  |
+| Wis. Stat. § 968.36 | [sec-0968-36000.md](sec-0968-36000.md) | 0 |  |
+| Wis. Stat. § 968.37 | [sec-0968-37000.md](sec-0968-37000.md) | 0 |  |
+| Wis. Stat. § 968.373 | [sec-0968-37300.md](sec-0968-37300.md) | 0 |  |
+| Wis. Stat. § 968.375 | [sec-0968-37500.md](sec-0968-37500.md) | 0 |  |
+| Wis. Stat. § 968.38 | [sec-0968-38000.md](sec-0968-38000.md) | 0 |  |
+| Wis. Stat. § 968.40 | [sec-0968-40000.md](sec-0968-40000.md) | 0 |  |
+| Wis. Stat. § 968.41 | [sec-0968-41000.md](sec-0968-41000.md) | 0 |  |
+| Wis. Stat. § 968.42 | [sec-0968-42000.md](sec-0968-42000.md) | 0 |  |
+| Wis. Stat. § 968.43 | [sec-0968-43000.md](sec-0968-43000.md) | 0 |  |
+| Wis. Stat. § 968.44 | [sec-0968-44000.md](sec-0968-44000.md) | 0 |  |
+| Wis. Stat. § 968.45 | [sec-0968-45000.md](sec-0968-45000.md) | 0 |  |
+| Wis. Stat. § 968.46 | [sec-0968-46000.md](sec-0968-46000.md) | 0 |  |
+| Wis. Stat. § 968.47 | [sec-0968-47000.md](sec-0968-47000.md) | 0 |  |
+| Wis. Stat. § 968.48 | [sec-0968-48000.md](sec-0968-48000.md) | 0 |  |
+| Wis. Stat. § 968.49 | [sec-0968-49000.md](sec-0968-49000.md) | 0 |  |
+| Wis. Stat. § 968.50 | [sec-0968-50000.md](sec-0968-50000.md) | 0 |  |
+| Wis. Stat. § 968.505 | [sec-0968-50500.md](sec-0968-50500.md) | 0 |  |
+| Wis. Stat. § 968.51 | [sec-0968-51000.md](sec-0968-51000.md) | 0 |  |
+| Wis. Stat. § 968.52 | [sec-0968-52000.md](sec-0968-52000.md) | 0 |  |
+| Wis. Stat. § 968.53 | [sec-0968-53000.md](sec-0968-53000.md) | 0 |  |
