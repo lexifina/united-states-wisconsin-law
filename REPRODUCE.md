@@ -14,6 +14,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
+| `constitution-preamble` | Constitution of the State of Wisconsin, Preamble | 1 | 2026-08-05 to 2026-08-05 |
+| `constitution-article-01` | Constitution of the State of Wisconsin, Article 1: Declaration Of Rights | 1 | 2026-08-05 to 2026-08-05 |
+| `constitution-article-02` | Constitution of the State of Wisconsin, Article 2: Boundaries | 1 | 2026-08-05 to 2026-08-05 |
+| `constitution-article-03` | Constitution of the State of Wisconsin, Article 3: Suffrage | 1 | 2026-08-05 to 2026-08-05 |
+| `constitution-article-04` | Constitution of the State of Wisconsin, Article 4: Legislative | 1 | 2026-08-05 to 2026-08-05 |
+| `constitution-article-05` | Constitution of the State of Wisconsin, Article 5: Executive | 1 | 2026-08-05 to 2026-08-05 |
+| `constitution-article-06` | Constitution of the State of Wisconsin, Article 6: Administrative | 1 | 2026-08-05 to 2026-08-05 |
+| `constitution-article-07` | Constitution of the State of Wisconsin, Article 7: Judiciary | 1 | 2026-08-05 to 2026-08-05 |
+| `constitution-article-08` | Constitution of the State of Wisconsin, Article 8: Finance | 1 | 2026-08-05 to 2026-08-05 |
+| `constitution-article-09` | Constitution of the State of Wisconsin, Article 9: Eminent Domain And Property Of The State | 1 | 2026-08-05 to 2026-08-05 |
+| `constitution-article-10` | Constitution of the State of Wisconsin, Article 10: Education | 1 | 2026-08-05 to 2026-08-05 |
+| `constitution-article-11` | Constitution of the State of Wisconsin, Article 11: Corporations | 1 | 2026-08-05 to 2026-08-05 |
+| `constitution-article-12` | Constitution of the State of Wisconsin, Article 12: Amendments | 1 | 2026-08-05 to 2026-08-05 |
+| `constitution-article-13` | Constitution of the State of Wisconsin, Article 13: Miscellaneous Provisions | 1 | 2026-08-05 to 2026-08-05 |
+| `constitution-article-14` | Constitution of the State of Wisconsin, Article 14: Schedule | 1 | 2026-08-05 to 2026-08-05 |
 | `chapter-0001` | Wisconsin Statutes, Chapter 1: Sovereignty and jurisdiction of the state | 1 | 2026-10-01 to 2026-10-01 |
 | `chapter-0002` | Wisconsin Statutes, Chapter 2: Division of the state into counties, and their boundaries | 1 | 2026-10-01 to 2026-10-01 |
 | `chapter-0003` | Wisconsin Statutes, Chapter 3: Congressional districts | 1 | 2026-10-01 to 2026-10-01 |
@@ -257,12 +272,42 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `chapter-0346` | Wisconsin Statutes, Chapter 346: Rules of the road | 1 | 2026-03-01 to 2026-03-01 |
 | `chapter-0347` | Wisconsin Statutes, Chapter 347: Equipment of vehicles | 1 | 2026-03-01 to 2026-03-01 |
 | `chapter-0348` | Wisconsin Statutes, Chapter 348: Vehicles - size, weight and load | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0349` | Wisconsin Statutes, Chapter 349: Vehicles - powers of state and local authorities | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0350` | Wisconsin Statutes, Chapter 350: Snowmobiles | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0351` | Wisconsin Statutes, Chapter 351: Habitual traffic offenders | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0401` | Wisconsin Statutes, Chapter 401: Uniform commercial code - general provisions | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0402` | Wisconsin Statutes, Chapter 402: Uniform commercial code - sales | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0403` | Wisconsin Statutes, Chapter 403: Uniform commercial code - negotiable instruments | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0404` | Wisconsin Statutes, Chapter 404: Uniform commercial code - bank deposits and collections | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0405` | Wisconsin Statutes, Chapter 405: Uniform commercial code - letters of credit | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0407` | Wisconsin Statutes, Chapter 407: Uniform commercial code - documents of title | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0408` | Wisconsin Statutes, Chapter 408: Uniform commercial code - investment securities | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0409` | Wisconsin Statutes, Chapter 409: Uniform commercial code - secured transactions | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0410` | Wisconsin Statutes, Chapter 410: Uniform commercial code - funds transfers | 1 | 2025-12-19 to 2025-12-19 |
+| `chapter-0411` | Wisconsin Statutes, Chapter 411: Uniform commercial code - leases | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0421` | Wisconsin Statutes, Chapter 421: Consumer transactions - general provisions and definitions | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0422` | Wisconsin Statutes, Chapter 422: Consumer credit transactions | 1 | 2025-07-08 to 2025-07-08 |
+| `chapter-0423` | Wisconsin Statutes, Chapter 423: Consumer approval transactions and other consumer rights | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0424` | Wisconsin Statutes, Chapter 424: Consumer transactions - insurance | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0425` | Wisconsin Statutes, Chapter 425: Consumer transactions - remedies and penalties | 1 | 2025-11-01 to 2025-11-01 |
+| `chapter-0426` | Wisconsin Statutes, Chapter 426: Consumer transactions - administration | 1 | 2026-03-01 to 2026-03-01 |
+| `chapter-0427` | Wisconsin Statutes, Chapter 427: Consumer transactions - debt collection | 1 | 2026-08-05 to 2026-08-05 |
+| `chapter-0428` | Wisconsin Statutes, Chapter 428: First lien real estate and other mortgage loans | 1 | 2026-05-13 to 2026-05-13 |
+| `chapter-0429` | Wisconsin Statutes, Chapter 429: Motor vehicle consumer leases | 1 | 2026-01-30 to 2026-01-30 |
+| `chapter-0440` | Wisconsin Statutes, Chapter 440: Department of safety and professional services | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0441` | Wisconsin Statutes, Chapter 441: Board of nursing | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0442` | Wisconsin Statutes, Chapter 442: Accounting examining board | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0443` | Wisconsin Statutes, Chapter 443: Examining board of architects, landscape architects, professional engineers, designers, professional land surveyors, and registered interior designers | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0444` | Wisconsin Statutes, Chapter 444: Regulation of unarmed combat sports | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0445` | Wisconsin Statutes, Chapter 445: Funeral directors | 1 | 2026-10-01 to 2026-10-01 |
+| `chapter-0446` | Wisconsin Statutes, Chapter 446: Chiropractic examining board | 1 | 2026-06-19 to 2026-06-19 |
+| `chapter-0447` | Wisconsin Statutes, Chapter 447: Dentistry and dental hygiene | 1 | 2026-10-01 to 2026-10-01 |
 
-The build made 247 commits:
+The build made 292 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 243 | first version of an act |
+| 288 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -270,7 +315,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 243 tags.
+- 288 tags.
 
 ## Dates
 
@@ -282,7 +327,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `cd94e38e9d007a97b15f033da0977634fb3258838465f9dd4561328e83381beb` (43551221 bytes).
+- Corpus: sha256 `8fb935388c2c0699c06abdbe24c9aa0b97cc89c718cd592b95e62d7847e27e6f` (46108651 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

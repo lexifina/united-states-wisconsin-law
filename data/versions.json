@@ -2,6 +2,216 @@
  "country": "US-WI",
  "acts": [
   {
+   "slug": "constitution-preamble",
+   "short": "Wis. Const. preamble",
+   "title": "Constitution of the State of Wisconsin, Preamble",
+   "url": "https://docs.legis.wisconsin.gov/constitution/wi",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20261020085037/https://docs.legis.wisconsin.gov/constitution/wi.pdf",
+     "sha256": "a215469ce22e1de9bcac1094e84c8e6cfa12a1a15add850f663ff1f564e94370"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-01",
+   "short": "Wis. Const. art. 1",
+   "title": "Constitution of the State of Wisconsin, Article 1: Declaration Of Rights",
+   "url": "https://docs.legis.wisconsin.gov/constitution/wi",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 27,
+     "source_url": "https://web.archive.org/web/20261020085037/https://docs.legis.wisconsin.gov/constitution/wi.pdf",
+     "sha256": "a215469ce22e1de9bcac1094e84c8e6cfa12a1a15add850f663ff1f564e94370"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-02",
+   "short": "Wis. Const. art. 2",
+   "title": "Constitution of the State of Wisconsin, Article 2: Boundaries",
+   "url": "https://docs.legis.wisconsin.gov/constitution/wi",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20261020085037/https://docs.legis.wisconsin.gov/constitution/wi.pdf",
+     "sha256": "a215469ce22e1de9bcac1094e84c8e6cfa12a1a15add850f663ff1f564e94370"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-03",
+   "short": "Wis. Const. art. 3",
+   "title": "Constitution of the State of Wisconsin, Article 3: Suffrage",
+   "url": "https://docs.legis.wisconsin.gov/constitution/wi",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261020085037/https://docs.legis.wisconsin.gov/constitution/wi.pdf",
+     "sha256": "a215469ce22e1de9bcac1094e84c8e6cfa12a1a15add850f663ff1f564e94370"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-04",
+   "short": "Wis. Const. art. 4",
+   "title": "Constitution of the State of Wisconsin, Article 4: Legislative",
+   "url": "https://docs.legis.wisconsin.gov/constitution/wi",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 35,
+     "source_url": "https://web.archive.org/web/20261020085037/https://docs.legis.wisconsin.gov/constitution/wi.pdf",
+     "sha256": "a215469ce22e1de9bcac1094e84c8e6cfa12a1a15add850f663ff1f564e94370"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-05",
+   "short": "Wis. Const. art. 5",
+   "title": "Constitution of the State of Wisconsin, Article 5: Executive",
+   "url": "https://docs.legis.wisconsin.gov/constitution/wi",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261020085037/https://docs.legis.wisconsin.gov/constitution/wi.pdf",
+     "sha256": "a215469ce22e1de9bcac1094e84c8e6cfa12a1a15add850f663ff1f564e94370"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-06",
+   "short": "Wis. Const. art. 6",
+   "title": "Constitution of the State of Wisconsin, Article 6: Administrative",
+   "url": "https://docs.legis.wisconsin.gov/constitution/wi",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 7,
+     "source_url": "https://web.archive.org/web/20261020085037/https://docs.legis.wisconsin.gov/constitution/wi.pdf",
+     "sha256": "a215469ce22e1de9bcac1094e84c8e6cfa12a1a15add850f663ff1f564e94370"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-07",
+   "short": "Wis. Const. art. 7",
+   "title": "Constitution of the State of Wisconsin, Article 7: Judiciary",
+   "url": "https://docs.legis.wisconsin.gov/constitution/wi",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20261020085037/https://docs.legis.wisconsin.gov/constitution/wi.pdf",
+     "sha256": "a215469ce22e1de9bcac1094e84c8e6cfa12a1a15add850f663ff1f564e94370"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-08",
+   "short": "Wis. Const. art. 8",
+   "title": "Constitution of the State of Wisconsin, Article 8: Finance",
+   "url": "https://docs.legis.wisconsin.gov/constitution/wi",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20261020085037/https://docs.legis.wisconsin.gov/constitution/wi.pdf",
+     "sha256": "a215469ce22e1de9bcac1094e84c8e6cfa12a1a15add850f663ff1f564e94370"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-09",
+   "short": "Wis. Const. art. 9",
+   "title": "Constitution of the State of Wisconsin, Article 9: Eminent Domain And Property Of The State",
+   "url": "https://docs.legis.wisconsin.gov/constitution/wi",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20261020085037/https://docs.legis.wisconsin.gov/constitution/wi.pdf",
+     "sha256": "a215469ce22e1de9bcac1094e84c8e6cfa12a1a15add850f663ff1f564e94370"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-10",
+   "short": "Wis. Const. art. 10",
+   "title": "Constitution of the State of Wisconsin, Article 10: Education",
+   "url": "https://docs.legis.wisconsin.gov/constitution/wi",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20261020085037/https://docs.legis.wisconsin.gov/constitution/wi.pdf",
+     "sha256": "a215469ce22e1de9bcac1094e84c8e6cfa12a1a15add850f663ff1f564e94370"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-11",
+   "short": "Wis. Const. art. 11",
+   "title": "Constitution of the State of Wisconsin, Article 11: Corporations",
+   "url": "https://docs.legis.wisconsin.gov/constitution/wi",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20261020085037/https://docs.legis.wisconsin.gov/constitution/wi.pdf",
+     "sha256": "a215469ce22e1de9bcac1094e84c8e6cfa12a1a15add850f663ff1f564e94370"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-12",
+   "short": "Wis. Const. art. 12",
+   "title": "Constitution of the State of Wisconsin, Article 12: Amendments",
+   "url": "https://docs.legis.wisconsin.gov/constitution/wi",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20261020085037/https://docs.legis.wisconsin.gov/constitution/wi.pdf",
+     "sha256": "a215469ce22e1de9bcac1094e84c8e6cfa12a1a15add850f663ff1f564e94370"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-13",
+   "short": "Wis. Const. art. 13",
+   "title": "Constitution of the State of Wisconsin, Article 13: Miscellaneous Provisions",
+   "url": "https://docs.legis.wisconsin.gov/constitution/wi",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20261020085037/https://docs.legis.wisconsin.gov/constitution/wi.pdf",
+     "sha256": "a215469ce22e1de9bcac1094e84c8e6cfa12a1a15add850f663ff1f564e94370"
+    }
+   ]
+  },
+  {
+   "slug": "constitution-article-14",
+   "short": "Wis. Const. art. 14",
+   "title": "Constitution of the State of Wisconsin, Article 14: Schedule",
+   "url": "https://docs.legis.wisconsin.gov/constitution/wi",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20261020085037/https://docs.legis.wisconsin.gov/constitution/wi.pdf",
+     "sha256": "a215469ce22e1de9bcac1094e84c8e6cfa12a1a15add850f663ff1f564e94370"
+    }
+   ]
+  },
+  {
    "slug": "chapter-0001",
    "short": "Wis. Stat. ch. 1",
    "title": "Wisconsin Statutes, Chapter 1: Sovereignty and jurisdiction of the state",
@@ -3400,6 +3610,426 @@
      "units": 27,
      "source_url": "https://web.archive.org/web/20261025114020/https://docs.legis.wisconsin.gov/statutes/statutes/348.pdf",
      "sha256": "ef770541c310f172d7ce08abd84262351d7fd057e2bd8cb3f7330318a711eda8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0349",
+   "short": "Wis. Stat. ch. 349",
+   "title": "Wisconsin Statutes, Chapter 349: Vehicles - powers of state and local authorities",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/349",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20261017115029/https://docs.legis.wisconsin.gov/statutes/statutes/349.pdf",
+     "sha256": "17cb6bf998a475fdc9086daa86c29ee0dbe0a508852c71f6cee3437589ec307d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0350",
+   "short": "Wis. Stat. ch. 350",
+   "title": "Wisconsin Statutes, Chapter 350: Snowmobiles",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/350",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 42,
+     "source_url": "https://web.archive.org/web/20260210203629/https://docs.legis.wisconsin.gov/statutes/statutes/350.pdf",
+     "sha256": "c0c9013e8fc0632969009e8a009353423c27efb8852588079236f656ce7dbe0c"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0351",
+   "short": "Wis. Stat. ch. 351",
+   "title": "Wisconsin Statutes, Chapter 351: Habitual traffic offenders",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/351",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20261023183207/https://docs.legis.wisconsin.gov/statutes/statutes/351.pdf",
+     "sha256": "38dd17f66a53750fea1684b729c03b1dddc006c3678ec41d2dc69f6d9fe19e35"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0401",
+   "short": "Wis. Stat. ch. 401",
+   "title": "Wisconsin Statutes, Chapter 401: Uniform commercial code - general provisions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/401",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 21,
+     "source_url": "https://web.archive.org/web/20261023024639/https://docs.legis.wisconsin.gov/statutes/statutes/401.pdf",
+     "sha256": "f81223ffd9ea4a0cf97173d10671a0f6f38f74f6783f87bbf0a171d51f58bb9d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0402",
+   "short": "Wis. Stat. ch. 402",
+   "title": "Wisconsin Statutes, Chapter 402: Uniform commercial code - sales",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/402",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 104,
+     "source_url": "https://web.archive.org/web/20261018002951/https://docs.legis.wisconsin.gov/statutes/statutes/402.pdf",
+     "sha256": "7577e88917458326103c67f2cd8d9879c84983cf5576200fef041e93c702da12"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0403",
+   "short": "Wis. Stat. ch. 403",
+   "title": "Wisconsin Statutes, Chapter 403: Uniform commercial code - negotiable instruments",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/403",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 67,
+     "source_url": "https://web.archive.org/web/20261018044618/https://docs.legis.wisconsin.gov/statutes/statutes/403.pdf",
+     "sha256": "60dc53501e10b6a45a1d678d9f94abed580f050c5b68d54e3618776905f166fa"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0404",
+   "short": "Wis. Stat. ch. 404",
+   "title": "Wisconsin Statutes, Chapter 404: Uniform commercial code - bank deposits and collections",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/404",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 40,
+     "source_url": "https://web.archive.org/web/20261029224801/https://docs.legis.wisconsin.gov/statutes/statutes/404.pdf",
+     "sha256": "4d98a64496653eeaa12166d148888b19af97c3ab1459df4cccfa8a9f347c8df6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0405",
+   "short": "Wis. Stat. ch. 405",
+   "title": "Wisconsin Statutes, Chapter 405: Uniform commercial code - letters of credit",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/405",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20261017150330/https://docs.legis.wisconsin.gov/statutes/statutes/405.pdf",
+     "sha256": "6a4a0bfd6880d10c047b8007e19b48fa7083993c7f8bee039dc576501680a909"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0407",
+   "short": "Wis. Stat. ch. 407",
+   "title": "Wisconsin Statutes, Chapter 407: Uniform commercial code - documents of title",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/407",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 41,
+     "source_url": "https://web.archive.org/web/20261025154844/https://docs.legis.wisconsin.gov/statutes/statutes/407.pdf",
+     "sha256": "126ee7bd747219a5e94c54121de2310c9282fbc5eacc9df564aaa2a98dd15559"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0408",
+   "short": "Wis. Stat. ch. 408",
+   "title": "Wisconsin Statutes, Chapter 408: Uniform commercial code - investment securities",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/408",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 52,
+     "source_url": "https://web.archive.org/web/20261022182755/https://docs.legis.wisconsin.gov/statutes/statutes/408.pdf",
+     "sha256": "7ae53ccdddf0367fd02575aca27fd654465a985ea63fd4d7a9f988a6438cd27d"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0409",
+   "short": "Wis. Stat. ch. 409",
+   "title": "Wisconsin Statutes, Chapter 409: Uniform commercial code - secured transactions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/409",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 146,
+     "source_url": "https://web.archive.org/web/20261023110425/https://docs.legis.wisconsin.gov/statutes/statutes/409.pdf",
+     "sha256": "a8595abad59441aa5edb3590aa3e8cdf9563a0f69717639bbdd62909eb5727b8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0410",
+   "short": "Wis. Stat. ch. 410",
+   "title": "Wisconsin Statutes, Chapter 410: Uniform commercial code - funds transfers",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/410",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 38,
+     "source_url": "https://web.archive.org/web/20260120183144/https://docs.legis.wisconsin.gov/statutes/statutes/410.pdf",
+     "sha256": "cb9e1930b2b60b1a68ed13ea03e366a3e307877ebf9438b77f585f9091b53949"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0411",
+   "short": "Wis. Stat. ch. 411",
+   "title": "Wisconsin Statutes, Chapter 411: Uniform commercial code - leases",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/411",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 81,
+     "source_url": "https://web.archive.org/web/20261027132653/https://docs.legis.wisconsin.gov/statutes/statutes/411.pdf",
+     "sha256": "c3e45f7321482eca42d4f2fe60794d827805a5ef518f7fc25fa8e652b0a6db09"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0421",
+   "short": "Wis. Stat. ch. 421",
+   "title": "Wisconsin Statutes, Chapter 421: Consumer transactions - general provisions and definitions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/421",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20261026101616/https://docs.legis.wisconsin.gov/statutes/statutes/421.pdf",
+     "sha256": "23e09220e818b41d97f8fbb0bbf5ee07fd590f5566badc597ca10a0e4f9940b8"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0422",
+   "short": "Wis. Stat. ch. 422",
+   "title": "Wisconsin Statutes, Chapter 422: Consumer credit transactions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/422",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 49,
+     "source_url": "https://web.archive.org/web/20250715124550/https://docs.legis.wisconsin.gov/statutes/statutes/422.pdf",
+     "sha256": "ccdaf91019b25f8347cbebdf955dbce28d2a46169937f730fed4fa9e6b7cfcd5"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0423",
+   "short": "Wis. Stat. ch. 423",
+   "title": "Wisconsin Statutes, Chapter 423: Consumer approval transactions and other consumer rights",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/423",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20261020010912/https://docs.legis.wisconsin.gov/statutes/statutes/423.pdf",
+     "sha256": "e3b3dafca526ae8d276b207abaec665cb562dac90bbfbe1b1bc2e459f8156d72"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0424",
+   "short": "Wis. Stat. ch. 424",
+   "title": "Wisconsin Statutes, Chapter 424: Consumer transactions - insurance",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/424",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 22,
+     "source_url": "https://web.archive.org/web/20261020074629/https://docs.legis.wisconsin.gov/statutes/statutes/424.pdf",
+     "sha256": "7ad496cd04c055fe93c10160cf3abc8d23d8a2d9d2f2bfa53b48949233d87138"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0425",
+   "short": "Wis. Stat. ch. 425",
+   "title": "Wisconsin Statutes, Chapter 425: Consumer transactions - remedies and penalties",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/425",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 37,
+     "source_url": "https://web.archive.org/web/20251115145613/https://docs.legis.wisconsin.gov/statutes/statutes/425.pdf",
+     "sha256": "bcc751f63acc5c13f7e44095c04a6ccf96095a5105c602bb2d174fbd6ffb32a7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0426",
+   "short": "Wis. Stat. ch. 426",
+   "title": "Wisconsin Statutes, Chapter 426: Consumer transactions - administration",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/426",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20260309211341/https://docs.legis.wisconsin.gov/statutes/statutes/426.pdf",
+     "sha256": "e7c8b4a7f63e4e130f7575ee4f504824d7cfb8f0d7c0fd8bcc44b40755f0dadd"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0427",
+   "short": "Wis. Stat. ch. 427",
+   "title": "Wisconsin Statutes, Chapter 427: Consumer transactions - debt collection",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/427",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20260807115341/https://docs.legis.wisconsin.gov/statutes/statutes/427.pdf",
+     "sha256": "6205e88ffccd58cbfda68e21e25ac7607ccd1969c62387371d80e3e1f6e9e1a7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0428",
+   "short": "Wis. Stat. ch. 428",
+   "title": "Wisconsin Statutes, Chapter 428: First lien real estate and other mortgage loans",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/428",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20260518122547/https://docs.legis.wisconsin.gov/statutes/statutes/428.pdf",
+     "sha256": "4742f8d196d57a27ad12d08ba38265487f447d3c1b932434a8f29f1d2f30fb10"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0429",
+   "short": "Wis. Stat. ch. 429",
+   "title": "Wisconsin Statutes, Chapter 429: Motor vehicle consumer leases",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/429",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20260216082402/https://docs.legis.wisconsin.gov/statutes/statutes/429.pdf",
+     "sha256": "52659d4352cda8cf52936262fbd5d548b99b4c54e951db8b5f0045482e2ad074"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0440",
+   "short": "Wis. Stat. ch. 440",
+   "title": "Wisconsin Statutes, Chapter 440: Department of safety and professional services",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/440",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 134,
+     "source_url": "https://web.archive.org/web/20261022063252/https://docs.legis.wisconsin.gov/statutes/statutes/440.pdf",
+     "sha256": "705a478458813a222810030bab13c85fb9f75aa187a97ff453ca87321bd5164f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0441",
+   "short": "Wis. Stat. ch. 441",
+   "title": "Wisconsin Statutes, Chapter 441: Board of nursing",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/441",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20261009002418/https://docs.legis.wisconsin.gov/statutes/statutes/441.pdf",
+     "sha256": "b23fb21afa395b686d06d3de2919dae7043e5be50795eaee221425466f61f4e2"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0442",
+   "short": "Wis. Stat. ch. 442",
+   "title": "Wisconsin Statutes, Chapter 442: Accounting examining board",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/442",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20261102075939/https://docs.legis.wisconsin.gov/statutes/statutes/442.pdf",
+     "sha256": "433891f2e2098216b6835d79b6546abdf71781198686a53c5ab1a78014c263c7"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0443",
+   "short": "Wis. Stat. ch. 443",
+   "title": "Wisconsin Statutes, Chapter 443: Examining board of architects, landscape architects, professional engineers, designers, professional land surveyors, and registered interior designers",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/443",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 24,
+     "source_url": "https://web.archive.org/web/20261017152613/https://docs.legis.wisconsin.gov/statutes/statutes/443.pdf",
+     "sha256": "3ebf202f9c0a5d71cbf1df3c1fc8a5873a618a546e5c688881f50f22f3afac34"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0444",
+   "short": "Wis. Stat. ch. 444",
+   "title": "Wisconsin Statutes, Chapter 444: Regulation of unarmed combat sports",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/444",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20261022233817/https://docs.legis.wisconsin.gov/statutes/statutes/444.pdf",
+     "sha256": "5f0d7bec0838a3e55423caa62e5d885f635178c2b34fb2295fbfee72ce3f617f"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0445",
+   "short": "Wis. Stat. ch. 445",
+   "title": "Wisconsin Statutes, Chapter 445: Funeral directors",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/445",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20261029164440/https://docs.legis.wisconsin.gov/statutes/statutes/445.pdf",
+     "sha256": "1bc5200658255a1a75a6635496637ca152e5759bdb29ab3d035c4f9773d589f6"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0446",
+   "short": "Wis. Stat. ch. 446",
+   "title": "Wisconsin Statutes, Chapter 446: Chiropractic examining board",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/446",
+   "versions": [
+    {
+     "from": "2026-06-19",
+     "units": 11,
+     "source_url": "https://web.archive.org/web/20260619212232/https://docs.legis.wisconsin.gov/statutes/statutes/446.pdf",
+     "sha256": "d5516122d42d25f91a6e7e73e1eb27e55119d0f0b23f35d4f0f9f993441f0686"
+    }
+   ]
+  },
+  {
+   "slug": "chapter-0447",
+   "short": "Wis. Stat. ch. 447",
+   "title": "Wisconsin Statutes, Chapter 447: Dentistry and dental hygiene",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/447",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 36,
+     "source_url": "https://web.archive.org/web/20261022181602/https://docs.legis.wisconsin.gov/statutes/statutes/447.pdf",
+     "sha256": "7b052c3af16d165875f62bde38765aabdaa827fce65518ce40d61244a404cb6c"
     }
    ]
   }
